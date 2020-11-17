@@ -33,10 +33,10 @@ publishDir = "docs"
     name = "Tags"
     pre = "tag"
     url = "/tags/"
-    weight = 3
+    weight = 4
   [[menu.main]]
     name = "Hugo Tips"
     pre = "paperclip"
     url = "/hugotips/"
-    weight = 4
+    weight = 3
 

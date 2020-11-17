@@ -1,5 +1,5 @@
 ---
-title:  "0731 Hugo front matter"
+title:  "0731 | Hugo front matter"
 date:  "2020-11-11T09:14:00"
 author:  "nigel"
 authorTwitter:  "fred" #do not include @

@@ -1,5 +1,5 @@
 ---
-title:  "0730 windows 2020 h2 update completed"
+title:  "0730 | windows 2020 h2 update completed"
 date:  "2020-11-11T09:00:00"
 author:  "Nigel"
 authorTwitter:  "" #do not include @

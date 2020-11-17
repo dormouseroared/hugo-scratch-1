@@ -1,5 +1,5 @@
 ---
-title:  "0732 Hugo Taxonomies Author"
+title:  "0732 | Hugo Taxonomies Author"
 date:  "2020-11-12T17:32:00"
 author:  "Nigel"
 authorTwitter:  "" #do not include @

@@ -1,5 +1,5 @@
 ---
-title: "0735 Publish Hugo Website on Github"
+title: "0735 | Publish Hugo Website on Github"
 date: 2020-11-14T23:56:16Z
 tags: ["green", "git", "github", "hugo", "publish", "GeekLaunch", "youtube"]
 draft: false

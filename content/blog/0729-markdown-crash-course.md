@@ -1,5 +1,5 @@
 ---
-title:  "0729 markdown crash course"
+title:  "0729 | markdown crash course"
 date:  "2020-11-10T18:37:00"
 author:  "Nigel"
 authorTwitter:  "" #do not include @

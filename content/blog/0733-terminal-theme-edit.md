@@ -1,5 +1,5 @@
 ---
-title:  "0733 Hugo Terminal theme edit"
+title:  "0733 | Hugo Terminal theme edit"
 date:  "2020-11-13T17:00:00"
 author:  "Nigel"
 authorTwitter:  "" #do not include @
