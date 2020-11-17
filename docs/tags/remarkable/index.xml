@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>remarkable on green | hugo-scratch-1</title>
+    <link>/tags/remarkable/</link>
+    <description>Recent content in remarkable on green | hugo-scratch-1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/remarkable/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>remarkable is being tried out as a markdown editor</title>
+      <link>/2020-07-01-1754-remarkable-markdown/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020-07-01-1754-remarkable-markdown/</guid>
+      <description>Remarkable Experimenting with this yay installed app, and a dropbox folder called Journal. Start with local Documents/Journal and create files with format yyyy-mm-dd-hhmm.md and then upload.
+Or with the yay dropbox app installed in the computer, the files can be edited in situ, as the dropbox folders are replicated.
+website remarkable</description>
+    </item>
+    
+  </channel>
+</rss>

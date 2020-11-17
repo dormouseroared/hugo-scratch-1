@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shortcode on green | hugo-scratch-1</title>
+    <link>/tags/shortcode/</link>
+    <description>Recent content in shortcode on green | hugo-scratch-1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Nov 2020 22:21:37 +0000</lastBuildDate><atom:link href="/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shortcode: codecaption</title>
+      <link>/hugotips/shortcode-codecaption/</link>
+      <pubDate>Sun, 15 Nov 2020 22:21:37 +0000</pubDate>
+      
+      <guid>/hugotips/shortcode-codecaption/</guid>
+      <description>Source Github repository: Hugo Shortcodes
+Searched for hugo shortcodes and found this Github repo. Copied the HTML without the comments into layouts/shortcodes/codecaption.html and then just wrap the code to be displayed in a code box as per the example.
+ There are other shortcodes to copy over.  add the double curly brackets &amp;lt; codecaption lang=&amp;quot;html&amp;quot; title=&amp;quot;Code caption shortcode&amp;quot; &amp;gt; code to be displayed in the box &amp;lt; /codecaption &amp;gt; Purpose Adds title to code blocks.</description>
+    </item>
+    
+    <item>
+      <title>Shortcode for Tweet</title>
+      <link>/hugotips/shortcode-for-tweet/</link>
+      <pubDate>Sun, 15 Nov 2020 13:31:32 +0000</pubDate>
+      
+      <guid>/hugotips/shortcode-for-tweet/</guid>
+      <description>⚡️LINK TO WATCH THE PREMIERE⚡️ of #BeaversWithoutBorders is HERE!! 🎬🦫🐾
+Click @ 19:00 TONIGHT to be the first to watch, then stay for LIVE Q&amp;amp;A with @ninaconstable &amp;amp; @sophiepavs!
+➡️ https://t.co/4CzJyCnksJ
+Register here for event details &amp;amp; reminders 🔔 https://t.co/hdVBJPp0eg pic.twitter.com/UIBX36LnTC
+&amp;mdash; Beaver Trust (@BeaverTrust) November 15, 2020   tweet about beaver film on youtube
+youtube beaver film</description>
+    </item>
+    
+    <item>
+      <title>0731 Hugo front matter</title>
+      <link>/0731-hugo-front-matter/</link>
+      <pubDate>Wed, 11 Nov 2020 09:14:00 +0000</pubDate>
+      
+      <guid>/0731-hugo-front-matter/</guid>
+      <description>Hugo Terminal Theme
+terminal A simple, retro theme for Hugo. Author: panr Minimum Hugo Version: 0.74 Updated: 2020-11-01 License: MIT Tags: blog clean customizable dark highlighting minimal monotone multilingual personal responsive simple technical retro  title date Either yyyy-mm-dd or yy-mm-ddThh-mm-ss can be used. Others may be available. A trailing Z causes the page not to be generated.
+Any error in date will mean the page is not generated with no warning at all.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/hugotips/blog-with-hugo/</loc>
+    <lastmod>2020-11-16T21:52:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-11-16T21:52:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugotips/</loc>
+    <lastmod>2020-11-16T21:52:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugotips/add-a-cms-to-hugo/</loc>
+    <lastmod>2020-11-16T21:44:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugotips/hugo-and-bootstrap/</loc>
+    <lastmod>2020-11-16T21:42:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugotips/styling-tables-with-hugo/</loc>
+    <lastmod>2020-11-16T21:39:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugotips/seo-tutorial/</loc>
+    <lastmod>2020-11-16T21:34:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugotips/hugo-tutorial/</loc>
+    <lastmod>2020-11-16T21:26:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugotips/shortcode-youtube/</loc>
+    <lastmod>2020-11-16T20:13:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0737-youtube-videos-to-watch/</loc>
+    <lastmod>2020-11-16T14:17:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2020-11-16T14:17:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/css/</loc>
+    <lastmod>2020-11-16T14:17:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/git/</loc>
+    <lastmod>2020-11-16T14:17:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/grid/</loc>
+    <lastmod>2020-11-16T14:17:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/jamstack/</loc>
+    <lastmod>2020-11-16T14:17:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-11-16T14:17:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/youtube/</loc>
+    <lastmod>2020-11-16T14:17:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0736-charity-web-sites/</loc>
+    <lastmod>2020-11-16T14:02:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/charity/</loc>
+    <lastmod>2020-11-16T14:02:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/fomf/</loc>
+    <lastmod>2020-11-16T14:02:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/code/</loc>
+    <lastmod>2020-11-15T22:21:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/shortcode/</loc>
+    <lastmod>2020-11-15T22:21:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugotips/shortcode-codecaption/</loc>
+    <lastmod>2020-11-15T22:21:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugotips/shortcode-for-tweet/</loc>
+    <lastmod>2020-11-15T13:31:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/twitter/</loc>
+    <lastmod>2020-11-15T13:31:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugotips/help/</loc>
+    <lastmod>2020-11-15T13:11:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0735-publish-hugo-website-on-github/</loc>
+    <lastmod>2020-11-14T23:56:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/geeklaunch/</loc>
+    <lastmod>2020-11-14T23:56:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/github/</loc>
+    <lastmod>2020-11-14T23:56:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/green/</loc>
+    <lastmod>2020-11-14T23:56:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2020-11-14T23:56:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/publish/</loc>
+    <lastmod>2020-11-14T23:56:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0733-terminal-theme-edit/</loc>
+    <lastmod>2020-11-13T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/edit/</loc>
+    <lastmod>2020-11-13T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/terminal-theme/</loc>
+    <lastmod>2020-11-13T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/poetry/</loc>
+    <lastmod>2020-11-13T12:16:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/trees/</loc>
+    <lastmod>2020-11-13T12:16:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/trees-by-joyce-kilmer/</loc>
+    <lastmod>2020-11-13T12:16:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/that-it-will-never-come-again-by-emily-dickinson/</loc>
+    <lastmod>2020-11-13T12:14:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/time/</loc>
+    <lastmod>2020-11-13T12:14:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/if-by-rudyard-kipling/</loc>
+    <lastmod>2020-11-13T11:57:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/life/</loc>
+    <lastmod>2020-11-13T11:57:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0732-hugo-taxonomies-author/</loc>
+    <lastmod>2020-11-12T17:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/taxonomies/</loc>
+    <lastmod>2020-11-12T17:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tutorial/</loc>
+    <lastmod>2020-11-12T17:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0731-hugo-front-matter/</loc>
+    <lastmod>2020-11-11T09:14:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/front-matter/</loc>
+    <lastmod>2020-11-11T09:14:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0730-windows-2020-h2-update/</loc>
+    <lastmod>2020-11-11T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/2020-h2/</loc>
+    <lastmod>2020-11-11T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/update/</loc>
+    <lastmod>2020-11-11T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/windows/</loc>
+    <lastmod>2020-11-11T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0729-markdown-crash-course/</loc>
+    <lastmod>2020-11-10T18:37:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/brad-traversy/</loc>
+    <lastmod>2020-11-10T18:37:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/markdown/</loc>
+    <lastmod>2020-11-10T18:37:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0728-hugo-journal/</loc>
+    <lastmod>2020-11-10T17:43:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/experiment/</loc>
+    <lastmod>2020-11-10T17:43:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/journal/</loc>
+    <lastmod>2020-11-10T17:43:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/lenovo/</loc>
+    <lastmod>2020-11-10T17:43:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0727-youtube-dl/</loc>
+    <lastmod>2020-11-10T17:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/youtube-dl/</loc>
+    <lastmod>2020-11-10T17:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0726-youtube-rss-feed/</loc>
+    <lastmod>2020-11-10T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rss/</loc>
+    <lastmod>2020-11-10T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/the-old-reader/</loc>
+    <lastmod>2020-11-10T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0725-angular-react-vue-crash-course/</loc>
+    <lastmod>2020-11-09T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/angular/</loc>
+    <lastmod>2020-11-09T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/react/</loc>
+    <lastmod>2020-11-09T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/vue/</loc>
+    <lastmod>2020-11-09T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0724-hugo-web-links/</loc>
+    <lastmod>2020-11-06T14:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/jantcu/</loc>
+    <lastmod>2020-11-06T14:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regis-philibert/</loc>
+    <lastmod>2020-11-06T14:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0723-react-fullstack-course/</loc>
+    <lastmod>2020-11-06T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0722-install-hugo-on-yellow/</loc>
+    <lastmod>2020-11-05T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/vscodium/</loc>
+    <lastmod>2020-11-05T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/yellow/</loc>
+    <lastmod>2020-11-05T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0720-hugo/</loc>
+    <lastmod>2020-10-31T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/apache2/</loc>
+    <lastmod>2020-10-31T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0719-website-deploy-to-netlify/</loc>
+    <lastmod>2020-10-31T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/form/</loc>
+    <lastmod>2020-10-31T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/html/</loc>
+    <lastmod>2020-10-31T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/netlify/</loc>
+    <lastmod>2020-10-31T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0718-pia-not-working/</loc>
+    <lastmod>2020-10-30T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dell/</loc>
+    <lastmod>2020-10-30T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pia/</loc>
+    <lastmod>2020-10-30T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/home-network/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020-07-02-hugo-home-network/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0625-hugo-intro-and-setup/</loc>
+    <lastmod>2020-07-01T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0624-static-site-generators/</loc>
+    <lastmod>2020-07-01T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0594-yay-make-config/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/makepkg/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/remarkable/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020-07-01-1754-remarkable-markdown/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/yay/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0623-hugo-terminal-theme-website/</loc>
+    <lastmod>2020-06-30T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/linux-mint/</loc>
+    <lastmod>2020-06-30T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/python-web-server/</loc>
+    <lastmod>2020-06-30T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/0622-linux-commands-to-try-out/</loc>
+    <lastmod>2020-06-30T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/linux/</loc>
+    <lastmod>2020-06-30T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/red/</loc>
+    <lastmod>2020-06-30T19:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>

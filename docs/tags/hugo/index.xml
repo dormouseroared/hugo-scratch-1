@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on green | hugo-scratch-1</title>
+    <link>/tags/hugo/</link>
+    <description>Recent content in hugo on green | hugo-scratch-1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Nov 2020 23:56:16 +0000</lastBuildDate><atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0735 Publish Hugo Website on Github</title>
+      <link>/0735-publish-hugo-website-on-github/</link>
+      <pubDate>Sat, 14 Nov 2020 23:56:16 +0000</pubDate>
+      
+      <guid>/0735-publish-hugo-website-on-github/</guid>
+      <description>GeekLaunch has a Youtube Hugo playlist (7 videos) Youtube | GeekLaunch | How to make a website and put it online 2017 Tutorial (Hugo, Linux)
+Github
+youtube shortcode   Web: Sign into github account Web: Create new repository and copy the address for the git remote add origin Terminal: navigate to green websites/hugo-harrycresswell This is where some Hugo testing is in progress.
+Terminal: git commands git init git remote add origin https://github.</description>
+    </item>
+    
+    <item>
+      <title>0733 Hugo Terminal theme edit</title>
+      <link>/0733-terminal-theme-edit/</link>
+      <pubDate>Fri, 13 Nov 2020 17:00:00 +0000</pubDate>
+      
+      <guid>/0733-terminal-theme-edit/</guid>
+      <description>code change themes &amp;gt; terminal &amp;gt; layouts &amp;gt; _default &amp;gt; index.html
+line 17
+added .ByTitle.Reverse
+ran hugo to update.
+No errors.
+Now adding some extra posts without dates eg 733 and 622.
+It didn&amp;rsquo;t work, so back to date invention.
+#Experiment?
+ It may be worth an experiment! Using the no theme setup, move the posts into there. At least with the simplified approach things can be tried out.
+  Given that a refresh is needed which wasn&amp;rsquo;t done, it may be worth repeating the exercise&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>0732 Hugo Taxonomies Author</title>
+      <link>/0732-hugo-taxonomies-author/</link>
+      <pubDate>Thu, 12 Nov 2020 17:32:00 +0000</pubDate>
+      
+      <guid>/0732-hugo-taxonomies-author/</guid>
+      <description>Source Hugo Tips: how to create author pages
+Hugo Authors example site
+Hugo searches for the layout
+Example site on netlify
+Steps Create taxonomy for Authors Add author metadata Create author templates Add authors to posts </description>
+    </item>
+    
+    <item>
+      <title>0731 Hugo front matter</title>
+      <link>/0731-hugo-front-matter/</link>
+      <pubDate>Wed, 11 Nov 2020 09:14:00 +0000</pubDate>
+      
+      <guid>/0731-hugo-front-matter/</guid>
+      <description>Hugo Terminal Theme
+terminal A simple, retro theme for Hugo. Author: panr Minimum Hugo Version: 0.74 Updated: 2020-11-01 License: MIT Tags: blog clean customizable dark highlighting minimal monotone multilingual personal responsive simple technical retro  title date Either yyyy-mm-dd or yy-mm-ddThh-mm-ss can be used. Others may be available. A trailing Z causes the page not to be generated.
+Any error in date will mean the page is not generated with no warning at all.</description>
+    </item>
+    
+    <item>
+      <title>0729 markdown crash course</title>
+      <link>/0729-markdown-crash-course/</link>
+      <pubDate>Tue, 10 Nov 2020 18:37:00 +0000</pubDate>
+      
+      <guid>/0729-markdown-crash-course/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 italic with single asterisk or use escape to show _underline_ or *asterisk*
+_italic with single underscore _
+bold with double asterisk
+bold with double underscore
+strike through
+Triple underscore or hyphen for a horizontal line
+   this is a blockquote on multiple lines
+ Markdown Crash Course
+Markdown Crash Course
+ Item one Item two Item three  Nested more nested   back to normal more   first inserted second third  inline code block &amp;lt;p&amp;gt;paragraph&amp;lt;/p&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>0728 Hugo Journal</title>
+      <link>/0728-hugo-journal/</link>
+      <pubDate>Tue, 10 Nov 2020 17:43:00 +0000</pubDate>
+      
+      <guid>/0728-hugo-journal/</guid>
+      <description>Result Success!</description>
+    </item>
+    
+    <item>
+      <title>0724 hugo web links</title>
+      <link>/0724-hugo-web-links/</link>
+      <pubDate>Fri, 06 Nov 2020 14:32:00 +0000</pubDate>
+      
+      <guid>/0724-hugo-web-links/</guid>
+      <description> Regis Philibert Manual setup of Hugo Hugo forum on sorting content Hugo website on content ordering  </description>
+    </item>
+    
+    <item>
+      <title>0722 Install Hugo on Yellow</title>
+      <link>/0722-install-hugo-on-yellow/</link>
+      <pubDate>Thu, 05 Nov 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/0722-install-hugo-on-yellow/</guid>
+      <description>Install sudo pacman -S hugo In folder websites
+hugo new install test1 No content when viewing on localhost:1313 because a new site is empty!
+Visual Studio Code Tried to install Insiders version (latest) but no idea how to do this.
+Instead, used yay -S vscodium-bin</description>
+    </item>
+    
+    <item>
+      <title>0720 Hugo website for Journal</title>
+      <link>/0720-hugo/</link>
+      <pubDate>Sat, 31 Oct 2020 17:00:00 +0000</pubDate>
+      
+      <guid>/0720-hugo/</guid>
+      <description>some stuff</description>
+    </item>
+    
+    <item>
+      <title>hugo site on the home network</title>
+      <link>/2020-07-02-hugo-home-network/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020-07-02-hugo-home-network/</guid>
+      <description>Getting the hugo terminal site visible on the home network From RED, tried to access the running hugo server with &amp;ldquo;&amp;ldquo;http://192.168.1.137:1313 but got &amp;ldquo;this site can&amp;rsquo;t be reached&amp;rdquo;. Tried disabling Linux Mint firewall (no firewall on RED).
+With no change, decided to do a &amp;ldquo;hugo&amp;rdquo; to build the pages and use another web server to supply them.
+Once the pages are built, they can be copied to the apache2 folder. Note that this does not clear the folder out first.</description>
+    </item>
+    
+    <item>
+      <title>0625 hugo intro and setup</title>
+      <link>/0625-hugo-intro-and-setup/</link>
+      <pubDate>Wed, 01 Jul 2020 14:00:00 +0000</pubDate>
+      
+      <guid>/0625-hugo-intro-and-setup/</guid>
+      <description>Not much to report</description>
+    </item>
+    
+    <item>
+      <title>0624 static site generators</title>
+      <link>/0624-static-site-generators/</link>
+      <pubDate>Wed, 01 Jul 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/0624-static-site-generators/</guid>
+      <description>Quick look at the top 10.</description>
+    </item>
+    
+    <item>
+      <title>0623 hugo terminal theme website</title>
+      <link>/0623-hugo-terminal-theme-website/</link>
+      <pubDate>Tue, 30 Jun 2020 20:00:00 +0000</pubDate>
+      
+      <guid>/0623-hugo-terminal-theme-website/</guid>
+      <description>downloaded the theme, about 1MB, placed it in the themes folder, copied the supplied config additions into the existing config.toml
+added a couple of new posts.
+need to check the date format in the front matter</description>
+    </item>
+    
+  </channel>
+</rss>

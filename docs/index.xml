@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>green | hugo-scratch-1</title>
+    <link>/</link>
+    <description>Recent content on green | hugo-scratch-1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Nov 2020 21:52:38 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog With Hugo</title>
+      <link>/hugotips/blog-with-hugo/</link>
+      <pubDate>Mon, 16 Nov 2020 21:52:38 +0000</pubDate>
+      
+      <guid>/hugotips/blog-with-hugo/</guid>
+      <description>blog with hugo git essentials</description>
+    </item>
+    
+    <item>
+      <title>Add a Cms to Hugo</title>
+      <link>/hugotips/add-a-cms-to-hugo/</link>
+      <pubDate>Mon, 16 Nov 2020 21:44:04 +0000</pubDate>
+      
+      <guid>/hugotips/add-a-cms-to-hugo/</guid>
+      <description>add cms to hugo search for the hugo tag</description>
+    </item>
+    
+    <item>
+      <title>Hugo and Bootstrap</title>
+      <link>/hugotips/hugo-and-bootstrap/</link>
+      <pubDate>Mon, 16 Nov 2020 21:42:26 +0000</pubDate>
+      
+      <guid>/hugotips/hugo-and-bootstrap/</guid>
+      <description>Building a Hugo site</description>
+    </item>
+    
+    <item>
+      <title>Styling Tables With Hugo</title>
+      <link>/hugotips/styling-tables-with-hugo/</link>
+      <pubDate>Mon, 16 Nov 2020 21:39:09 +0000</pubDate>
+      
+      <guid>/hugotips/styling-tables-with-hugo/</guid>
+      <description>table tutorial</description>
+    </item>
+    
+    <item>
+      <title>SEO Tutorial</title>
+      <link>/hugotips/seo-tutorial/</link>
+      <pubDate>Mon, 16 Nov 2020 21:34:53 +0000</pubDate>
+      
+      <guid>/hugotips/seo-tutorial/</guid>
+      <description>useful list of things to be explored tutorial 1 tutorial 2</description>
+    </item>
+    
+    <item>
+      <title>Hugo Tutorial</title>
+      <link>/hugotips/hugo-tutorial/</link>
+      <pubDate>Mon, 16 Nov 2020 21:26:51 +0000</pubDate>
+      
+      <guid>/hugotips/hugo-tutorial/</guid>
+      <description>tutorial</description>
+    </item>
+    
+    <item>
+      <title>Shortcode Youtube</title>
+      <link>/hugotips/shortcode-youtube/</link>
+      <pubDate>Mon, 16 Nov 2020 20:13:47 +0000</pubDate>
+      
+      <guid>/hugotips/shortcode-youtube/</guid>
+      <description>example of using an existing shortcode Medium | The Agent | shortcodes in Hugo Hugo | built in short codes
+--- title: &amp;quot;Embed a Youtube video&amp;quot; date: 2020-01-01T14:17:03-05:00 draft: false ---    How to create a custom shortcode So how do we create our own custom shortcode?
+It’s fairly easy. All we have to do is create a shortcodes folder under the layouts folder, and put the HTML file that we want the shortcode to insert in the folder.</description>
+    </item>
+    
+    <item>
+      <title>0737 Youtube Videos to Watch</title>
+      <link>/0737-youtube-videos-to-watch/</link>
+      <pubDate>Mon, 16 Nov 2020 14:17:22 +0000</pubDate>
+      
+      <guid>/0737-youtube-videos-to-watch/</guid>
+      <description>Youtube videos on CSS, websites, data science, git, Jamstack  codeSTACKr | Learn CSS Grid in 20 minutes Antonin Januska | CSS Grids For Responsive Blog-Site Layouts CSS 1 line layouts, with youtube link Netlify Tutorial - How to build and deploy websites using Netlify Git and GitHub for Beginners - Crash Course JAMstack Course - Build websites that are simpler, faster, and more secure Geeklaunch | How to make a website and put it online 2017 tutorial (Hugo, Linux)  Other websites of interest  Hugo blog setup hugo favicon  </description>
+    </item>
+    
+    <item>
+      <title>0736 Charity Web Sites</title>
+      <link>/0736-charity-web-sites/</link>
+      <pubDate>Mon, 16 Nov 2020 14:02:31 +0000</pubDate>
+      
+      <guid>/0736-charity-web-sites/</guid>
+      <description>Some Charity websites of interest (&amp;ldquo;friends of charity&amp;rdquo;)  Friends of Chopwell Wood Friends of the Lake District Friends of Bedgebury Pinetum  </description>
+    </item>
+    
+    <item>
+      <title>Shortcode: codecaption</title>
+      <link>/hugotips/shortcode-codecaption/</link>
+      <pubDate>Sun, 15 Nov 2020 22:21:37 +0000</pubDate>
+      
+      <guid>/hugotips/shortcode-codecaption/</guid>
+      <description>Source Github repository: Hugo Shortcodes
+Searched for hugo shortcodes and found this Github repo. Copied the HTML without the comments into layouts/shortcodes/codecaption.html and then just wrap the code to be displayed in a code box as per the example.
+ There are other shortcodes to copy over.  add the double curly brackets &amp;lt; codecaption lang=&amp;quot;html&amp;quot; title=&amp;quot;Code caption shortcode&amp;quot; &amp;gt; code to be displayed in the box &amp;lt; /codecaption &amp;gt; Purpose Adds title to code blocks.</description>
+    </item>
+    
+    <item>
+      <title>Shortcode for Tweet</title>
+      <link>/hugotips/shortcode-for-tweet/</link>
+      <pubDate>Sun, 15 Nov 2020 13:31:32 +0000</pubDate>
+      
+      <guid>/hugotips/shortcode-for-tweet/</guid>
+      <description>⚡️LINK TO WATCH THE PREMIERE⚡️ of #BeaversWithoutBorders is HERE!! 🎬🦫🐾
+Click @ 19:00 TONIGHT to be the first to watch, then stay for LIVE Q&amp;amp;A with @ninaconstable &amp;amp; @sophiepavs!
+➡️ https://t.co/4CzJyCnksJ
+Register here for event details &amp;amp; reminders 🔔 https://t.co/hdVBJPp0eg pic.twitter.com/UIBX36LnTC
+&amp;mdash; Beaver Trust (@BeaverTrust) November 15, 2020   tweet about beaver film on youtube
+youtube beaver film</description>
+    </item>
+    
+    <item>
+      <title>Help</title>
+      <link>/hugotips/help/</link>
+      <pubDate>Sun, 15 Nov 2020 13:11:10 +0000</pubDate>
+      
+      <guid>/hugotips/help/</guid>
+      <description>hugo --help hugo is the main command, used to build your Hugo site. Hugo is a Fast and Flexible Static Site Generator built with love by spf13 and friends in Go. Complete documentation is available at http://gohugo.io/. Usage: hugo [flags] hugo [command] Available Commands: config Print the site configuration convert Convert your content to different formats deploy Deploy your site to a Cloud provider. env Print Hugo version and environment info gen A collection of several useful generators.</description>
+    </item>
+    
+    <item>
+      <title>0735 Publish Hugo Website on Github</title>
+      <link>/0735-publish-hugo-website-on-github/</link>
+      <pubDate>Sat, 14 Nov 2020 23:56:16 +0000</pubDate>
+      
+      <guid>/0735-publish-hugo-website-on-github/</guid>
+      <description>GeekLaunch has a Youtube Hugo playlist (7 videos) Youtube | GeekLaunch | How to make a website and put it online 2017 Tutorial (Hugo, Linux)
+Github
+youtube shortcode   Web: Sign into github account Web: Create new repository and copy the address for the git remote add origin Terminal: navigate to green websites/hugo-harrycresswell This is where some Hugo testing is in progress.
+Terminal: git commands git init git remote add origin https://github.</description>
+    </item>
+    
+    <item>
+      <title>0733 Hugo Terminal theme edit</title>
+      <link>/0733-terminal-theme-edit/</link>
+      <pubDate>Fri, 13 Nov 2020 17:00:00 +0000</pubDate>
+      
+      <guid>/0733-terminal-theme-edit/</guid>
+      <description>code change themes &amp;gt; terminal &amp;gt; layouts &amp;gt; _default &amp;gt; index.html
+line 17
+added .ByTitle.Reverse
+ran hugo to update.
+No errors.
+Now adding some extra posts without dates eg 733 and 622.
+It didn&amp;rsquo;t work, so back to date invention.
+#Experiment?
+ It may be worth an experiment! Using the no theme setup, move the posts into there. At least with the simplified approach things can be tried out.
+  Given that a refresh is needed which wasn&amp;rsquo;t done, it may be worth repeating the exercise&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Trees by Joyce Kilmer</title>
+      <link>/trees-by-joyce-kilmer/</link>
+      <pubDate>Fri, 13 Nov 2020 12:16:40 +0000</pubDate>
+      
+      <guid>/trees-by-joyce-kilmer/</guid>
+      <description>I think that I shall never see A poem lovely as a tree. A tree whose hungry mouth is prest Against the earth’s sweet flowing breast; A tree that looks at God all day, And lifts her leafy arms to pray; A tree that may in Summer wear A nest of robins in her hair; Upon whose bosom snow has lain; Who intimately lives with rain. Poems are made by fools like me, But only God can make a tree.</description>
+    </item>
+    
+    <item>
+      <title>That It Will Never Come Again by Emily Dickinson</title>
+      <link>/that-it-will-never-come-again-by-emily-dickinson/</link>
+      <pubDate>Fri, 13 Nov 2020 12:14:16 +0000</pubDate>
+      
+      <guid>/that-it-will-never-come-again-by-emily-dickinson/</guid>
+      <description>That it will never come again Is what makes life so sweet. Believing what we don’t believe Does not exhilarate. That if it be, it be at best An ablative estate -- This instigates an appetite Precisely opposite. </description>
+    </item>
+    
+    <item>
+      <title>If by Rudyard Kipling</title>
+      <link>/if-by-rudyard-kipling/</link>
+      <pubDate>Fri, 13 Nov 2020 11:57:52 +0000</pubDate>
+      
+      <guid>/if-by-rudyard-kipling/</guid>
+      <description>If you can keep your head when all about you Are losing theirs and blaming it on you, If you can trust yourself when all men doubt you, But make allowance for their doubting too; If you can wait and not be tired by waiting, Or being lied about, don’t deal in lies, Or being hated, don’t give way to hating, And yet don’t look too good, nor talk too wise: If you can dream—and not make dreams your master; If you can think—and not make thoughts your aim; If you can meet with Triumph and Disaster And treat those two impostors just the same; If you can bear to hear the truth you’ve spoken Twisted by knaves to make a trap for fools, Or watch the things you gave your life to, broken, And stoop and build ’em up with worn-out tools: If you can make one heap of all your winnings And risk it on one turn of pitch-and-toss, And lose, and start again at your beginnings And never breathe a word about your loss; If you can force your heart and nerve and sinew To serve your turn long after they are gone, And so hold on when there is nothing in you Except the Will which says to them: ‘Hold on!</description>
+    </item>
+    
+    <item>
+      <title>0732 Hugo Taxonomies Author</title>
+      <link>/0732-hugo-taxonomies-author/</link>
+      <pubDate>Thu, 12 Nov 2020 17:32:00 +0000</pubDate>
+      
+      <guid>/0732-hugo-taxonomies-author/</guid>
+      <description>Source Hugo Tips: how to create author pages
+Hugo Authors example site
+Hugo searches for the layout
+Example site on netlify
+Steps Create taxonomy for Authors Add author metadata Create author templates Add authors to posts </description>
+    </item>
+    
+    <item>
+      <title>0731 Hugo front matter</title>
+      <link>/0731-hugo-front-matter/</link>
+      <pubDate>Wed, 11 Nov 2020 09:14:00 +0000</pubDate>
+      
+      <guid>/0731-hugo-front-matter/</guid>
+      <description>Hugo Terminal Theme
+terminal A simple, retro theme for Hugo. Author: panr Minimum Hugo Version: 0.74 Updated: 2020-11-01 License: MIT Tags: blog clean customizable dark highlighting minimal monotone multilingual personal responsive simple technical retro  title date Either yyyy-mm-dd or yy-mm-ddThh-mm-ss can be used. Others may be available. A trailing Z causes the page not to be generated.
+Any error in date will mean the page is not generated with no warning at all.</description>
+    </item>
+    
+    <item>
+      <title>0730 windows 2020 h2 update completed</title>
+      <link>/0730-windows-2020-h2-update/</link>
+      <pubDate>Wed, 11 Nov 2020 09:00:00 +0000</pubDate>
+      
+      <guid>/0730-windows-2020-h2-update/</guid>
+      <description>Changes A few minor changes.</description>
+    </item>
+    
+    <item>
+      <title>0729 markdown crash course</title>
+      <link>/0729-markdown-crash-course/</link>
+      <pubDate>Tue, 10 Nov 2020 18:37:00 +0000</pubDate>
+      
+      <guid>/0729-markdown-crash-course/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 italic with single asterisk or use escape to show _underline_ or *asterisk*
+_italic with single underscore _
+bold with double asterisk
+bold with double underscore
+strike through
+Triple underscore or hyphen for a horizontal line
+   this is a blockquote on multiple lines
+ Markdown Crash Course
+Markdown Crash Course
+ Item one Item two Item three  Nested more nested   back to normal more   first inserted second third  inline code block &amp;lt;p&amp;gt;paragraph&amp;lt;/p&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>0728 Hugo Journal</title>
+      <link>/0728-hugo-journal/</link>
+      <pubDate>Tue, 10 Nov 2020 17:43:00 +0000</pubDate>
+      
+      <guid>/0728-hugo-journal/</guid>
+      <description>Result Success!</description>
+    </item>
+    
+    <item>
+      <title>0727 youtube-dl</title>
+      <link>/0727-youtube-dl/</link>
+      <pubDate>Tue, 10 Nov 2020 17:32:00 +0000</pubDate>
+      
+      <guid>/0727-youtube-dl/</guid>
+      <description>LINKS  One example of youtube-dl documentation One source for the executable  CONFIG Use Command Prompt in Windows from Downloads folder e.g. youtube-dl &amp;hellip;youtube video link&amp;hellip;
+wakey05 folder has youtube-dl.conf with some config in it for mp4, best quality and date and time to actual download so it shows up in latest.
+Status Individual files from youtube downloaded ok but no luck with playlists.</description>
+    </item>
+    
+    <item>
+      <title>0726 Set up RSS feed for Youtube channel</title>
+      <link>/0726-youtube-rss-feed/</link>
+      <pubDate>Tue, 10 Nov 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/0726-youtube-rss-feed/</guid>
+      <description>RESULT Some youtube channels have channel, others have user&amp;hellip;
+A number have been set up in the old reader.
+https://www.youtube.com/feeds/videos.xml?channel_id=
+https://www.youtube.com/feeds/videos.xml?user=</description>
+    </item>
+    
+    <item>
+      <title>0725 Angular React Vue crash course</title>
+      <link>/0725-angular-react-vue-crash-course/</link>
+      <pubDate>Mon, 09 Nov 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/0725-angular-react-vue-crash-course/</guid>
+      <description>LINKS  Angular React Vue Brad Traversy  RESULT Angular and Vue watched. A separate video set on React was watched. Useful way to understand Javascript etc but too advanced for the moment. Vue has a GUI.</description>
+    </item>
+    
+    <item>
+      <title>0724 hugo web links</title>
+      <link>/0724-hugo-web-links/</link>
+      <pubDate>Fri, 06 Nov 2020 14:32:00 +0000</pubDate>
+      
+      <guid>/0724-hugo-web-links/</guid>
+      <description> Regis Philibert Manual setup of Hugo Hugo forum on sorting content Hugo website on content ordering  </description>
+    </item>
+    
+    <item>
+      <title>0723 React Fullstack Course (Udemy)</title>
+      <link>/0723-react-fullstack-course/</link>
+      <pubDate>Fri, 06 Nov 2020 14:00:00 +0000</pubDate>
+      
+      <guid>/0723-react-fullstack-course/</guid>
+      <description>node.js Updated this from 12.18.2 to 15.1.0 by installing the latest version from the nodejs website.
+Visual Studio Code websites: react-fullstack-course
+create-react-app used to create the base files etc
+npm start used to start up the local server on localhost:3000
+ Coded along with the React Basics section until styling. This is a big course, and it is worth coming back to. Will take a look at the last section about ES6 because there are videos about templates which may be relevant.</description>
+    </item>
+    
+    <item>
+      <title>0722 Install Hugo on Yellow</title>
+      <link>/0722-install-hugo-on-yellow/</link>
+      <pubDate>Thu, 05 Nov 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/0722-install-hugo-on-yellow/</guid>
+      <description>Install sudo pacman -S hugo In folder websites
+hugo new install test1 No content when viewing on localhost:1313 because a new site is empty!
+Visual Studio Code Tried to install Insiders version (latest) but no idea how to do this.
+Instead, used yay -S vscodium-bin</description>
+    </item>
+    
+    <item>
+      <title>0720 Hugo website for Journal</title>
+      <link>/0720-hugo/</link>
+      <pubDate>Sat, 31 Oct 2020 17:00:00 +0000</pubDate>
+      
+      <guid>/0720-hugo/</guid>
+      <description>some stuff</description>
+    </item>
+    
+    <item>
+      <title>0719 netlify</title>
+      <link>/0719-website-deploy-to-netlify/</link>
+      <pubDate>Sat, 31 Oct 2020 15:00:00 +0000</pubDate>
+      
+      <guid>/0719-website-deploy-to-netlify/</guid>
+      <description>Watch the video   Watched Brad Traversy&amp;rsquo;s Youtube video. Build a Responsive Website | HTML, CSS Grid, Flexbox &amp;amp; More
+  A CSS framework like Bootstrap is not used. Instead, CSS is used in two ways. As utility classes, used as part of HTML, as per CSS frameworks, and in the usual way to target specific HTML. The CSS resulting is quite long though.
+  Netlify is used to deploy to a live website, and as well as github (used previously but not this time) a project folder can be dragged in to netlify.</description>
+    </item>
+    
+    <item>
+      <title>0718 Private Internet Access not working</title>
+      <link>/0718-pia-not-working/</link>
+      <pubDate>Fri, 30 Oct 2020 10:00:00 +0000</pubDate>
+      
+      <guid>/0718-pia-not-working/</guid>
+      <description>PIA stops working For no apparent reason, PIA was restarting over and over.
+Uninstall PIA Decided to uninstall the application for now. Found an uninstall script to run. Worth trying again in the future.</description>
+    </item>
+    
+    <item>
+      <title>hugo site on the home network</title>
+      <link>/2020-07-02-hugo-home-network/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020-07-02-hugo-home-network/</guid>
+      <description>Getting the hugo terminal site visible on the home network From RED, tried to access the running hugo server with &amp;ldquo;&amp;ldquo;http://192.168.1.137:1313 but got &amp;ldquo;this site can&amp;rsquo;t be reached&amp;rdquo;. Tried disabling Linux Mint firewall (no firewall on RED).
+With no change, decided to do a &amp;ldquo;hugo&amp;rdquo; to build the pages and use another web server to supply them.
+Once the pages are built, they can be copied to the apache2 folder. Note that this does not clear the folder out first.</description>
+    </item>
+    
+    <item>
+      <title>0625 hugo intro and setup</title>
+      <link>/0625-hugo-intro-and-setup/</link>
+      <pubDate>Wed, 01 Jul 2020 14:00:00 +0000</pubDate>
+      
+      <guid>/0625-hugo-intro-and-setup/</guid>
+      <description>Not much to report</description>
+    </item>
+    
+    <item>
+      <title>0624 static site generators</title>
+      <link>/0624-static-site-generators/</link>
+      <pubDate>Wed, 01 Jul 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/0624-static-site-generators/</guid>
+      <description>Quick look at the top 10.</description>
+    </item>
+    
+    <item>
+      <title>0594 yay or makepkg Compressing Package</title>
+      <link>/0594-yay-make-config/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/0594-yay-make-config/</guid>
+      <description>Compressing package takes a lot of time When using yay or makepkg the process stalls when Compressing Package is reached.</description>
+    </item>
+    
+    <item>
+      <title>remarkable is being tried out as a markdown editor</title>
+      <link>/2020-07-01-1754-remarkable-markdown/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020-07-01-1754-remarkable-markdown/</guid>
+      <description>Remarkable Experimenting with this yay installed app, and a dropbox folder called Journal. Start with local Documents/Journal and create files with format yyyy-mm-dd-hhmm.md and then upload.
+Or with the yay dropbox app installed in the computer, the files can be edited in situ, as the dropbox folders are replicated.
+website remarkable</description>
+    </item>
+    
+    <item>
+      <title>0623 hugo terminal theme website</title>
+      <link>/0623-hugo-terminal-theme-website/</link>
+      <pubDate>Tue, 30 Jun 2020 20:00:00 +0000</pubDate>
+      
+      <guid>/0623-hugo-terminal-theme-website/</guid>
+      <description>downloaded the theme, about 1MB, placed it in the themes folder, copied the supplied config additions into the existing config.toml
+added a couple of new posts.
+need to check the date format in the front matter</description>
+    </item>
+    
+    <item>
+      <title>0622 linux commands to try out</title>
+      <link>/0622-linux-commands-to-try-out/</link>
+      <pubDate>Tue, 30 Jun 2020 19:00:00 +0000</pubDate>
+      
+      <guid>/0622-linux-commands-to-try-out/</guid>
+      <description>This is a real post but without details.</description>
+    </item>
+    
+  </channel>
+</rss>

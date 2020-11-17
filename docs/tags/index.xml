@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on green | hugo-scratch-1</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on green | hugo-scratch-1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Nov 2020 14:17:22 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSS</title>
+      <link>/tags/css/</link>
+      <pubDate>Mon, 16 Nov 2020 14:17:22 +0000</pubDate>
+      
+      <guid>/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>/tags/git/</link>
+      <pubDate>Mon, 16 Nov 2020 14:17:22 +0000</pubDate>
+      
+      <guid>/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid</title>
+      <link>/tags/grid/</link>
+      <pubDate>Mon, 16 Nov 2020 14:17:22 +0000</pubDate>
+      
+      <guid>/tags/grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jamstack</title>
+      <link>/tags/jamstack/</link>
+      <pubDate>Mon, 16 Nov 2020 14:17:22 +0000</pubDate>
+      
+      <guid>/tags/jamstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youtube</title>
+      <link>/tags/youtube/</link>
+      <pubDate>Mon, 16 Nov 2020 14:17:22 +0000</pubDate>
+      
+      <guid>/tags/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>charity</title>
+      <link>/tags/charity/</link>
+      <pubDate>Mon, 16 Nov 2020 14:02:31 +0000</pubDate>
+      
+      <guid>/tags/charity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOMF</title>
+      <link>/tags/fomf/</link>
+      <pubDate>Mon, 16 Nov 2020 14:02:31 +0000</pubDate>
+      
+      <guid>/tags/fomf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>/tags/code/</link>
+      <pubDate>Sun, 15 Nov 2020 22:21:37 +0000</pubDate>
+      
+      <guid>/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcode</title>
+      <link>/tags/shortcode/</link>
+      <pubDate>Sun, 15 Nov 2020 22:21:37 +0000</pubDate>
+      
+      <guid>/tags/shortcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>twitter</title>
+      <link>/tags/twitter/</link>
+      <pubDate>Sun, 15 Nov 2020 13:31:32 +0000</pubDate>
+      
+      <guid>/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GeekLaunch</title>
+      <link>/tags/geeklaunch/</link>
+      <pubDate>Sat, 14 Nov 2020 23:56:16 +0000</pubDate>
+      
+      <guid>/tags/geeklaunch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>/tags/github/</link>
+      <pubDate>Sat, 14 Nov 2020 23:56:16 +0000</pubDate>
+      
+      <guid>/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>green</title>
+      <link>/tags/green/</link>
+      <pubDate>Sat, 14 Nov 2020 23:56:16 +0000</pubDate>
+      
+      <guid>/tags/green/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>/tags/hugo/</link>
+      <pubDate>Sat, 14 Nov 2020 23:56:16 +0000</pubDate>
+      
+      <guid>/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>publish</title>
+      <link>/tags/publish/</link>
+      <pubDate>Sat, 14 Nov 2020 23:56:16 +0000</pubDate>
+      
+      <guid>/tags/publish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>edit</title>
+      <link>/tags/edit/</link>
+      <pubDate>Fri, 13 Nov 2020 17:00:00 +0000</pubDate>
+      
+      <guid>/tags/edit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terminal theme</title>
+      <link>/tags/terminal-theme/</link>
+      <pubDate>Fri, 13 Nov 2020 17:00:00 +0000</pubDate>
+      
+      <guid>/tags/terminal-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poetry</title>
+      <link>/tags/poetry/</link>
+      <pubDate>Fri, 13 Nov 2020 12:16:40 +0000</pubDate>
+      
+      <guid>/tags/poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trees</title>
+      <link>/tags/trees/</link>
+      <pubDate>Fri, 13 Nov 2020 12:16:40 +0000</pubDate>
+      
+      <guid>/tags/trees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>time</title>
+      <link>/tags/time/</link>
+      <pubDate>Fri, 13 Nov 2020 12:14:16 +0000</pubDate>
+      
+      <guid>/tags/time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>/tags/life/</link>
+      <pubDate>Fri, 13 Nov 2020 11:57:52 +0000</pubDate>
+      
+      <guid>/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taxonomies</title>
+      <link>/tags/taxonomies/</link>
+      <pubDate>Thu, 12 Nov 2020 17:32:00 +0000</pubDate>
+      
+      <guid>/tags/taxonomies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>/tags/tutorial/</link>
+      <pubDate>Thu, 12 Nov 2020 17:32:00 +0000</pubDate>
+      
+      <guid>/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>front matter</title>
+      <link>/tags/front-matter/</link>
+      <pubDate>Wed, 11 Nov 2020 09:14:00 +0000</pubDate>
+      
+      <guid>/tags/front-matter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2020-h2</title>
+      <link>/tags/2020-h2/</link>
+      <pubDate>Wed, 11 Nov 2020 09:00:00 +0000</pubDate>
+      
+      <guid>/tags/2020-h2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>update</title>
+      <link>/tags/update/</link>
+      <pubDate>Wed, 11 Nov 2020 09:00:00 +0000</pubDate>
+      
+      <guid>/tags/update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WINDOWS</title>
+      <link>/tags/windows/</link>
+      <pubDate>Wed, 11 Nov 2020 09:00:00 +0000</pubDate>
+      
+      <guid>/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brad Traversy</title>
+      <link>/tags/brad-traversy/</link>
+      <pubDate>Tue, 10 Nov 2020 18:37:00 +0000</pubDate>
+      
+      <guid>/tags/brad-traversy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>/tags/markdown/</link>
+      <pubDate>Tue, 10 Nov 2020 18:37:00 +0000</pubDate>
+      
+      <guid>/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiment</title>
+      <link>/tags/experiment/</link>
+      <pubDate>Tue, 10 Nov 2020 17:43:00 +0000</pubDate>
+      
+      <guid>/tags/experiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journal</title>
+      <link>/tags/journal/</link>
+      <pubDate>Tue, 10 Nov 2020 17:43:00 +0000</pubDate>
+      
+      <guid>/tags/journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lenovo</title>
+      <link>/tags/lenovo/</link>
+      <pubDate>Tue, 10 Nov 2020 17:43:00 +0000</pubDate>
+      
+      <guid>/tags/lenovo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>youtube-dl</title>
+      <link>/tags/youtube-dl/</link>
+      <pubDate>Tue, 10 Nov 2020 17:32:00 +0000</pubDate>
+      
+      <guid>/tags/youtube-dl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSS</title>
+      <link>/tags/rss/</link>
+      <pubDate>Tue, 10 Nov 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/tags/rss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>the old reader</title>
+      <link>/tags/the-old-reader/</link>
+      <pubDate>Tue, 10 Nov 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/tags/the-old-reader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular</title>
+      <link>/tags/angular/</link>
+      <pubDate>Mon, 09 Nov 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/tags/angular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>/tags/react/</link>
+      <pubDate>Mon, 09 Nov 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vue</title>
+      <link>/tags/vue/</link>
+      <pubDate>Mon, 09 Nov 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/tags/vue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jantcu</title>
+      <link>/tags/jantcu/</link>
+      <pubDate>Fri, 06 Nov 2020 14:32:00 +0000</pubDate>
+      
+      <guid>/tags/jantcu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regis Philibert</title>
+      <link>/tags/regis-philibert/</link>
+      <pubDate>Fri, 06 Nov 2020 14:32:00 +0000</pubDate>
+      
+      <guid>/tags/regis-philibert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vscodium</title>
+      <link>/tags/vscodium/</link>
+      <pubDate>Thu, 05 Nov 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/tags/vscodium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yellow</title>
+      <link>/tags/yellow/</link>
+      <pubDate>Thu, 05 Nov 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/tags/yellow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apache2</title>
+      <link>/tags/apache2/</link>
+      <pubDate>Sat, 31 Oct 2020 17:00:00 +0000</pubDate>
+      
+      <guid>/tags/apache2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>form</title>
+      <link>/tags/form/</link>
+      <pubDate>Sat, 31 Oct 2020 15:00:00 +0000</pubDate>
+      
+      <guid>/tags/form/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>/tags/html/</link>
+      <pubDate>Sat, 31 Oct 2020 15:00:00 +0000</pubDate>
+      
+      <guid>/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>netlify</title>
+      <link>/tags/netlify/</link>
+      <pubDate>Sat, 31 Oct 2020 15:00:00 +0000</pubDate>
+      
+      <guid>/tags/netlify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dell</title>
+      <link>/tags/dell/</link>
+      <pubDate>Fri, 30 Oct 2020 10:00:00 +0000</pubDate>
+      
+      <guid>/tags/dell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PIA</title>
+      <link>/tags/pia/</link>
+      <pubDate>Fri, 30 Oct 2020 10:00:00 +0000</pubDate>
+      
+      <guid>/tags/pia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>home network</title>
+      <link>/tags/home-network/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/home-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>makepkg</title>
+      <link>/tags/makepkg/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/makepkg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>remarkable</title>
+      <link>/tags/remarkable/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/remarkable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yay</title>
+      <link>/tags/yay/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/yay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux Mint</title>
+      <link>/tags/linux-mint/</link>
+      <pubDate>Tue, 30 Jun 2020 20:00:00 +0000</pubDate>
+      
+      <guid>/tags/linux-mint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python web server</title>
+      <link>/tags/python-web-server/</link>
+      <pubDate>Tue, 30 Jun 2020 20:00:00 +0000</pubDate>
+      
+      <guid>/tags/python-web-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>/tags/linux/</link>
+      <pubDate>Tue, 30 Jun 2020 19:00:00 +0000</pubDate>
+      
+      <guid>/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>red</title>
+      <link>/tags/red/</link>
+      <pubDate>Tue, 30 Jun 2020 19:00:00 +0000</pubDate>
+      
+      <guid>/tags/red/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

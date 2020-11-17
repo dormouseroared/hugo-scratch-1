@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Youtube on green | hugo-scratch-1</title>
+    <link>/tags/youtube/</link>
+    <description>Recent content in Youtube on green | hugo-scratch-1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Nov 2020 14:17:22 +0000</lastBuildDate><atom:link href="/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0737 Youtube Videos to Watch</title>
+      <link>/0737-youtube-videos-to-watch/</link>
+      <pubDate>Mon, 16 Nov 2020 14:17:22 +0000</pubDate>
+      
+      <guid>/0737-youtube-videos-to-watch/</guid>
+      <description>Youtube videos on CSS, websites, data science, git, Jamstack  codeSTACKr | Learn CSS Grid in 20 minutes Antonin Januska | CSS Grids For Responsive Blog-Site Layouts CSS 1 line layouts, with youtube link Netlify Tutorial - How to build and deploy websites using Netlify Git and GitHub for Beginners - Crash Course JAMstack Course - Build websites that are simpler, faster, and more secure Geeklaunch | How to make a website and put it online 2017 tutorial (Hugo, Linux)  Other websites of interest  Hugo blog setup hugo favicon  </description>
+    </item>
+    
+    <item>
+      <title>0735 Publish Hugo Website on Github</title>
+      <link>/0735-publish-hugo-website-on-github/</link>
+      <pubDate>Sat, 14 Nov 2020 23:56:16 +0000</pubDate>
+      
+      <guid>/0735-publish-hugo-website-on-github/</guid>
+      <description>GeekLaunch has a Youtube Hugo playlist (7 videos) Youtube | GeekLaunch | How to make a website and put it online 2017 Tutorial (Hugo, Linux)
+Github
+youtube shortcode   Web: Sign into github account Web: Create new repository and copy the address for the git remote add origin Terminal: navigate to green websites/hugo-harrycresswell This is where some Hugo testing is in progress.
+Terminal: git commands git init git remote add origin https://github.</description>
+    </item>
+    
+    <item>
+      <title>0727 youtube-dl</title>
+      <link>/0727-youtube-dl/</link>
+      <pubDate>Tue, 10 Nov 2020 17:32:00 +0000</pubDate>
+      
+      <guid>/0727-youtube-dl/</guid>
+      <description>LINKS  One example of youtube-dl documentation One source for the executable  CONFIG Use Command Prompt in Windows from Downloads folder e.g. youtube-dl &amp;hellip;youtube video link&amp;hellip;
+wakey05 folder has youtube-dl.conf with some config in it for mp4, best quality and date and time to actual download so it shows up in latest.
+Status Individual files from youtube downloaded ok but no luck with playlists.</description>
+    </item>
+    
+    <item>
+      <title>0726 Set up RSS feed for Youtube channel</title>
+      <link>/0726-youtube-rss-feed/</link>
+      <pubDate>Tue, 10 Nov 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/0726-youtube-rss-feed/</guid>
+      <description>RESULT Some youtube channels have channel, others have user&amp;hellip;
+A number have been set up in the old reader.
+https://www.youtube.com/feeds/videos.xml?channel_id=
+https://www.youtube.com/feeds/videos.xml?user=</description>
+    </item>
+    
+    <item>
+      <title>0719 netlify</title>
+      <link>/0719-website-deploy-to-netlify/</link>
+      <pubDate>Sat, 31 Oct 2020 15:00:00 +0000</pubDate>
+      
+      <guid>/0719-website-deploy-to-netlify/</guid>
+      <description>Watch the video   Watched Brad Traversy&amp;rsquo;s Youtube video. Build a Responsive Website | HTML, CSS Grid, Flexbox &amp;amp; More
+  A CSS framework like Bootstrap is not used. Instead, CSS is used in two ways. As utility classes, used as part of HTML, as per CSS frameworks, and in the usual way to target specific HTML. The CSS resulting is quite long though.
+  Netlify is used to deploy to a live website, and as well as github (used previously but not this time) a project folder can be dragged in to netlify.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React on green | hugo-scratch-1</title>
+    <link>/tags/react/</link>
+    <description>Recent content in React on green | hugo-scratch-1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Nov 2020 12:00:00 +0000</lastBuildDate><atom:link href="/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0725 Angular React Vue crash course</title>
+      <link>/0725-angular-react-vue-crash-course/</link>
+      <pubDate>Mon, 09 Nov 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/0725-angular-react-vue-crash-course/</guid>
+      <description>LINKS  Angular React Vue Brad Traversy  RESULT Angular and Vue watched. A separate video set on React was watched. Useful way to understand Javascript etc but too advanced for the moment. Vue has a GUI.</description>
+    </item>
+    
+    <item>
+      <title>0723 React Fullstack Course (Udemy)</title>
+      <link>/0723-react-fullstack-course/</link>
+      <pubDate>Fri, 06 Nov 2020 14:00:00 +0000</pubDate>
+      
+      <guid>/0723-react-fullstack-course/</guid>
+      <description>node.js Updated this from 12.18.2 to 15.1.0 by installing the latest version from the nodejs website.
+Visual Studio Code websites: react-fullstack-course
+create-react-app used to create the base files etc
+npm start used to start up the local server on localhost:3000
+ Coded along with the React Basics section until styling. This is a big course, and it is worth coming back to. Will take a look at the last section about ES6 because there are videos about templates which may be relevant.</description>
+    </item>
+    
+  </channel>
+</rss>

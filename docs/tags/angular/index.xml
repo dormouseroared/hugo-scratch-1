@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angular on green | hugo-scratch-1</title>
+    <link>/tags/angular/</link>
+    <description>Recent content in Angular on green | hugo-scratch-1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Nov 2020 12:00:00 +0000</lastBuildDate><atom:link href="/tags/angular/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0725 Angular React Vue crash course</title>
+      <link>/0725-angular-react-vue-crash-course/</link>
+      <pubDate>Mon, 09 Nov 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/0725-angular-react-vue-crash-course/</guid>
+      <description>LINKS  Angular React Vue Brad Traversy  RESULT Angular and Vue watched. A separate video set on React was watched. Useful way to understand Javascript etc but too advanced for the moment. Vue has a GUI.</description>
+    </item>
+    
+  </channel>
+</rss>

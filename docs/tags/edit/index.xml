@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>edit on green | hugo-scratch-1</title>
+    <link>/tags/edit/</link>
+    <description>Recent content in edit on green | hugo-scratch-1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Nov 2020 17:00:00 +0000</lastBuildDate><atom:link href="/tags/edit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0733 Hugo Terminal theme edit</title>
+      <link>/0733-terminal-theme-edit/</link>
+      <pubDate>Fri, 13 Nov 2020 17:00:00 +0000</pubDate>
+      
+      <guid>/0733-terminal-theme-edit/</guid>
+      <description>code change themes &amp;gt; terminal &amp;gt; layouts &amp;gt; _default &amp;gt; index.html
+line 17
+added .ByTitle.Reverse
+ran hugo to update.
+No errors.
+Now adding some extra posts without dates eg 733 and 622.
+It didn&amp;rsquo;t work, so back to date invention.
+#Experiment?
+ It may be worth an experiment! Using the no theme setup, move the posts into there. At least with the simplified approach things can be tried out.
+  Given that a refresh is needed which wasn&amp;rsquo;t done, it may be worth repeating the exercise&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

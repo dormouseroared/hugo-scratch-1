@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiment on green | hugo-scratch-1</title>
+    <link>/tags/experiment/</link>
+    <description>Recent content in Experiment on green | hugo-scratch-1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Nov 2020 17:43:00 +0000</lastBuildDate><atom:link href="/tags/experiment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0728 Hugo Journal</title>
+      <link>/0728-hugo-journal/</link>
+      <pubDate>Tue, 10 Nov 2020 17:43:00 +0000</pubDate>
+      
+      <guid>/0728-hugo-journal/</guid>
+      <description>Result Success!</description>
+    </item>
+    
+  </channel>
+</rss>

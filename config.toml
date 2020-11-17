@@ -1,0 +1,42 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "green | hugo-scratch-1"
+publishDir = "docs"
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  blog = "/:filename/"
+
+[params]
+    containerMaxWidth = "700px"
+    dateFormat = "Jan 2, 2006"
+    homeText = "Following the zwbetz Hugo tutorial:"
+    tutorialName = "Make a Hugo blog from scratch"
+    tutorialURL = "https://zwbetz.com/make-a-hugo-blog-from-scratch/"
+
+# See https://feathericons.com/
+# The value of pre is the icon name
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    pre = "edit"
+    url = "/blog/"
+    weight = 2
+  [[menu.main]]
+    name = "Tags"
+    pre = "tag"
+    url = "/tags/"
+    weight = 3
+  [[menu.main]]
+    name = "Hugo Tips"
+    pre = "paperclip"
+    url = "/hugotips/"
+    weight = 4
+

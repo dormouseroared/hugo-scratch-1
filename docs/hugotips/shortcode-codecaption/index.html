@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="generator" content="Hugo 0.78.1" />
+    
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    
+    
+    <title>Shortcode: codecaption | green | hugo-scratch-1</title>
+    <style>
+    .container {
+      max-width: 700px;
+    }
+    #nav a {
+      font-weight: bold;
+      color: inherit;
+    }
+    #nav-border {
+      border-bottom: 1px solid #212529;
+    }
+    #main {
+      margin-top: 1em;
+      margin-bottom: 4em;
+    }
+    #home-jumbotron {
+      background-color: inherit;
+    }
+    .font-125 {
+      font-size: 125%;
+    }
+    .tag-btn {
+      margin-bottom: 0.3em;
+    }
+    img {
+      max-width: 100%;
+    }
+    </style>
+  </head>
+  <body>
+    <div id="nav-border" class="container">
+    <nav id="nav" class="nav justify-content-center">
+        
+        
+        
+        <a class="nav-link" href="/"><i data-feather="home"></i> Home</a>
+        
+        
+        
+        <a class="nav-link" href="/blog/"><i data-feather="edit"></i> Blog</a>
+        
+        
+        
+        <a class="nav-link" href="/tags/"><i data-feather="tag"></i> Tags</a>
+        
+        
+        
+        <a class="nav-link" href="/hugotips/"><i data-feather="paperclip"></i> Hugo Tips</a>
+        
+    </nav>
+</div>
+    <div class="container">
+      <main id="main">
+       
+
+<h1>Shortcode: codecaption</h1>
+
+
+<i data-feather="calendar"></i> <time datetime="2020-11-15">Nov 15, 2020</time>
+
+  <br>
+  <i data-feather="tag"></i>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="/tags/shortcode">shortcode</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="/tags/code">code</a>
+  
+
+<br><br>
+<h2 id="source">Source</h2>
+<p><a href="https://github.com/parsiya/Hugo-Shortcodes">Github repository: Hugo Shortcodes</a></p>
+<p>Searched for hugo shortcodes and found this Github repo. Copied the HTML without the comments into layouts/shortcodes/codecaption.html and then just wrap the code to be displayed in a code box as per the example.</p>
+<ul>
+<li>There are other shortcodes to copy over.</li>
+</ul>
+<pre><code>add the double curly brackets
+
+&lt; codecaption lang=&quot;html&quot; title=&quot;Code caption shortcode&quot; &gt;
+    code to be displayed in the box
+&lt; /codecaption &gt;
+</code></pre><h2 id="purpose">Purpose</h2>
+<p>Adds title to code blocks.</p>
+<h2 id="example-of-how-to-use-this-shortcode">Example of how to use this shortcode</h2>
+<figure class="code">
+    <figcaption>
+        <span>Code caption shortcode</span>
+    </figcaption>
+    <div class="codewrapper">
+        <div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">8
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">figure</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;code&#34;</span>&gt;
+  &lt;<span style="color:#f92672">figcaption</span>&gt;
+    &lt;<span style="color:#f92672">span</span>&gt;{{ .Get &#34;title&#34; }}&lt;/<span style="color:#f92672">span</span>&gt;
+  &lt;/<span style="color:#f92672">figcaption</span>&gt;
+  &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;codewrapper&#34;</span>&gt;
+    {{ highlight .Inner (.Get &#34;lang&#34;) &#34;linenos=true&#34; }}
+  &lt;/<span style="color:#f92672">div</span>&gt;
+&lt;/<span style="color:#f92672">figure</span>&gt;</code></pre></td></tr></table>
+</div>
+</div>
+    </div>
+</figure>
+<h2 id="image-of-shortcode-result">Image of shortcode result</h2>
+<p><img src="/codecaption1.jpg" alt="example"></p>
+
+
+<em>Draft: false</em>
+
+
+      </main>
+    </div>
+    
+<script src="/js/feather.min.js"></script>
+<script>
+  feather.replace()
+</script>
+  </body>
+</html>

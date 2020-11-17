@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="generator" content="Hugo 0.78.1" />
+    
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    
+    
+    <title>0735 Publish Hugo Website on Github | green | hugo-scratch-1</title>
+    <style>
+    .container {
+      max-width: 700px;
+    }
+    #nav a {
+      font-weight: bold;
+      color: inherit;
+    }
+    #nav-border {
+      border-bottom: 1px solid #212529;
+    }
+    #main {
+      margin-top: 1em;
+      margin-bottom: 4em;
+    }
+    #home-jumbotron {
+      background-color: inherit;
+    }
+    .font-125 {
+      font-size: 125%;
+    }
+    .tag-btn {
+      margin-bottom: 0.3em;
+    }
+    img {
+      max-width: 100%;
+    }
+    </style>
+  </head>
+  <body>
+    <div id="nav-border" class="container">
+    <nav id="nav" class="nav justify-content-center">
+        
+        
+        
+        <a class="nav-link" href="/"><i data-feather="home"></i> Home</a>
+        
+        
+        
+        <a class="nav-link" href="/blog/"><i data-feather="edit"></i> Blog</a>
+        
+        
+        
+        <a class="nav-link" href="/tags/"><i data-feather="tag"></i> Tags</a>
+        
+        
+        
+        <a class="nav-link" href="/hugotips/"><i data-feather="paperclip"></i> Hugo Tips</a>
+        
+    </nav>
+</div>
+    <div class="container">
+      <main id="main">
+       
+
+<h1>0735 Publish Hugo Website on Github</h1>
+
+
+<i data-feather="calendar"></i> <time datetime="2020-11-14">Nov 14, 2020</time>
+
+  <br>
+  <i data-feather="tag"></i>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="/tags/green">green</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="/tags/git">git</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="/tags/github">github</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="/tags/hugo">hugo</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="/tags/publish">publish</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="/tags/geeklaunch">GeekLaunch</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="/tags/youtube">youtube</a>
+  
+
+<br><br>
+<h3 id="geeklaunch-has-a-youtube-hugo-playlist-7-videos">GeekLaunch has a Youtube Hugo playlist (7 videos)</h3>
+<p><a href="https://www.youtube.com/watch?v=3wkR8GyDODs&amp;list=PLwnSaD6BDfXIWCBwbZNTl7pc-mbon8LSi">Youtube | GeekLaunch | How to make a website and put it online 2017 Tutorial (Hugo, Linux)</a></p>
+<p><a href="https://github.com">Github</a></p>
+<h3 id="youtube-shortcode">youtube shortcode</h3>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/3wkR8GyDODs" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h3 id="web-sign-into-github-account">Web: Sign into github account</h3>
+<h3 id="web-create-new-repository-and-copy-the-address-for-the-git-remote-add-origin">Web: Create new repository and copy the address for the git remote add origin</h3>
+<h3 id="terminal-navigate-to-green-websiteshugo-harrycresswell">Terminal: navigate to green websites/hugo-harrycresswell</h3>
+<p>This is where some Hugo testing is in progress.</p>
+<h3 id="terminal-git-commands">Terminal: git commands</h3>
+<pre><code>git init
+git remote add origin https://github.com/dormouseroared/hugo-dm1.git
+git status
+git add --all
+git commit -m &quot;Initial commit&quot;
+git push -u origin master
+</code></pre><p>Note that the response to push might be to enter these commands:</p>
+<pre><code>git config --global user.email &quot;github email&quot;
+git config --global user.name &quot;github name&quot;
+
+</code></pre><h3 id="web-refresh-github-page-to-see-updated-repository">Web: refresh github page to see updated repository</h3>
+<h3 id="web-click-settings-on-right-hand-end-of-commands-scroll-down-to-github-pages">Web: click Settings on right hand end of commands, scroll down to Github Pages</h3>
+<ul>
+<li>Choose Branch=master, then see that the only folder that can be used to publish from is called Docs</li>
+<li>Update config.toml with publishDir = &ldquo;docs&rdquo;</li>
+<li>Repeat git terminal command block above</li>
+<li>Update baseURL in config.toml to be the github address</li>
+<li>Repeat git terminal command block above</li>
+<li><a href="https://dormouseroared.github.io/hugo-dm1">Github Hugo Website</a></li>
+</ul>
+<h3 id="other-points">Other points</h3>
+<blockquote>
+<p>No real content published because every post or content has draft=True. Need to see how to &gt; publish to make that draft=False without having to go through every document.
+This is a test site which has no HTML header stuff at all.</p>
+</blockquote>
+
+
+<em>Draft: false</em>
+
+
+      </main>
+    </div>
+    
+<script src="/js/feather.min.js"></script>
+<script>
+  feather.replace()
+</script>
+  </body>
+</html>

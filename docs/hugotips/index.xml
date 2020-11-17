@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugotips on green | hugo-scratch-1</title>
+    <link>/hugotips/</link>
+    <description>Recent content in Hugotips on green | hugo-scratch-1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Nov 2020 21:52:38 +0000</lastBuildDate><atom:link href="/hugotips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog With Hugo</title>
+      <link>/hugotips/blog-with-hugo/</link>
+      <pubDate>Mon, 16 Nov 2020 21:52:38 +0000</pubDate>
+      
+      <guid>/hugotips/blog-with-hugo/</guid>
+      <description>blog with hugo git essentials</description>
+    </item>
+    
+    <item>
+      <title>Add a Cms to Hugo</title>
+      <link>/hugotips/add-a-cms-to-hugo/</link>
+      <pubDate>Mon, 16 Nov 2020 21:44:04 +0000</pubDate>
+      
+      <guid>/hugotips/add-a-cms-to-hugo/</guid>
+      <description>add cms to hugo search for the hugo tag</description>
+    </item>
+    
+    <item>
+      <title>Hugo and Bootstrap</title>
+      <link>/hugotips/hugo-and-bootstrap/</link>
+      <pubDate>Mon, 16 Nov 2020 21:42:26 +0000</pubDate>
+      
+      <guid>/hugotips/hugo-and-bootstrap/</guid>
+      <description>Building a Hugo site</description>
+    </item>
+    
+    <item>
+      <title>Styling Tables With Hugo</title>
+      <link>/hugotips/styling-tables-with-hugo/</link>
+      <pubDate>Mon, 16 Nov 2020 21:39:09 +0000</pubDate>
+      
+      <guid>/hugotips/styling-tables-with-hugo/</guid>
+      <description>table tutorial</description>
+    </item>
+    
+    <item>
+      <title>SEO Tutorial</title>
+      <link>/hugotips/seo-tutorial/</link>
+      <pubDate>Mon, 16 Nov 2020 21:34:53 +0000</pubDate>
+      
+      <guid>/hugotips/seo-tutorial/</guid>
+      <description>useful list of things to be explored tutorial 1 tutorial 2</description>
+    </item>
+    
+    <item>
+      <title>Hugo Tutorial</title>
+      <link>/hugotips/hugo-tutorial/</link>
+      <pubDate>Mon, 16 Nov 2020 21:26:51 +0000</pubDate>
+      
+      <guid>/hugotips/hugo-tutorial/</guid>
+      <description>tutorial</description>
+    </item>
+    
+    <item>
+      <title>Shortcode Youtube</title>
+      <link>/hugotips/shortcode-youtube/</link>
+      <pubDate>Mon, 16 Nov 2020 20:13:47 +0000</pubDate>
+      
+      <guid>/hugotips/shortcode-youtube/</guid>
+      <description>example of using an existing shortcode Medium | The Agent | shortcodes in Hugo Hugo | built in short codes
+--- title: &amp;quot;Embed a Youtube video&amp;quot; date: 2020-01-01T14:17:03-05:00 draft: false ---    How to create a custom shortcode So how do we create our own custom shortcode?
+It’s fairly easy. All we have to do is create a shortcodes folder under the layouts folder, and put the HTML file that we want the shortcode to insert in the folder.</description>
+    </item>
+    
+    <item>
+      <title>Shortcode: codecaption</title>
+      <link>/hugotips/shortcode-codecaption/</link>
+      <pubDate>Sun, 15 Nov 2020 22:21:37 +0000</pubDate>
+      
+      <guid>/hugotips/shortcode-codecaption/</guid>
+      <description>Source Github repository: Hugo Shortcodes
+Searched for hugo shortcodes and found this Github repo. Copied the HTML without the comments into layouts/shortcodes/codecaption.html and then just wrap the code to be displayed in a code box as per the example.
+ There are other shortcodes to copy over.  add the double curly brackets &amp;lt; codecaption lang=&amp;quot;html&amp;quot; title=&amp;quot;Code caption shortcode&amp;quot; &amp;gt; code to be displayed in the box &amp;lt; /codecaption &amp;gt; Purpose Adds title to code blocks.</description>
+    </item>
+    
+    <item>
+      <title>Shortcode for Tweet</title>
+      <link>/hugotips/shortcode-for-tweet/</link>
+      <pubDate>Sun, 15 Nov 2020 13:31:32 +0000</pubDate>
+      
+      <guid>/hugotips/shortcode-for-tweet/</guid>
+      <description>⚡️LINK TO WATCH THE PREMIERE⚡️ of #BeaversWithoutBorders is HERE!! 🎬🦫🐾
+Click @ 19:00 TONIGHT to be the first to watch, then stay for LIVE Q&amp;amp;A with @ninaconstable &amp;amp; @sophiepavs!
+➡️ https://t.co/4CzJyCnksJ
+Register here for event details &amp;amp; reminders 🔔 https://t.co/hdVBJPp0eg pic.twitter.com/UIBX36LnTC
+&amp;mdash; Beaver Trust (@BeaverTrust) November 15, 2020   tweet about beaver film on youtube
+youtube beaver film</description>
+    </item>
+    
+    <item>
+      <title>Help</title>
+      <link>/hugotips/help/</link>
+      <pubDate>Sun, 15 Nov 2020 13:11:10 +0000</pubDate>
+      
+      <guid>/hugotips/help/</guid>
+      <description>hugo --help hugo is the main command, used to build your Hugo site. Hugo is a Fast and Flexible Static Site Generator built with love by spf13 and friends in Go. Complete documentation is available at http://gohugo.io/. Usage: hugo [flags] hugo [command] Available Commands: config Print the site configuration convert Convert your content to different formats deploy Deploy your site to a Cloud provider. env Print Hugo version and environment info gen A collection of several useful generators.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>publish on green | hugo-scratch-1</title>
+    <link>/tags/publish/</link>
+    <description>Recent content in publish on green | hugo-scratch-1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Nov 2020 23:56:16 +0000</lastBuildDate><atom:link href="/tags/publish/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0735 Publish Hugo Website on Github</title>
+      <link>/0735-publish-hugo-website-on-github/</link>
+      <pubDate>Sat, 14 Nov 2020 23:56:16 +0000</pubDate>
+      
+      <guid>/0735-publish-hugo-website-on-github/</guid>
+      <description>GeekLaunch has a Youtube Hugo playlist (7 videos) Youtube | GeekLaunch | How to make a website and put it online 2017 Tutorial (Hugo, Linux)
+Github
+youtube shortcode   Web: Sign into github account Web: Create new repository and copy the address for the git remote add origin Terminal: navigate to green websites/hugo-harrycresswell This is where some Hugo testing is in progress.
+Terminal: git commands git init git remote add origin https://github.</description>
+    </item>
+    
+  </channel>
+</rss>

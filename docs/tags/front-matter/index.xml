@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>front matter on green | hugo-scratch-1</title>
+    <link>/tags/front-matter/</link>
+    <description>Recent content in front matter on green | hugo-scratch-1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Nov 2020 09:14:00 +0000</lastBuildDate><atom:link href="/tags/front-matter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0731 Hugo front matter</title>
+      <link>/0731-hugo-front-matter/</link>
+      <pubDate>Wed, 11 Nov 2020 09:14:00 +0000</pubDate>
+      
+      <guid>/0731-hugo-front-matter/</guid>
+      <description>Hugo Terminal Theme
+terminal A simple, retro theme for Hugo. Author: panr Minimum Hugo Version: 0.74 Updated: 2020-11-01 License: MIT Tags: blog clean customizable dark highlighting minimal monotone multilingual personal responsive simple technical retro  title date Either yyyy-mm-dd or yy-mm-ddThh-mm-ss can be used. Others may be available. A trailing Z causes the page not to be generated.
+Any error in date will mean the page is not generated with no warning at all.</description>
+    </item>
+    
+  </channel>
+</rss>
