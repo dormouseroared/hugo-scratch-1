@@ -5,6 +5,6 @@ tags: []
 draft: false
 ---
 
-[add cms to hugo](https://willschenk.com/articles/2018/adding_a_cms_to_hugo/)
-[search for the hugo tag](https://willschenk.com/tags/hugo/)
+* [add cms to hugo](https://willschenk.com/articles/2018/adding_a_cms_to_hugo/)
+* [search for the hugo tag](https://willschenk.com/tags/hugo/)
 
