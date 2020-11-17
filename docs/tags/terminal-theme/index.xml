@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>terminal theme on green | hugo-scratch-1</title>
-    <link>/tags/terminal-theme/</link>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/terminal-theme/</link>
     <description>Recent content in terminal theme on green | hugo-scratch-1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2020 17:00:00 +0000</lastBuildDate><atom:link href="/tags/terminal-theme/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Nov 2020 17:00:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/terminal-theme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>0733 Hugo Terminal theme edit</title>
-      <link>/0733-terminal-theme-edit/</link>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0733-terminal-theme-edit/</link>
       <pubDate>Fri, 13 Nov 2020 17:00:00 +0000</pubDate>
       
-      <guid>/0733-terminal-theme-edit/</guid>
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0733-terminal-theme-edit/</guid>
       <description>code change themes &amp;gt; terminal &amp;gt; layouts &amp;gt; _default &amp;gt; index.html
 line 17
 added .ByTitle.Reverse
@@ -27,10 +27,10 @@ It didn&amp;rsquo;t work, so back to date invention.
     
     <item>
       <title>0623 hugo terminal theme website</title>
-      <link>/0623-hugo-terminal-theme-website/</link>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0623-hugo-terminal-theme-website/</link>
       <pubDate>Tue, 30 Jun 2020 20:00:00 +0000</pubDate>
       
-      <guid>/0623-hugo-terminal-theme-website/</guid>
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0623-hugo-terminal-theme-website/</guid>
       <description>downloaded the theme, about 1MB, placed it in the themes folder, copied the supplied config additions into the existing config.toml
 added a couple of new posts.
 need to check the date format in the front matter</description>

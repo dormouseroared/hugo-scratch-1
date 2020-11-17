@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yellow on green | hugo-scratch-1</title>
-    <link>/tags/yellow/</link>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/yellow/</link>
     <description>Recent content in Yellow on green | hugo-scratch-1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2020 12:00:00 +0000</lastBuildDate><atom:link href="/tags/yellow/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Nov 2020 12:00:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/yellow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>0722 Install Hugo on Yellow</title>
-      <link>/0722-install-hugo-on-yellow/</link>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0722-install-hugo-on-yellow/</link>
       <pubDate>Thu, 05 Nov 2020 12:00:00 +0000</pubDate>
       
-      <guid>/0722-install-hugo-on-yellow/</guid>
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0722-install-hugo-on-yellow/</guid>
       <description>Install sudo pacman -S hugo In folder websites
 hugo new install test1 No content when viewing on localhost:1313 because a new site is empty!
 Visual Studio Code Tried to install Insiders version (latest) but no idea how to do this.

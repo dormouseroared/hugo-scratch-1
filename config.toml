@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://dormouseroared.github.io/hugo-scratch-1/"
 languageCode = "en-us"
 title = "green | hugo-scratch-1"
 publishDir = "docs"

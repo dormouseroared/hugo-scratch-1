@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lenovo on green | hugo-scratch-1</title>
-    <link>/tags/lenovo/</link>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/lenovo/</link>
     <description>Recent content in Lenovo on green | hugo-scratch-1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2020 17:43:00 +0000</lastBuildDate><atom:link href="/tags/lenovo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Nov 2020 17:43:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/lenovo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>0728 Hugo Journal</title>
-      <link>/0728-hugo-journal/</link>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0728-hugo-journal/</link>
       <pubDate>Tue, 10 Nov 2020 17:43:00 +0000</pubDate>
       
-      <guid>/0728-hugo-journal/</guid>
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0728-hugo-journal/</guid>
       <description>Result Success!</description>
     </item>
     
     <item>
       <title>0623 hugo terminal theme website</title>
-      <link>/0623-hugo-terminal-theme-website/</link>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0623-hugo-terminal-theme-website/</link>
       <pubDate>Tue, 30 Jun 2020 20:00:00 +0000</pubDate>
       
-      <guid>/0623-hugo-terminal-theme-website/</guid>
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0623-hugo-terminal-theme-website/</guid>
       <description>downloaded the theme, about 1MB, placed it in the themes folder, copied the supplied config additions into the existing config.toml
 added a couple of new posts.
 need to check the date format in the front matter</description>

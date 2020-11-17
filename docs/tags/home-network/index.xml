@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>home network on green | hugo-scratch-1</title>
-    <link>/tags/home-network/</link>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/home-network/</link>
     <description>Recent content in home network on green | hugo-scratch-1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/home-network/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/home-network/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo site on the home network</title>
-      <link>/2020-07-02-hugo-home-network/</link>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/2020-07-02-hugo-home-network/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020-07-02-hugo-home-network/</guid>
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/2020-07-02-hugo-home-network/</guid>
       <description>Getting the hugo terminal site visible on the home network From RED, tried to access the running hugo server with &amp;ldquo;&amp;ldquo;http://192.168.1.137:1313 but got &amp;ldquo;this site can&amp;rsquo;t be reached&amp;rdquo;. Tried disabling Linux Mint firewall (no firewall on RED).
 With no change, decided to do a &amp;ldquo;hugo&amp;rdquo; to build the pages and use another web server to supply them.
 Once the pages are built, they can be copied to the apache2 folder. Note that this does not clear the folder out first.</description>

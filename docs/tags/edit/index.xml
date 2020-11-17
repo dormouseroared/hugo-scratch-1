@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>edit on green | hugo-scratch-1</title>
-    <link>/tags/edit/</link>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/edit/</link>
     <description>Recent content in edit on green | hugo-scratch-1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2020 17:00:00 +0000</lastBuildDate><atom:link href="/tags/edit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Nov 2020 17:00:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/edit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>0733 Hugo Terminal theme edit</title>
-      <link>/0733-terminal-theme-edit/</link>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0733-terminal-theme-edit/</link>
       <pubDate>Fri, 13 Nov 2020 17:00:00 +0000</pubDate>
       
-      <guid>/0733-terminal-theme-edit/</guid>
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0733-terminal-theme-edit/</guid>
       <description>code change themes &amp;gt; terminal &amp;gt; layouts &amp;gt; _default &amp;gt; index.html
 line 17
 added .ByTitle.Reverse

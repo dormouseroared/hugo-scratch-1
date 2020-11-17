@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PIA on green | hugo-scratch-1</title>
-    <link>/tags/pia/</link>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/pia/</link>
     <description>Recent content in PIA on green | hugo-scratch-1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2020 10:00:00 +0000</lastBuildDate><atom:link href="/tags/pia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Oct 2020 10:00:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/pia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>0718 Private Internet Access not working</title>
-      <link>/0718-pia-not-working/</link>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0718-pia-not-working/</link>
       <pubDate>Fri, 30 Oct 2020 10:00:00 +0000</pubDate>
       
-      <guid>/0718-pia-not-working/</guid>
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0718-pia-not-working/</guid>
       <description>PIA stops working For no apparent reason, PIA was restarting over and over.
 Uninstall PIA Decided to uninstall the application for now. Found an uninstall script to run. Worth trying again in the future.</description>
     </item>

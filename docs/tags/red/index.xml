@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>red on green | hugo-scratch-1</title>
-    <link>/tags/red/</link>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/red/</link>
     <description>Recent content in red on green | hugo-scratch-1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2020 19:00:00 +0000</lastBuildDate><atom:link href="/tags/red/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jun 2020 19:00:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/red/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>0622 linux commands to try out</title>
-      <link>/0622-linux-commands-to-try-out/</link>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0622-linux-commands-to-try-out/</link>
       <pubDate>Tue, 30 Jun 2020 19:00:00 +0000</pubDate>
       
-      <guid>/0622-linux-commands-to-try-out/</guid>
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0622-linux-commands-to-try-out/</guid>
       <description>This is a real post but without details.</description>
     </item>
     
