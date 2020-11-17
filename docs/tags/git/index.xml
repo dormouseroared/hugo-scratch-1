@@ -6,9 +6,18 @@
     <description>Recent content in git on green | hugo-scratch-1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2020 14:17:22 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Nov 2020 19:27:31 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>0737 Youtube Videos to Watch</title>
+      <title>Git and Github From the Coding Train</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/git-and-github-from-the-coding-train/</link>
+      <pubDate>Tue, 17 Nov 2020 19:27:31 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/git-and-github-from-the-coding-train/</guid>
+      <description> The Coding Train | Git and Github for Poets | Youtube Playlist This is a very easy to watch 11 video set playlist, which led to looking for a way to get the thumbnail for the first video on the playlist. Searched for &amp;ldquo;youtube thumbnail grab&amp;rdquo; and found Get YouTube Thumbnail which returns images and links when the youtube link is entered,for large and small thumbnails. these two are shown below:  </description>
+    </item>
+    
+    <item>
+      <title>0737 | Youtube Videos to Watch</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/0737-youtube-videos-to-watch/</link>
       <pubDate>Mon, 16 Nov 2020 14:17:22 +0000</pubDate>
       
@@ -17,7 +26,7 @@
     </item>
     
     <item>
-      <title>0735 Publish Hugo Website on Github</title>
+      <title>0735 | Publish Hugo Website on Github</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/0735-publish-hugo-website-on-github/</link>
       <pubDate>Sat, 14 Nov 2020 23:56:16 +0000</pubDate>
       
@@ -29,7 +38,7 @@ Terminal: git commands git init git remote add origin https://github.</descripti
     </item>
     
     <item>
-      <title>0729 markdown crash course</title>
+      <title>0729 | markdown crash course</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/0729-markdown-crash-course/</link>
       <pubDate>Tue, 10 Nov 2020 18:37:00 +0000</pubDate>
       
