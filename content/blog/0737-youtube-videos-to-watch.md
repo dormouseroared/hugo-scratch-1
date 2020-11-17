@@ -1,5 +1,5 @@
 ---
-title: "0737 Youtube Videos to Watch"
+title: "0737 | Youtube Videos to Watch"
 date: 2020-11-16T14:17:22Z
 tags: ["CSS", "Grid", "git", "jamstack", "youtube"]
 draft: false
