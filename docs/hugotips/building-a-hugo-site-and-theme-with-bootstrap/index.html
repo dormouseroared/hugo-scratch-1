@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="generator" content="Hugo 0.78.1" />
+    
+    <link rel="stylesheet" href="https://dormouseroared.github.io/hugo-scratch-1/css/bootstrap.min.css">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+
+    
+    
+    <title>Building a Hugo Site and Theme With Bootstrap | green | hugo-scratch-1</title>
+    <style>
+    .container {
+      max-width: 700px;
+    }
+    #nav a {
+      font-weight: bold;
+      color: inherit;
+    }
+    #nav-border {
+      border-bottom: 1px solid #212529;
+    }
+    #main {
+      margin-top: 1em;
+      margin-bottom: 4em;
+    }
+    #home-jumbotron {
+      background-color: inherit;
+    }
+    .font-125 {
+      font-size: 125%;
+    }
+    .tag-btn {
+      margin-bottom: 0.3em;
+    }
+    img {
+      max-width: 100%;
+    }
+    </style>
+  </head>
+  <body>
+    <div id="nav-border" class="container">
+    <nav id="nav" class="nav justify-content-center">
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/"><i data-feather="home"></i> Home</a>
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/blog/"><i data-feather="edit"></i> Blog</a>
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/hugotips/"><i data-feather="paperclip"></i> Hugo Tips</a>
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/tags/"><i data-feather="tag"></i> Tags</a>
+        
+    </nav>
+</div>
+    <div class="container">
+      <main id="main">
+       
+
+<h1>Building a Hugo Site and Theme With Bootstrap</h1>
+
+
+<i data-feather="calendar"></i> <time datetime="2020-11-18">Nov 18, 2020</time>
+
+  <br>
+  <i data-feather="tag"></i>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/bootstrap">bootstrap</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/photos">photos</a>
+  
+
+<br><br>
+<h2 id="how-is-bootstrap-used-with-hugo">How is Bootstrap used with Hugo?</h2>
+<p>Bootstrap is in use with hugo-scratch-1 but there aren&rsquo;t many explicit uses of the classes. So it is time to explore this in more detail by taking notes whilst reading this first search result:</p>
+<ul>
+<li><a href="https://willschenk.com/articles/2018/building-a-hugo-site/">Building a Hugo Site and Theme With Bootstrap</a></li>
+</ul>
+<h2 id="result">Result</h2>
+<ul>
+<li>In the photos, this didn&rsquo;t look right:</li>
+<li>Now if you go to http://localhost:1313 you should see the normal list of pages that is generated with the default list template. Let’s now create a list template for our new photos type in themes/mytheme/layouts/posts/list.html</li>
+<li>Now if you go to http://localhost:1313 you should see the normal list of pages that is generated with the default list template. Let’s now create a list template for our new photos type in themes/mytheme/layouts/<strong>photos</strong>/list.html</li>
+<li>Apart from that the instructions were carried out as far as the last sections which involved another update to the header, and various other small changes, which can be returned to.</li>
+<li>See | green | websites | hugo-bootstrap | for the code, which has been tested with hugo server.</li>
+</ul>
+<h2 id="follow-up">Follow up</h2>
+<p><a href="https://willschenk.com/articles/2018/adding_a_cms_to_hugo/">Adding Netlify CMS to Hugo</a></p>
+
+
+<em>Draft: false</em>
+
+
+      </main>
+    </div>
+    
+<script src="https://dormouseroared.github.io/hugo-scratch-1/js/feather.min.js"></script>
+<script>
+  feather.replace()
+</script>
+  </body>
+</html>
