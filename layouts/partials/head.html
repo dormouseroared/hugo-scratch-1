@@ -5,7 +5,13 @@
     {{ $css := "css/bootstrap.min.css" | absURL }}
     <link rel="stylesheet" href="{{ $css }}">
 
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    {{/* The favicon works as a relative link for the index.html at root    */}}
+    {{/*  but not for any other link on the menu or any content at a lower level  */}}
+    {{/*  that's why the absURL is used  */}}
+    {{/*  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">  */}}
+
+    {{ $fav := "favicon.ico" | absURL }}
+    <link rel="shortcut icon" href="{{ $fav }}" type="image/x-icon">
 
 
     {{ $title := print .Title " | " .Site.Title }}
