@@ -6,15 +6,105 @@
     <description>Recent content in Blog on green | hugo-scratch-1 | build 0001</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2020 17:36:30 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Nov 2020 09:35:37 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>0745 Git Short Course Youtube Learnwebcode</title>
+      <title>0747 Windows Firefox Current Tabs</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0747-windows-firefox-current-tabs/</link>
+      <pubDate>Tue, 24 Nov 2020 09:35:37 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0747-windows-firefox-current-tabs/</guid>
+      <description>Record what was going on, and a chance to organise and review Note that pinned tabs have been removed.
+When the markdown is pasted in, there are no line breaks so all the links run together. At the moment, the simple solution is to add an asterisk space at the fron of each line. The best way to do this with Visual Studio Code is to:
+ select the lines to be updated Press SHIFT + ALT + I to insert multiple cursors at the end of each line.</description>
+    </item>
+    
+    <item>
+      <title>0738 Firefox Multi Account Containers</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0738-firefox-multi-account-containers/</link>
+      <pubDate>Sun, 22 Nov 2020 18:29:14 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0738-firefox-multi-account-containers/</guid>
+      <description>Control + FULL STOP For the MAC control panel
+Control + Shift + [number between 0 and 9] For a new tab in the chosen container (configurable)
+Right click inside a container tab To assign the site to always open in the container.</description>
+    </item>
+    
+    <item>
+      <title>0739 Hugo Scratch 1 Deploy Github Pages</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0739-hugo-scratch-1-deploy-github-pages/</link>
+      <pubDate>Sun, 22 Nov 2020 18:28:41 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0739-hugo-scratch-1-deploy-github-pages/</guid>
+      <description>sample heading example ![example](/img in static folder.jpg)</description>
+    </item>
+    
+    <item>
+      <title>0740 Add Favicon to Hugo</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0740-add-favicon-to-hugo/</link>
+      <pubDate>Sun, 22 Nov 2020 18:27:54 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0740-add-favicon-to-hugo/</guid>
+      <description>sample heading example ![example](/img in static folder.jpg)</description>
+    </item>
+    
+    <item>
+      <title>0741 hugo-zwbetz-blog tutorial again</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0741-hugo-zwbetz-blog-tutorial-again/</link>
+      <pubDate>Sun, 22 Nov 2020 18:26:55 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0741-hugo-zwbetz-blog-tutorial-again/</guid>
+      <description>Go through the tutorial again. Put it into a new repo in github. Set up publishDir as docs and generate a github pages site right from the start.
+hugo-zwbetz-blog
+sample heading example ![example](/img in static folder.jpg)</description>
+    </item>
+    
+    <item>
+      <title>0742 Git Message Your Branch Is Ahead</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0742-git-message-your-branch-is-ahead/</link>
+      <pubDate>Sun, 22 Nov 2020 18:25:28 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0742-git-message-your-branch-is-ahead/</guid>
+      <description>For hugo-scratch-1
+git push lots of error messages
+all resulting from adding readme.md and license within github
+had to do a git pull or something like
+see journal for more details</description>
+    </item>
+    
+    <item>
+      <title>0743 Updates to hugo-zwbetz-blog</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0743-updates-to-hugo-zwberz-log/</link>
+      <pubDate>Sun, 22 Nov 2020 18:24:11 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0743-updates-to-hugo-zwberz-log/</guid>
+      <description>Running on Green, in the folder Websites and on github and github pages.
+Following the zwbetz tutorial again, from scratch, but this time:
+ favicon baseURL html templates inline rather than baseof, partials, etc comments in the templates (more to be done) other experiments including bootstrap classes etc to try out formatting and other ideas use of Meld to compare the inline html for index, single, list and terms has been carried out to allow easier highlight of the key differences  </description>
+    </item>
+    
+    <item>
+      <title>0744 Icon Libraries</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0744-icon-libraries/</link>
+      <pubDate>Sun, 22 Nov 2020 18:23:11 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0744-icon-libraries/</guid>
+      <description>A youtube video was watched but still to be noted here.
+SVG SVG on the web
+bootstrap v5 icons Now has SVG icons.
+fontawesome The font of icons.
+feather icons Feather Icons github feather icons with instructions
+286 icons in SVG or via JS
+lordicon css.gg material-ui </description>
+    </item>
+    
+    <item>
+      <title>0745 GitCourse on Youtube (LearnWebCode)</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/0745-git-short-course-youtube-learnwebcode/</link>
       <pubDate>Sun, 22 Nov 2020 17:36:30 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/0745-git-short-course-youtube-learnwebcode/</guid>
-      <description>sample heading example ![example](/img in static folder.jpg)
-{{ youtube https://www.youtube.com/watch?v=9GKpbI1siow&amp;amp;list=PLpcSpRrAaOarEpNz71TSfNVd0eQmsZSgN }}</description>
+      <description>LearnWebCode&amp;rsquo;s short 4 part Youtube about git This is the Hugo shortcode for a youtube video. Don&amp;rsquo;t think a playlist can be used, so here are all the videos in the series. More details may be available in the Udemy course called Git a web developer etc.
+         Revert to last commit point This worked very well. Tried it out by making a commit to the local repository, then making a change, then issuing this command, and straight back to the commit point.</description>
     </item>
     
     <item>

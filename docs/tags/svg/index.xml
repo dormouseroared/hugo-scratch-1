@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SVG on green | hugo-scratch-1 | build 0001</title>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/svg/</link>
+    <description>Recent content in SVG on green | hugo-scratch-1 | build 0001</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Nov 2020 18:23:11 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/svg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0744 Icon Libraries</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0744-icon-libraries/</link>
+      <pubDate>Sun, 22 Nov 2020 18:23:11 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0744-icon-libraries/</guid>
+      <description>A youtube video was watched but still to be noted here.
+SVG SVG on the web
+bootstrap v5 icons Now has SVG icons.
+fontawesome The font of icons.
+feather icons Feather Icons github feather icons with instructions
+286 icons in SVG or via JS
+lordicon css.gg material-ui </description>
+    </item>
+    
+  </channel>
+</rss>

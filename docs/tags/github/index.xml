@@ -6,7 +6,29 @@
     <description>Recent content in github on green | hugo-scratch-1 | build 0001</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2020 19:27:31 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Nov 2020 18:26:55 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0741 hugo-zwbetz-blog tutorial again</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0741-hugo-zwbetz-blog-tutorial-again/</link>
+      <pubDate>Sun, 22 Nov 2020 18:26:55 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0741-hugo-zwbetz-blog-tutorial-again/</guid>
+      <description>Go through the tutorial again. Put it into a new repo in github. Set up publishDir as docs and generate a github pages site right from the start.
+hugo-zwbetz-blog
+sample heading example ![example](/img in static folder.jpg)</description>
+    </item>
+    
+    <item>
+      <title>0743 Updates to hugo-zwbetz-blog</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0743-updates-to-hugo-zwberz-log/</link>
+      <pubDate>Sun, 22 Nov 2020 18:24:11 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0743-updates-to-hugo-zwberz-log/</guid>
+      <description>Running on Green, in the folder Websites and on github and github pages.
+Following the zwbetz tutorial again, from scratch, but this time:
+ favicon baseURL html templates inline rather than baseof, partials, etc comments in the templates (more to be done) other experiments including bootstrap classes etc to try out formatting and other ideas use of Meld to compare the inline html for index, single, list and terms has been carried out to allow easier highlight of the key differences  </description>
+    </item>
+    
     <item>
       <title>Git and Github From the Coding Train</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/git-and-github-from-the-coding-train/</link>
