@@ -3,17 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/0745-git-short-course-youtube-learnwebcode/</loc>
+    <lastmod>2020-11-22T17:36:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/blog/</loc>
+    <lastmod>2020-11-22T17:36:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/git/</loc>
+    <lastmod>2020-11-22T17:36:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/</loc>
+    <lastmod>2020-11-22T17:36:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/learnwebcode/</loc>
+    <lastmod>2020-11-22T17:36:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/</loc>
+    <lastmod>2020-11-22T17:36:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/youtube/</loc>
+    <lastmod>2020-11-22T17:36:30+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/bootstrap/</loc>
     <lastmod>2020-11-18T09:50:09+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/hugotips/building-a-hugo-site-and-theme-with-bootstrap/</loc>
-    <lastmod>2020-11-18T09:50:09+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/</loc>
     <lastmod>2020-11-18T09:50:09+00:00</lastmod>
   </url>
   
@@ -28,16 +58,6 @@
   </url>
   
   <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/</loc>
-    <lastmod>2020-11-18T09:50:09+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/git/</loc>
-    <lastmod>2020-11-17T19:27:31+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/hugotips/git-and-github-from-the-coding-train/</loc>
     <lastmod>2020-11-17T19:27:31+00:00</lastmod>
   </url>
@@ -49,11 +69,6 @@
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/the-coding-train/</loc>
-    <lastmod>2020-11-17T19:27:31+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/youtube/</loc>
     <lastmod>2020-11-17T19:27:31+00:00</lastmod>
   </url>
   
@@ -94,11 +109,6 @@
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/0737-youtube-videos-to-watch/</loc>
-    <lastmod>2020-11-16T14:17:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/blog/</loc>
     <lastmod>2020-11-16T14:17:22+00:00</lastmod>
   </url>
   
