@@ -93,3 +93,21 @@ inline code block
 
 # more stuff on markdown
 [link found about markdown](https://agea.github.io/tutorial.md/)
+
+# Blackfriday
+
+[Blackfriday](https://github.com/russross/blackfriday)
+## Footnote
+here is a go at a footnote.[^1]
+## Definition list
+Cat
+: Fluffy animal everyone likes
+
+Internet
+: Vector of transmission for pictures of cats
+
+## Strikethrough
+
+~~testing~~
+
+[^1]: This is the footnote

@@ -6,7 +6,44 @@
     <description>Recent content in Hugotips on green | hugo-scratch-1 | build 0001</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2020 09:50:09 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/hugotips/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Nov 2020 16:10:17 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/hugotips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simple Shortcode To add raw html</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/simple-shortcode-to-insert-raw-html/</link>
+      <pubDate>Tue, 24 Nov 2020 16:10:17 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/simple-shortcode-to-insert-raw-html/</guid>
+      <description>Simple Shortcode To add raw html
+This is raw HTML, inside Markdown. And here is a feather icon!!! 
+And the Rating, which could be set up as separate hard coded short codes, so 1-star, 2-star, etc. There must be a way to input the number of stars as a variable.
+
+Other links to follow up  Structured book data in Hugo posts Adding web mentions Adding syndication URLs  </description>
+    </item>
+    
+    <item>
+      <title>Hugo and the GDPR</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/hugo-and-the-gdpr/</link>
+      <pubDate>Tue, 24 Nov 2020 16:03:15 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/hugo-and-the-gdpr/</guid>
+      <description>Hugo and the GDPR
+sample heading example ![example](/img in static folder.jpg)</description>
+    </item>
+    
+    <item>
+      <title>Shortcode highlight</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/shortcode-highlight/</link>
+      <pubDate>Tue, 24 Nov 2020 15:49:25 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/shortcode-highlight/</guid>
+      <description>shortcodes
+shortcode tweet
+shortcode vimeo
+shortcode youtube
+See the markdown for how this works. Basically wrap the target text in the pair of highlight tags.
+&amp;lt;section id=&amp;#34;main&amp;#34;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;h1 id=&amp;#34;title&amp;#34;&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt; {{ range .Pages }} {{ .Render &amp;#34;summary&amp;#34;}} {{ end }} &amp;lt;/div&amp;gt; &amp;lt;/section&amp;gt; </description>
+    </item>
+    
     <item>
       <title>Building a Hugo Site and Theme With Bootstrap</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/building-a-hugo-site-and-theme-with-bootstrap/</link>

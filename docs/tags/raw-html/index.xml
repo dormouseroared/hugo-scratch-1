@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>raw html on green | hugo-scratch-1 | build 0001</title>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/raw-html/</link>
+    <description>Recent content in raw html on green | hugo-scratch-1 | build 0001</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Nov 2020 16:10:17 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/raw-html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simple Shortcode To add raw html</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/simple-shortcode-to-insert-raw-html/</link>
+      <pubDate>Tue, 24 Nov 2020 16:10:17 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/simple-shortcode-to-insert-raw-html/</guid>
+      <description>Simple Shortcode To add raw html
+This is raw HTML, inside Markdown. And here is a feather icon!!! 
+And the Rating, which could be set up as separate hard coded short codes, so 1-star, 2-star, etc. There must be a way to input the number of stars as a variable.
+
+Other links to follow up  Structured book data in Hugo posts Adding web mentions Adding syndication URLs  </description>
+    </item>
+    
+  </channel>
+</rss>
