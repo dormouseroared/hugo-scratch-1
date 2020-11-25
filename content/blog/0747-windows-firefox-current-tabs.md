@@ -15,7 +15,6 @@ When the markdown is pasted in, there are no line breaks so all the links run to
 * Add the asterisk space to the selected lines.
 ## Copy All Tab URLs sends Markdown of all tabs to the clipboard
 * [VS Code insert same text at start of selected lines](https://nickjanetakis.com/blog/insert-multiple-cursors-at-the-start-of-every-line-with-vscode)
-* [(518) 63) Frequency Separation - YouTube](https://www.youtube.com/watch?v=J6Grue5NtFY&list=PLHl8nuacOfLKBWAYhgQ7gguAcTqnadSXx&index=64)
 ### Hugo
 * [Hugo News | Hugo](https://gohugo.io/news/)
 * [A Spoonful of Hugo: The netlify.toml File | Alison Hill](https://alison.rbind.io/post/2019-02-19-hugo-netlify-toml/)
@@ -100,6 +99,7 @@ When the markdown is pasted in, there are no line breaks so all the links run to
 * [GIMP Tutorials | Davies Media Design | Denver, CO](https://daviesmediadesign.com/tutorials/)
 * [(314) GIMP 2.10 Basics: Complete Overview Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=2EPIUyFJ4ag)
 * [gimp brushes - Google Search](https://www.google.com/search?client=firefox-b-d&q=gimp+brushes)
+* [(518) 63) Frequency Separation - YouTube](https://www.youtube.com/watch?v=J6Grue5NtFY&list=PLHl8nuacOfLKBWAYhgQ7gguAcTqnadSXx&index=64)
 * [GIMP Brushes on MasterGIMPers - DeviantArt](https://www.deviantart.com/mastergimpers/gallery/26780325/gimp-brushes)
 * [(295) How to Install Brushes in GIMP (+ Best FREE GIMP Brushes) - YouTube](https://www.youtube.com/watch?v=MJCXAUeiQ5Y)
 * [(295) LEARN GIMP IN 30 MINUTES | Complete Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=IeABb8cwdUg)

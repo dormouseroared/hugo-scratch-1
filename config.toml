@@ -1,6 +1,6 @@
 baseURL = "https://dormouseroared.github.io/hugo-scratch-1/"
 languageCode = "en-us"
-title = "green | hugo-scratch-1 | build 0001"
+title = "green | hugo-scratch-1 | 0002"
 publishDir = "docs"
 
 [taxonomies]
