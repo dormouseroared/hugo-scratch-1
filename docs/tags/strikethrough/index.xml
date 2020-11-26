@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>strikethrough on green | hugo-scratch-1 | 0002</title>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/strikethrough/</link>
+    <description>Recent content in strikethrough on green | hugo-scratch-1 | 0002</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Nov 2020 18:37:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/strikethrough/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0729 | markdown crash course</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0729-markdown-crash-course/</link>
+      <pubDate>Tue, 10 Nov 2020 18:37:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0729-markdown-crash-course/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 italic with single asterisk or use escape to show _underline_ or *asterisk*
+_italic with single underscore _
+bold with double asterisk
+bold with double underscore
+strike through
+Triple underscore or hyphen for a horizontal line
+   this is a blockquote on multiple lines
+ Markdown Crash Course
+Markdown Crash Course
+ Item one Item two Item three  Nested more nested   back to normal more   first inserted second third  inline code block &amp;lt;p&amp;gt;paragraph&amp;lt;/p&amp;gt;</description>
+    </item>
+    
+  </channel>
+</rss>

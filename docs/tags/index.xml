@@ -6,7 +6,34 @@
     <description>Recent content in Tags on green | hugo-scratch-1 | 0002</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2020 21:21:09 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Nov 2020 21:58:09 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/hugo/</link>
+      <pubDate>Wed, 25 Nov 2020 21:58:09 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jamie Duncan</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/jamie-duncan/</link>
+      <pubDate>Wed, 25 Nov 2020 21:58:09 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/jamie-duncan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/shortcodes/</link>
+      <pubDate>Wed, 25 Nov 2020 21:58:09 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>blog</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/tags/blog/</link>
@@ -17,11 +44,20 @@
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/hugo/</link>
+      <title>folder</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/folder/</link>
       <pubDate>Wed, 25 Nov 2020 21:21:09 +0000</pubDate>
       
-      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/hugo/</guid>
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/folder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jake Wiesler</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/jake-wiesler/</link>
+      <pubDate>Wed, 25 Nov 2020 21:21:09 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/jake-wiesler/</guid>
       <description></description>
     </item>
     
@@ -467,11 +503,29 @@
     </item>
     
     <item>
+      <title>footnote</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/footnote/</link>
+      <pubDate>Tue, 10 Nov 2020 18:37:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/footnote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>markdown</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/tags/markdown/</link>
       <pubDate>Tue, 10 Nov 2020 18:37:00 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>strikethrough</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/strikethrough/</link>
+      <pubDate>Tue, 10 Nov 2020 18:37:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/strikethrough/</guid>
       <description></description>
     </item>
     

@@ -4,7 +4,7 @@ date:  "2020-11-10T18:37:00"
 author:  "Nigel"
 authorTwitter:  "" #do not include @
 cover:  "conifer.jpg"
-tags:  ["markdown", "Brad Traversy", "Hugo", "git"]
+tags:  ["markdown", "Brad Traversy", "Hugo", "git", "footnote", "strikethrough"]
 description:  "Try out as many format examples as possible and try to work out what is supported in Hugo. Examples of what should be supported in Hugo are here plus some that may not be. Note the picture is in the static folder."
 showFullContent:  false
 ---

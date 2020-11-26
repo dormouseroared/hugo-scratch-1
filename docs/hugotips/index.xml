@@ -6,14 +6,32 @@
     <description>Recent content in Hugotips on green | hugo-scratch-1 | 0002</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2020 21:21:09 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/hugotips/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Nov 2020 21:58:09 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/hugotips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting to know Hugo shortcodes</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/getting-to-know-hugo-shortcodes/</link>
+      <pubDate>Wed, 25 Nov 2020 21:58:09 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/getting-to-know-hugo-shortcodes/</guid>
+      <description> Getting to know Hugo shortcodes  </description>
+    </item>
+    
+    <item>
+      <title>Hugo directory structure</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/hugo-folder-structure/</link>
+      <pubDate>Wed, 25 Nov 2020 21:21:09 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/hugo-folder-structure/</guid>
+      <description> Jake Wiesler: Hugo directory structure  </description>
+    </item>
+    
     <item>
       <title>zwbetz blog with Hugo entries</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/zwbetz-blog/</link>
       <pubDate>Wed, 25 Nov 2020 21:21:09 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/zwbetz-blog/</guid>
-      <description>zwbetz: blog of Hugo entries</description>
+      <description> zwbetz: blog of Hugo entries zwbetz: minimal blog layout  </description>
     </item>
     
     <item>
