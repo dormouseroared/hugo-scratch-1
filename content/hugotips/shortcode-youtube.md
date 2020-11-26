@@ -1,7 +1,7 @@
 ---
 title: "Shortcode Youtube"
 date: 2020-11-16T20:13:47Z
-tags: []
+tags: ["shortcode", "youtube"]
 draft: false
 ---
 ## example of using an existing shortcode

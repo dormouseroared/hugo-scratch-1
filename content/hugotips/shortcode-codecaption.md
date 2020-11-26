@@ -1,7 +1,7 @@
 ---
 title: "Shortcode: codecaption"
 date: 2020-11-15T22:21:37Z
-tags: ["shortcode", "code"]
+tags: ["shortcode", "code", "codecaption"]
 draft: false
 ---
 ## Source

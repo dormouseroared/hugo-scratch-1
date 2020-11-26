@@ -1,7 +1,7 @@
 ---
 title: "Blog With Hugo"
 date: 2020-11-16T21:52:38Z
-tags: []
+tags: ["blog", "git"]
 draft: false
 ---
 

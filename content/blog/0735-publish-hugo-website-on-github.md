@@ -28,16 +28,20 @@ git status
 git add --all
 git commit -m "Initial commit"
 git push -u origin master
+
+git push (can be used thereafter)
+
 ```
 
-Note that the response to push might be to enter these commands: [^1]
+The initial response on a new computer when attempting to push might be the need to enter these commands: [^1]
 ```
 git config --global user.email "github email"
 git config --global user.name "github name"
 git config --global core.editor "nano"
+git config --global pager.branch false (git branch now displays inline rather than edit mode)
 
 ```
-
+[Stackoverflow: how to display output of git branch on screen](https://stackoverflow.com/questions/54331536/how-to-display-output-of-git-branch-on-screen-in-same-cli-terminal)
 ### Web: refresh github page to see updated repository
 ### Web: click Settings on right hand end of commands, scroll down to Github Pages
 
@@ -50,7 +54,8 @@ git config --global core.editor "nano"
 
 ### Other points
 
-> No real content published because every post or content has draft=True. Need to see how to > publish to make that draft=False without having to go through every document.
-> This is a test site which has no HTML header stuff at all.
+* No real content published because every post or content has draft=True. 
+* Need to see how to publish to make that draft=False without having to go through every document.
+* This is a test site which has no HTML header stuff at all.
 
 [^1]: Note: the editor was added afterwards for Green only and is still to be tested, but should be better than vim.

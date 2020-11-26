@@ -1,7 +1,7 @@
 ---
 title: "Add a Cms to Hugo"
 date: 2020-11-16T21:44:04Z
-tags: []
+tags: ["cms"]
 draft: false
 ---
 
