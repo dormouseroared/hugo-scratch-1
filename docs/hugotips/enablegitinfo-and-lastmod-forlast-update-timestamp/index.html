@@ -96,7 +96,7 @@
 <h2 id="reading-through-the-hugo-documentation">Reading through the Hugo documentation</h2>
 <p>This first link wasn&rsquo;t the one originally read that resulted in changing hugo-scratch-1, <a href="https://gohugo.io/variables/git/">Git variable</a>, but it does have some useful information to be followed up.</p>
 <ul>
-<li>update the config file to make enableGitInfo true</li>
+<li>update the config file to make enableGitInfo true (default is false)</li>
 </ul>
 <pre><code>enableGitInfo (false)
 Enable .GitInfo object for each page (if the Hugo site is versioned by Git). 
@@ -107,7 +107,8 @@ last git commit date for that content file.
 </ul>
 <p><a href="https://gohugo.io/getting-started/configuration/">configuration</a></p>
 <ul>
-<li>Added rating as well, as it is available via Params. Not sure what happens if it is absent.</li>
+<li>Added <em>rating</em> as well, as it is available via Params. If rating is absent, there are no errors, and blank is displayed.</li>
+<li>In addition, a first attempt at a shortcode for 4 stars (red feather icons), called star4.html, is being tried out, and it seems to work! It would be better to have this generated in the template but this will have to do for now.</li>
 </ul>
 <p>
     <i style="fill: red;" data-feather="star"></i>
@@ -120,7 +121,7 @@ last git commit date for that content file.
 
 <em>Draft: false</em>
 <br>
-<em>Last update: 2020-11-26 16:44:33 &#43;0000 UTC</em>
+<em>Last update: 2020-11-26 17:13:07 &#43;0000 GMT</em>
 <br>
 <em>Rating: 4</em>
 <br>

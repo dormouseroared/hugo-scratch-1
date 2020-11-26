@@ -110,4 +110,13 @@ Internet
 
 ~~testing~~
 
+## Some markdown editors from the many available
+
+* [OSD Note is a portable text editor that supports rich text formatting, has a transparent GUI and always on top mode - gHacks Tech News](https://www.ghacks.net/2020/09/07/osd-note-is-a-portable-text-editor-that-supports-rich-text-formatting-has-a-transparent-gui-and-always-on-top-mode/ "OSD Note is a portable text editor that supports rich text formatting, has a transparent GUI and always on top mode - gHacks Tech News")
+* [Zim is a free, open source, text editor with wiki like features- gHacks Tech News](https://www.ghacks.net/2019/07/10/zim-is-a-free-open-source-text-editor-with-wiki-like-features/ "Zim is a free, open source, text editor with wiki like features- gHacks Tech News")
+* [QOwnNotes is an open source note taking tool that supports Markdown - gHacks Tech News](https://www.ghacks.net/2019/11/22/qownnotes-is-an-open-source-note-taking-tool-that-supports-markdown/ "QOwnNotes is an open source note taking tool that supports Markdown - gHacks Tech News")
+* [Ghostwriter is an open source markdown editor with a polished interface - gHacks Tech News](https://www.ghacks.net/2019/08/27/ghostwriter-is-an-open-source-markdown-editor-with-a-polished-interface/ "Ghostwriter is an open source markdown editor with a polished interface - gHacks Tech News")
+* [Perpetual Notes is a rich text editor that supports images, hyperlinks, tables and more - gHacks Tech News](https://www.ghacks.net/2020/11/25/perpetual-notes-is-a-rich-text-editor-that-supports-images-hyperlinks-tables-and-more/ "Perpetual Notes is a rich text editor that supports images, hyperlinks, tables and more - gHacks Tech News")
+* [Extract the URL and title from multiple tabs with the Copy Selected Tabs to Clipboard extension for Firefox - gHacks Tech News](https://www.ghacks.net/2020/08/30/extract-the-url-and-title-from-multiple-tabs-with-the-copy-selected-tabs-to-clipboard-extension-for-firefox/ "Extract the URL and title from multiple tabs with the Copy Selected Tabs to Clipboard extension for Firefox - gHacks Tech News")
+
 [^1]: This is the footnote
