@@ -53,4 +53,4 @@ git config --global core.editor "nano"
 > No real content published because every post or content has draft=True. Need to see how to > publish to make that draft=False without having to go through every document.
 > This is a test site which has no HTML header stuff at all.
 
-[^1] Note: the editor was added afterwards for Green only and is still to be tested, but should be better than vim.
+[^1]: Note: the editor was added afterwards for Green only and is still to be tested, but should be better than vim.
