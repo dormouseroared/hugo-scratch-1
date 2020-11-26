@@ -45,6 +45,26 @@ See the markdown for how this works. Basically wrap the target text in the pair 
     </item>
     
     <item>
+      <title>Styling Tables With Hugo with a shortcode</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/styling-tables-with-hugo/</link>
+      <pubDate>Mon, 16 Nov 2020 21:39:09 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/styling-tables-with-hugo/</guid>
+      <description>table tutorial</description>
+    </item>
+    
+    <item>
+      <title>Shortcode Youtube</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/shortcode-youtube/</link>
+      <pubDate>Mon, 16 Nov 2020 20:13:47 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/shortcode-youtube/</guid>
+      <description>example of using an existing shortcode Medium | The Agent | shortcodes in Hugo Hugo | built in short codes
+--- title: &amp;quot;Embed a Youtube video&amp;quot; date: 2020-01-01T14:17:03-05:00 draft: false ---    How to create a custom shortcode So how do we create our own custom shortcode?
+It’s fairly easy. All we have to do is create a shortcodes folder under the layouts folder, and put the HTML file that we want the shortcode to insert in the folder.</description>
+    </item>
+    
+    <item>
       <title>Shortcode: codecaption</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/shortcode-codecaption/</link>
       <pubDate>Sun, 15 Nov 2020 22:21:37 +0000</pubDate>

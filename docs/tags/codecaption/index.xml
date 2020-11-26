@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>codecaption on green | hugo-scratch-1 | 0002</title>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/codecaption/</link>
+    <description>Recent content in codecaption on green | hugo-scratch-1 | 0002</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Nov 2020 22:21:37 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/codecaption/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shortcode: codecaption</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/shortcode-codecaption/</link>
+      <pubDate>Sun, 15 Nov 2020 22:21:37 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/shortcode-codecaption/</guid>
+      <description>Source Github repository: Hugo Shortcodes
+Searched for hugo shortcodes and found this Github repo. Copied the HTML without the comments into layouts/shortcodes/codecaption.html and then just wrap the code to be displayed in a code box as per the example.
+ There are other shortcodes to copy over.  add the double curly brackets &amp;lt; codecaption lang=&amp;quot;html&amp;quot; title=&amp;quot;Code caption shortcode&amp;quot; &amp;gt; code to be displayed in the box &amp;lt; /codecaption &amp;gt; Purpose Adds title to code blocks.</description>
+    </item>
+    
+  </channel>
+</rss>

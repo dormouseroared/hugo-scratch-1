@@ -283,6 +283,11 @@
   </url>
   
   <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/cms/</loc>
+    <lastmod>2020-11-16T21:44:04+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/hugotips/hugo-and-bootstrap/</loc>
     <lastmod>2020-11-16T21:42:26+00:00</lastmod>
   </url>
@@ -290,6 +295,16 @@
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/hugotips/styling-tables-with-hugo/</loc>
     <lastmod>2020-11-16T21:39:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/table/</loc>
+    <lastmod>2020-11-16T21:39:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/seo/</loc>
+    <lastmod>2020-11-16T21:34:53+00:00</lastmod>
   </url>
   
   <url>
@@ -348,6 +363,11 @@
   </url>
   
   <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/codecaption/</loc>
+    <lastmod>2020-11-15T22:21:37+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/hugotips/shortcode-codecaption/</loc>
     <lastmod>2020-11-15T22:21:37+00:00</lastmod>
   </url>
@@ -364,6 +384,11 @@
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/hugotips/help/</loc>
+    <lastmod>2020-11-15T13:11:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/help/</loc>
     <lastmod>2020-11-15T13:11:10+00:00</lastmod>
   </url>
   

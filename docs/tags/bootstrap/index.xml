@@ -32,5 +32,14 @@ lordicon css.gg material-ui </description>
  Building a Hugo Site and Theme With Bootstrap  Result  In the photos, this didn&amp;rsquo;t look right: Now if you go to http://localhost:1313 you should see the normal list of pages that is generated with the default list template.</description>
     </item>
     
+    <item>
+      <title>Hugo and Bootstrap</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/hugo-and-bootstrap/</link>
+      <pubDate>Mon, 16 Nov 2020 21:42:26 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/hugo-and-bootstrap/</guid>
+      <description>Building a Hugo site</description>
+    </item>
+    
   </channel>
 </rss>

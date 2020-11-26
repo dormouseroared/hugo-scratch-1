@@ -128,12 +128,17 @@ git status
 git add --all
 git commit -m &quot;Initial commit&quot;
 git push -u origin master
-</code></pre><p>Note that the response to push might be to enter these commands: <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+
+git push (can be used thereafter)
+
+</code></pre><p>The initial response on a new computer when attempting to push might be the need to enter these commands: <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
 <pre><code>git config --global user.email &quot;github email&quot;
 git config --global user.name &quot;github name&quot;
 git config --global core.editor &quot;nano&quot;
+git config --global pager.branch false (git branch now displays inline rather than edit mode)
 
-</code></pre><h3 id="web-refresh-github-page-to-see-updated-repository">Web: refresh github page to see updated repository</h3>
+</code></pre><p><a href="https://stackoverflow.com/questions/54331536/how-to-display-output-of-git-branch-on-screen-in-same-cli-terminal">Stackoverflow: how to display output of git branch on screen</a></p>
+<h3 id="web-refresh-github-page-to-see-updated-repository">Web: refresh github page to see updated repository</h3>
 <h3 id="web-click-settings-on-right-hand-end-of-commands-scroll-down-to-github-pages">Web: click Settings on right hand end of commands, scroll down to Github Pages</h3>
 <ul>
 <li>Choose Branch=master, then see that the only folder that can be used to publish from is called Docs</li>
@@ -144,10 +149,11 @@ git config --global core.editor &quot;nano&quot;
 <li><a href="https://dormouseroared.github.io/hugo-dm1">Github Hugo Website</a></li>
 </ul>
 <h3 id="other-points">Other points</h3>
-<blockquote>
-<p>No real content published because every post or content has draft=True. Need to see how to &gt; publish to make that draft=False without having to go through every document.
-This is a test site which has no HTML header stuff at all.</p>
-</blockquote>
+<ul>
+<li>No real content published because every post or content has draft=True.</li>
+<li>Need to see how to publish to make that draft=False without having to go through every document.</li>
+<li>This is a test site which has no HTML header stuff at all.</li>
+</ul>
 <section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>

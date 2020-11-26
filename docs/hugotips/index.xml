@@ -118,7 +118,7 @@ See the markdown for how this works. Basically wrap the target text in the pair 
     </item>
     
     <item>
-      <title>Styling Tables With Hugo</title>
+      <title>Styling Tables With Hugo with a shortcode</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/styling-tables-with-hugo/</link>
       <pubDate>Mon, 16 Nov 2020 21:39:09 +0000</pubDate>
       
@@ -132,7 +132,7 @@ See the markdown for how this works. Basically wrap the target text in the pair 
       <pubDate>Mon, 16 Nov 2020 21:34:53 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/seo-tutorial/</guid>
-      <description>useful list of things to be explored tutorial 1 tutorial 2</description>
+      <description>useful list of things to be explored  SEO tutorial 1 SEO tutorial 2  </description>
     </item>
     
     <item>
@@ -141,7 +141,7 @@ See the markdown for how this works. Basically wrap the target text in the pair 
       <pubDate>Mon, 16 Nov 2020 21:26:51 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/hugo-tutorial/</guid>
-      <description>tutorial</description>
+      <description> Introduction themeless Hugo tutorial  </description>
     </item>
     
     <item>

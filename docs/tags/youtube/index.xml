@@ -17,6 +17,17 @@
     </item>
     
     <item>
+      <title>Shortcode Youtube</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/shortcode-youtube/</link>
+      <pubDate>Mon, 16 Nov 2020 20:13:47 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/shortcode-youtube/</guid>
+      <description>example of using an existing shortcode Medium | The Agent | shortcodes in Hugo Hugo | built in short codes
+--- title: &amp;quot;Embed a Youtube video&amp;quot; date: 2020-01-01T14:17:03-05:00 draft: false ---    How to create a custom shortcode So how do we create our own custom shortcode?
+It’s fairly easy. All we have to do is create a shortcodes folder under the layouts folder, and put the HTML file that we want the shortcode to insert in the folder.</description>
+    </item>
+    
+    <item>
       <title>0737 | Youtube Videos to Watch</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/0737-youtube-videos-to-watch/</link>
       <pubDate>Mon, 16 Nov 2020 14:17:22 +0000</pubDate>

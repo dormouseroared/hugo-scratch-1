@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>table on green | hugo-scratch-1 | 0002</title>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/table/</link>
+    <description>Recent content in table on green | hugo-scratch-1 | 0002</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Nov 2020 21:39:09 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/table/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Styling Tables With Hugo with a shortcode</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/styling-tables-with-hugo/</link>
+      <pubDate>Mon, 16 Nov 2020 21:39:09 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/styling-tables-with-hugo/</guid>
+      <description>table tutorial</description>
+    </item>
+    
+  </channel>
+</rss>
