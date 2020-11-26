@@ -10,9 +10,15 @@ draft: false
   <p class="speshal-fancy-custom">
     This is <strong>raw HTML</strong>, inside Markdown.
   </p>
-  <p>And here is a feather icon!!! <i data-feather="circle"></i></p>
+  <p>And here is a feather icon!!! <i data-feather="home"></i></p>
   <p>And the Rating, which could be set up as separate hard coded short codes, so 1-star, 2-star, etc. There must be a way to input the number of stars as a variable.</p>
-  <p><i style="fill: red;" data-feather="star"></i><i style="fill: red;" data-feather="star"></i><i style="fill: red;" data-feather="star"></i><i style="fill: red;" data-feather="star"></i><i style="fill: none;" data-feather="star"></i></p>
+  <p>
+  <i style="fill: red;" data-feather="star"></i>
+  <i style="fill: red;" data-feather="star"></i>
+  <i style="fill: red;" data-feather="star"></i>
+  <i style="fill: red;" data-feather="star"></i>
+  <i style="fill: none;" data-feather="star"></i>
+  </p>
 {{< /rawhtml >}}
 
 ## Other links to follow up

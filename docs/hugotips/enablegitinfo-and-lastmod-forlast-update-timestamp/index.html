@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="generator" content="Hugo 0.78.2" />
+    
+    <link rel="stylesheet" href="https://dormouseroared.github.io/hugo-scratch-1/css/bootstrap.min.css">
+
+    
+    
+    
+    
+
+    
+    <link rel="shortcut icon" href="https://dormouseroared.github.io/hugo-scratch-1/favicon.ico" type="image/x-icon">
+
+
+    
+    
+    <title>EnableGitInfo and Lastmod For Last Updated Timestamp | green | hugo-scratch-1 | 0003</title>
+    <style>
+    .container {
+      max-width: 700px;
+    }
+    #nav a {
+      font-weight: bold;
+      color: inherit;
+    }
+    #nav-border {
+      border-bottom: 1px solid #212529;
+    }
+    #main {
+      margin-top: 1em;
+      margin-bottom: 4em;
+    }
+    #home-jumbotron {
+      background-color: inherit;
+    }
+    .font-125 {
+      font-size: 125%;
+    }
+    .tag-btn {
+      margin-bottom: 0.3em;
+    }
+    img {
+      max-width: 100%;
+    }
+    </style>
+  </head>
+  <body>
+    <div id="nav-border" class="container">
+    <nav id="nav" class="nav justify-content-center">
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/"><i data-feather="home"></i> Home</a>
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/blog/"><i data-feather="edit"></i> Blog</a>
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/hugotips/"><i data-feather="paperclip"></i> Hugo Tips</a>
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/tags/"><i data-feather="tag"></i> Tags</a>
+        
+    </nav>
+</div>
+    <div class="container">
+      <main id="main">
+       
+
+<h1>EnableGitInfo and Lastmod For Last Updated Timestamp</h1>
+
+
+<i data-feather="calendar"></i> <time datetime="2020-11-26">Nov 26, 2020</time>
+
+  <br>
+  <i data-feather="tag"></i>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/git">git</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/lastmod">lastmod</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/rating">rating</a>
+  
+
+<br><br>
+<h2 id="reading-through-the-hugo-documentation">Reading through the Hugo documentation</h2>
+<p>This first link wasn&rsquo;t the one originally read that resulted in changing hugo-scratch-1, <a href="https://gohugo.io/variables/git/">Git variable</a>, but it does have some useful information to be followed up.</p>
+<ul>
+<li>update the config file to make enableGitInfo true</li>
+</ul>
+<pre><code>enableGitInfo (false)
+Enable .GitInfo object for each page (if the Hugo site is versioned by Git). 
+This will then update the Lastmod parameter for each page using the 
+last git commit date for that content file.
+</code></pre><ul>
+<li>use <em>lastmod</em> in layouts/_default/single.html to show the last updated timestamp for each bit of content.</li>
+</ul>
+<p><a href="https://gohugo.io/getting-started/configuration/">configuration</a></p>
+<ul>
+<li>Added rating as well, as it is available via Params. Not sure what happens if it is absent.</li>
+</ul>
+<p>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: none;" data-feather="star"></i>
+</p>
+
+
+<em>Draft: false</em>
+<br>
+<em>Last update: 2020-11-26 16:44:33 &#43;0000 UTC</em>
+<br>
+<em>Rating: 4</em>
+<br>
+<em>Next and previous could go here</em>
+
+      </main>
+    </div>
+    
+<script src="https://dormouseroared.github.io/hugo-scratch-1/js/feather.min.js"></script>
+<script>
+  feather.replace()
+</script>
+  </body>
+</html>

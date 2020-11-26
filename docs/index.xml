@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>green | hugo-scratch-1 | 0002</title>
+    <title>green | hugo-scratch-1 | 0003</title>
     <link>https://dormouseroared.github.io/hugo-scratch-1/</link>
-    <description>Recent content on green | hugo-scratch-1 | 0002</description>
+    <description>Recent content on green | hugo-scratch-1 | 0003</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2020 21:58:09 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Nov 2020 16:44:33 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EnableGitInfo and Lastmod For Last Updated Timestamp</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/enablegitinfo-and-lastmod-forlast-update-timestamp/</link>
+      <pubDate>Thu, 26 Nov 2020 16:44:33 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/enablegitinfo-and-lastmod-forlast-update-timestamp/</guid>
+      <description>Reading through the Hugo documentation This first link wasn&amp;rsquo;t the one originally read that resulted in changing hugo-scratch-1, Git variable, but it does have some useful information to be followed up.
+ update the config file to make enableGitInfo true  enableGitInfo (false) Enable .GitInfo object for each page (if the Hugo site is versioned by Git). This will then update the Lastmod parameter for each page using the last git commit date for that content file.</description>
+    </item>
+    
     <item>
       <title>Getting to know Hugo shortcodes</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/getting-to-know-hugo-shortcodes/</link>
@@ -43,8 +53,7 @@
       <description>Simple Shortcode To add raw html
 This is raw HTML, inside Markdown. And here is a feather icon!!! 
 And the Rating, which could be set up as separate hard coded short codes, so 1-star, 2-star, etc. There must be a way to input the number of stars as a variable.
-
-Other links to follow up  Structured book data in Hugo posts Adding web mentions Adding syndication URLs  </description>
+      Other links to follow up  Structured book data in Hugo posts Adding web mentions Adding syndication URLs  </description>
     </item>
     
     <item>

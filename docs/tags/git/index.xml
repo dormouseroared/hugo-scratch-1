@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>git on green | hugo-scratch-1 | 0002</title>
+    <title>git on green | hugo-scratch-1 | 0003</title>
     <link>https://dormouseroared.github.io/hugo-scratch-1/tags/git/</link>
-    <description>Recent content in git on green | hugo-scratch-1 | 0002</description>
+    <description>Recent content in git on green | hugo-scratch-1 | 0003</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2020 18:25:28 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Nov 2020 16:44:33 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EnableGitInfo and Lastmod For Last Updated Timestamp</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/enablegitinfo-and-lastmod-forlast-update-timestamp/</link>
+      <pubDate>Thu, 26 Nov 2020 16:44:33 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/enablegitinfo-and-lastmod-forlast-update-timestamp/</guid>
+      <description>Reading through the Hugo documentation This first link wasn&amp;rsquo;t the one originally read that resulted in changing hugo-scratch-1, Git variable, but it does have some useful information to be followed up.
+ update the config file to make enableGitInfo true  enableGitInfo (false) Enable .GitInfo object for each page (if the Hugo site is versioned by Git). This will then update the Lastmod parameter for each page using the last git commit date for that content file.</description>
+    </item>
+    
     <item>
       <title>0742 Git Message Your Branch Is Ahead</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/0742-git-message-your-branch-is-ahead/</link>
