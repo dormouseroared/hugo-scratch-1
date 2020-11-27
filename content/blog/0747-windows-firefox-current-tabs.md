@@ -2,13 +2,14 @@
 title: "0747 Windows Firefox Current Tabs"
 date: 2020-11-24T09:35:37Z
 tags: ["Hugo", "netlify", "gretl", "tableau", "Visual Studio Code"]
+rating: 5
 draft: false
 ---
 
 ## Record what was going on, and a chance to organise and review
 Note that pinned tabs have been removed.
 
-When the markdown is pasted in, there are no line breaks so all the links run together. At the moment, the simple solution is to add an asterisk space at the fron of each line. The best way to do this with Visual Studio Code is to: 
+When the markdown is pasted in, there are no line breaks so all the links run together. At the moment, the simple solution is to add an asterisk space at the front of each line. The best way to do this with Visual Studio Code is to: 
 * select the lines to be updated
 * Press SHIFT + ALT + I to insert multiple cursors at the end of each line.
 * Press Home twice to jump to the start of every line.

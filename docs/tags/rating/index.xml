@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rating on green | hugo-scratch-1 | 0003</title>
+    <title>rating on green | hugo-scratch-1 | 0004</title>
     <link>https://dormouseroared.github.io/hugo-scratch-1/tags/rating/</link>
-    <description>Recent content in rating on green | hugo-scratch-1 | 0003</description>
+    <description>Recent content in rating on green | hugo-scratch-1 | 0004</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Nov 2020 16:44:33 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/rating/index.xml" rel="self" type="application/rss+xml" />
@@ -15,6 +15,18 @@
       <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/enablegitinfo-and-lastmod-forlast-update-timestamp/</guid>
       <description>Reading through the Hugo documentation This first link wasn&amp;rsquo;t the one originally read that resulted in changing hugo-scratch-1, Git variable, but it does have some useful information to be followed up.
  update the config file to make enableGitInfo true (default is false)  enableGitInfo (false) Enable .GitInfo object for each page (if the Hugo site is versioned by Git). This will then update the Lastmod parameter for each page using the last git commit date for that content file.</description>
+    </item>
+    
+    <item>
+      <title>Simple Shortcode To add raw html</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/simple-shortcode-to-insert-raw-html/</link>
+      <pubDate>Tue, 24 Nov 2020 16:10:17 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/simple-shortcode-to-insert-raw-html/</guid>
+      <description>Simple Shortcode To add raw html
+This is raw HTML, inside Markdown. And here is a feather icon!!! 
+And the Rating, which could be set up as separate hard coded short codes, so star-1, star-2, etc. There must be a way to input the number of stars as a variable.
+      Other links to follow up  Structured book data in Hugo posts Adding web mentions Adding syndication URLs  </description>
     </item>
     
   </channel>

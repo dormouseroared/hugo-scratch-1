@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on green | hugo-scratch-1 | 0003</title>
+    <title>Tags on green | hugo-scratch-1 | 0004</title>
     <link>https://dormouseroared.github.io/hugo-scratch-1/tags/</link>
-    <description>Recent content in Tags on green | hugo-scratch-1 | 0003</description>
+    <description>Recent content in Tags on green | hugo-scratch-1 | 0004</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2020 16:44:33 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Nov 2020 11:30:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Book Apart</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/a-book-apart/</link>
+      <pubDate>Fri, 27 Nov 2020 11:30:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/a-book-apart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reference</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/reference/</link>
+      <pubDate>Fri, 27 Nov 2020 11:30:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/reference/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>git</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/tags/git/</link>
@@ -85,6 +103,15 @@
       <pubDate>Wed, 25 Nov 2020 21:21:09 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/jake-wiesler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>feather icon</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/feather-icon/</link>
+      <pubDate>Tue, 24 Nov 2020 16:10:17 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/feather-icon/</guid>
       <description></description>
     </item>
     

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on green | hugo-scratch-1 | 0003</title>
+    <title>Blog on green | hugo-scratch-1 | 0004</title>
     <link>https://dormouseroared.github.io/hugo-scratch-1/blog/</link>
-    <description>Recent content in Blog on green | hugo-scratch-1 | 0003</description>
+    <description>Recent content in Blog on green | hugo-scratch-1 | 0004</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +13,7 @@
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/0747-windows-firefox-current-tabs/</guid>
       <description>Record what was going on, and a chance to organise and review Note that pinned tabs have been removed.
-When the markdown is pasted in, there are no line breaks so all the links run together. At the moment, the simple solution is to add an asterisk space at the fron of each line. The best way to do this with Visual Studio Code is to:
+When the markdown is pasted in, there are no line breaks so all the links run together. At the moment, the simple solution is to add an asterisk space at the front of each line. The best way to do this with Visual Studio Code is to:
  select the lines to be updated Press SHIFT + ALT + I to insert multiple cursors at the end of each line.</description>
     </item>
     
