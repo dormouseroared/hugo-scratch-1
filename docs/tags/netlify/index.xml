@@ -14,8 +14,7 @@
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/0747-windows-firefox-current-tabs/</guid>
       <description>Record what was going on, and a chance to organise and review Note that pinned tabs have been removed.
-When the markdown is pasted in, there are no line breaks so all the links run together. At the moment, the simple solution is to add an asterisk space at the front of each line. The best way to do this with Visual Studio Code is to:
- select the lines to be updated Press SHIFT + ALT + I to insert multiple cursors at the end of each line.</description>
+When the markdown is pasted in, there are no line breaks so all the links run together. At the moment, the simple solution is to add an asterisk space at the front of each line. The best way to do this with Visual Studio Code is to:</description>
     </item>
     
     <item>

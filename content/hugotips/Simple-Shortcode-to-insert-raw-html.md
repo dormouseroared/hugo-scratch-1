@@ -1,7 +1,7 @@
 ---
 title: "Simple Shortcode To add raw html"
 date: 2020-11-24T16:10:17Z
-tags: ["shortcode", "raw html", "feather icon", "rating"]
+tags: ["shortcode", "raw html", "feather icons", "rating"]
 rating: 5
 draft: false
 ---

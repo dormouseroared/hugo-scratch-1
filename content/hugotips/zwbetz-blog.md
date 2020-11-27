@@ -12,6 +12,7 @@ draft: false
 * [zwbetz | Blog](https://zwbetz.com/blog/)
 * [zwbetz | GitHub](https://github.com/zwbetz-gh/)
 * [zwbetz | Github blog](https://github.com/zwbetz-gh/zwbetz)
+* [Hugo Forum | Hugo Blog From Scratch](https://discourse.gohugo.io/t/tutorial-make-a-hugo-blog-from-scratch/16375/23)
 * [Design Guidelines](https://designsystem.digital.gov/)
 * [Hugo](https://gohugo.io/)
 * [Netlify](https://www.netlify.com/)

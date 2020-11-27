@@ -6,7 +6,19 @@
     <description>Recent content in feather icons on green | hugo-scratch-1 | 0004</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2020 18:23:11 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/feather-icons/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Nov 2020 16:10:17 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/feather-icons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simple Shortcode To add raw html</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/simple-shortcode-to-insert-raw-html/</link>
+      <pubDate>Tue, 24 Nov 2020 16:10:17 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/simple-shortcode-to-insert-raw-html/</guid>
+      <description>Simple Shortcode To add raw html
+This is raw HTML, inside Markdown. And here is a feather icon!!! 
+And the Rating, which could be set up as separate hard coded short codes, so star-1, star-2, etc. There must be a way to input the number of stars as a variable.
+      Other links to follow up  Structured book data in Hugo posts Adding web mentions Adding syndication URLs  </description>
+    </item>
+    
     <item>
       <title>0744 Icon Libraries</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/0744-icon-libraries/</link>

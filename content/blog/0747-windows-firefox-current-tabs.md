@@ -5,7 +5,7 @@ tags: ["Hugo", "netlify", "gretl", "tableau", "Visual Studio Code"]
 rating: 5
 draft: false
 ---
-
+{{< star5 >}}
 ## Record what was going on, and a chance to organise and review
 Note that pinned tabs have been removed.
 
