@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="generator" content="Hugo 0.78.2" />
+    
+    <link rel="stylesheet" href="https://dormouseroared.github.io/hugo-scratch-1/css/bootstrap.min.css">
+
+    
+    
+    
+    
+
+    
+    <link rel="shortcut icon" href="https://dormouseroared.github.io/hugo-scratch-1/favicon.ico" type="image/x-icon">
+
+
+    
+    
+    <title>mermaidjs | green | hugo-scratch-1 | 0006</title>
+    <style>
+    .container {
+      max-width: 700px;
+    }
+    #nav a {
+      font-weight: bold;
+      color: inherit;
+    }
+    #nav-border {
+      border-bottom: 1px solid #212529;
+    }
+    #main {
+      margin-top: 1em;
+      margin-bottom: 4em;
+    }
+    #home-jumbotron {
+      background-color: inherit;
+    }
+    .font-125 {
+      font-size: 125%;
+    }
+    .tag-btn {
+      margin-bottom: 0.3em;
+    }
+    img {
+      max-width: 100%;
+    }
+    </style>
+  </head>
+  <body>
+    <div id="nav-border" class="container">
+    <nav id="nav" class="nav justify-content-center">
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/"><i data-feather="home"></i> Home</a>
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/blog/"><i data-feather="edit"></i> Blog</a>
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/hugotips/"><i data-feather="paperclip"></i> Hugo Tips</a>
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/tags/"><i data-feather="tag"></i> Tags</a>
+        
+    </nav>
+</div>
+    <div class="container">
+      <main id="main">
+       
+
+<h1>mermaidjs</h1>
+
+
+<i data-feather="calendar"></i> <time datetime="2020-11-27">Nov 27, 2020</time>
+
+  <br>
+  <i data-feather="tag"></i>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/shortcode">shortcode</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/mermaidjs">mermaidjs</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/theme">theme</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/drawing">drawing</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/diagram">diagram</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/netlify">netlify</a>
+  
+
+<br><br>
+<p>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: none;" data-feather="star"></i>
+</p>
+<h1 id="some-links-to-mermaidjs">Some links to mermaidjs</h1>
+<p>The topic is interesting because it will be useful to create the various diagrams. Initially, some links can be collected here, and mermaidjs explored.</p>
+<p><a href="https://mermaid-js.github.io/mermaid/#/">mermaid js</a></p>
+<h2 id="netlify-learn-theme-bull-mermaidjs-shortcode">Netlify Learn Theme • mermaidjs shortcode</h2>
+<p>Looking for information about being able to make a diagram in Hugo using shortcodes, found this <a href="https://learn.netlify.app/en/">Learn Theme</a> which has a <a href="https://github.com/matcornic/hugo-theme-learn">Github repository</a> with shortcodes, including <a href="https://learn.netlify.app/en/shortcodes/mermaid/">mermaid</a>.</p>
+<p>There would be a link to the javascript, and a shortcode to set up, but here is an example of the shortcode being used to make a diagram. This has now been enabled, using the mermaid shortcode in the next heading section. It should still work. It does. Now we have the live rendering and the picture.</p>
+<pre><code><div class="mermaid">
+    
+graph LR;
+    A[Hard edge] -->|Link text| B(Round edge)
+    B --> C{Decision}
+    C -->|One| D[Result one]
+    C -->|Two| E[Result two]
+
+</div>
+</code></pre><p><img src="../../img/mermaidjs.png" alt="mermaid picture"></p>
+<h2 id="trying-out-a-mermaid-shortcode">Trying out a mermaid shortcode</h2>
+<p><a href="https://codewithhugo.com/mermaid-js-hugo-shortcode/">mermaid js hugo shortcode</a></p>
+<ul>
+<li>add layouts/shortcodes/mermaid.html</li>
+<li>add mermaid js package load (a specific version at the moment) to the bottom of /layouts/_default/single.html</li>
+<li>set mermaid: true in the front matter for this markdown</li>
+<li>here is some mermaid definition using the shortcode (it works!)</li>
+</ul>
+<div class="mermaid">
+    
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+
+</div>
+<h2 id="more-links-to-follow-up">More links to follow up</h2>
+<p>Hugo is the name of the person running this website, but there are a few links to the static site generator.</p>
+<ul>
+<li><a href="https://codewithhugo.com/switching-the-lights-on-hugo-vs-hugo-config-files/">Code With Hugo • Using Hugo</a></li>
+<li><a href="https://codewithhugo.com/a-tiny-case-study-about-migrating-to-netlify-when-disaster-strikes-at-github-featuring-cloudflare/">Disaster at Github • Migrate To Netlify</a></li>
+<li><a href="https://codewithhugo.com/hugo-lunrjs-search-index/">Add Search To A Hugo Site</a></li>
+</ul>
+
+
+<em>Draft: false</em>
+<br>
+<em>Last update: 2020-11-27 22:19:32 &#43;0000 UTC</em>
+<br>
+<em>Rating: 4</em>
+<br>
+<em>Next and previous could go here</em>
+
+
+
+<script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
+
+
+
+
+      </main>
+    </div>
+    
+<script src="https://dormouseroared.github.io/hugo-scratch-1/js/feather.min.js"></script>
+<script>
+  feather.replace()
+</script>
+  </body>
+</html>

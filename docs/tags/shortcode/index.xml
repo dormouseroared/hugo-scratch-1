@@ -1,12 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>shortcode on green | hugo-scratch-1 | 0005</title>
+    <title>shortcode on green | hugo-scratch-1 | 0006</title>
     <link>https://dormouseroared.github.io/hugo-scratch-1/tags/shortcode/</link>
-    <description>Recent content in shortcode on green | hugo-scratch-1 | 0005</description>
+    <description>Recent content in shortcode on green | hugo-scratch-1 | 0006</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2020 22:19:32 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Nov 2020 11:43:31 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0750 Getting Hugo Image to Work</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0750-getting-hugo-image-to-work/</link>
+      <pubDate>Sat, 28 Nov 2020 11:43:31 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0750-getting-hugo-image-to-work/</guid>
+      <description>The problem Trying to follow the documentation and forum on how to get an image to display did not seem to work, because there is an assumption about how the generated website is laid out. The original objective was to find a few shortcodes as well as vanilla markdown to see if a responsive image could be displayed with captions, etc.
+The image test.png (2408 x 968) in static was used as input to a number of shortcodes etc, but to no avail, because the structure of the generated website was not taken into account.</description>
+    </item>
+    
+    <item>
+      <title>mermaidjs</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/mermaidjs/</link>
+      <pubDate>Fri, 27 Nov 2020 22:19:32 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/mermaidjs/</guid>
+      <description>Some links to mermaidjs The topic is interesting because it will be useful to create the various diagrams. Initially, some links can be collected here, and mermaidjs explored.
+mermaid js
+Netlify Learn Theme • mermaidjs shortcode Looking for information about being able to make a diagram in Hugo using shortcodes, found this Learn Theme which has a Github repository with shortcodes, including mermaid.
+There would be a link to the javascript, and a shortcode to set up, but here is an example of the shortcode being used to make a diagram.</description>
+    </item>
+    
     <item>
       <title>Shortcode for Figure</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/shortcode-for-figure/</link>

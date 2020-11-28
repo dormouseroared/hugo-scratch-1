@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="generator" content="Hugo 0.78.2" />
+    
+    <link rel="stylesheet" href="https://dormouseroared.github.io/hugo-scratch-1/css/bootstrap.min.css">
+
+    
+    
+    
+    
+
+    
+    <link rel="shortcut icon" href="https://dormouseroared.github.io/hugo-scratch-1/favicon.ico" type="image/x-icon">
+
+
+    
+    
+    <title>0750 Getting Hugo Image to Work | green | hugo-scratch-1 | 0006</title>
+    <style>
+    .container {
+      max-width: 700px;
+    }
+    #nav a {
+      font-weight: bold;
+      color: inherit;
+    }
+    #nav-border {
+      border-bottom: 1px solid #212529;
+    }
+    #main {
+      margin-top: 1em;
+      margin-bottom: 4em;
+    }
+    #home-jumbotron {
+      background-color: inherit;
+    }
+    .font-125 {
+      font-size: 125%;
+    }
+    .tag-btn {
+      margin-bottom: 0.3em;
+    }
+    img {
+      max-width: 100%;
+    }
+    </style>
+  </head>
+  <body>
+    <div id="nav-border" class="container">
+    <nav id="nav" class="nav justify-content-center">
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/"><i data-feather="home"></i> Home</a>
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/blog/"><i data-feather="edit"></i> Blog</a>
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/hugotips/"><i data-feather="paperclip"></i> Hugo Tips</a>
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/tags/"><i data-feather="tag"></i> Tags</a>
+        
+    </nav>
+</div>
+    <div class="container">
+      <main id="main">
+       
+
+<h1>0750 Getting Hugo Image to Work</h1>
+
+
+<i data-feather="calendar"></i> <time datetime="2020-11-28">Nov 28, 2020</time>
+
+  <br>
+  <i data-feather="tag"></i>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/image">image</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/picture">picture</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/svg">SVG</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/mermaid">mermaid</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/figure">figure</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/markdown">markdown</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/shortcode">shortcode</a>
+  
+
+<br><br>
+<p><p>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+</p>
+<img src="../img/test.png" alt="image markdown "></p>
+<h2 id="the-problem">The problem</h2>
+<p>Trying to follow the documentation and <a href="https://discourse.gohugo.io/t/confused-with-where-to-put-static-image/9822/2">forum</a> on how to get an image to display did not seem to work, because there is an assumption about how the generated website is laid out. The original objective was to find a few shortcodes as well as vanilla markdown to see if a responsive image could be displayed with captions, etc.</p>
+<p>The image test.png (2408 x 968) in static was used as input to a number of shortcodes etc, but to no avail, because the structure of the generated website was not taken into account.</p>
+<p>Eventually, the penny dropped when the generated website was looked at, and the relationships between the HTML and the image location understood.</p>
+<p>So, currently, image references in the blog and in hugotips are different, and if the markdown were moved to a different website with a different structure, some editing would be needed to correct any differences.</p>
+<h2 id="initial-mermaid-drawing-bull-hugotips">Initial Mermaid drawing • hugotips</h2>
+<p>This diagram shows the <strong>two up, across and one down</strong> relationship between markdown in hugotips and the image in the img folder in static.</p>
+<p><img src="../img/mermaid-diagram-20201128114003.svg" alt="image markdown "></p>
+<h2 id="follow-on-mermaid-bull-blog">Follow on Mermaid • blog</h2>
+<p>The blog folder structure is different to hugotips, which means that JPEG, PNG and SVG are <strong>one up, across and one down</strong> as indicated by this <em>SVG</em> made with <a href="https://mermaid-js.github.io/mermaid-live-editor">Mermaid Live Editor</a> which allows diagrams to be made and downloaded in a variety of formats.</p>
+<p>This diagram has the corrected folder name within hugotips. The reason for the different structure is something to do with one of the configuration parameters.</p>
+<p>Also, at some point, when this approach is understood, there is an alternative method, involving <em>bundling</em> which allows pictures to be placed directly in the relevant blog folder, and hence references are more straightforward.</p>
+<p>In the interim, care is needed to look at the generated HTML structure to see how the generated website is laid out.</p>
+<p>Here is the SVG using vanilla markdown:</p>
+<p><img src="../img/mermaid-diagram-20201128120917.svg" alt="image markdown "></p>
+<h2 id="using-the-built-in-figure-shortcode">Using the built in figure shortcode</h2>
+<figure>
+    <img src="../img/mermaid-diagram-20201128120917.svg"
+         alt="caption: figure shortcode has other options!"/> <figcaption>
+            <h4>title: mermaid drawing of generated website folders</h4><p>caption: figure shortcode has other options!</p>
+        </figcaption>
+</figure>
+
+<h2 id="mermaid-diagram-definition">Mermaid diagram definition</h2>
+<pre><code>graph TD
+    A[Root] --&gt; B(img)
+    B --&gt;F(test.png)
+    A --&gt; C[hugotips]
+    C --&gt;D[shortcode-for-figure]
+    D --&gt;E(index.html) 
+    A --&gt;G[0750-getting-hugo-image-to-work]  
+    G --&gt;H(index.html)
+</code></pre><h2 id="imgfig-shortcode">imgfig shortcode</h2>
+<p>No luck with this one even though the right reference given. Have to come back to this. Fortunately other methods are working.</p>
+<p><a href="https://yktoo.solutions/blog/2019/10/08-hugo-toolbox-image-figure-shortcode-imgfig/">imgfig</a></p>
+<h2 id="html-in-markdown">html in markdown</h2>
+<p>Tried this article about <a href="https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown">html in markdown</a> but no image apears here.</p>
+<p><!-- raw HTML omitted --></p>
+<h2 id="more-on-hugo-shortcodes">more on Hugo shortcodes</h2>
+<p><a href="http://lab-emergent360.com/workshops/example/hugo_shortcodes/">summary and examples</a></p>
+<h2 id="responsive-umages-in-hugo">Responsive umages in Hugo</h2>
+<p><a href="https://laurakalbag.com/processing-responsive-images-with-hugo/">Laura Kalbag • Processing Responsive Images in Hugo</a></p>
+
+
+<em>Draft: false</em>
+<br>
+<em>Last update: 2020-11-28 11:43:31 &#43;0000 UTC</em>
+<br>
+<em>Rating: 5</em>
+<br>
+<em>Next and previous could go here</em>
+
+
+
+
+
+      </main>
+    </div>
+    
+<script src="https://dormouseroared.github.io/hugo-scratch-1/js/feather.min.js"></script>
+<script>
+  feather.replace()
+</script>
+  </body>
+</html>

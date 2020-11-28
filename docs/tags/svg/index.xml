@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SVG on green | hugo-scratch-1 | 0005</title>
+    <title>SVG on green | hugo-scratch-1 | 0006</title>
     <link>https://dormouseroared.github.io/hugo-scratch-1/tags/svg/</link>
-    <description>Recent content in SVG on green | hugo-scratch-1 | 0005</description>
+    <description>Recent content in SVG on green | hugo-scratch-1 | 0006</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2020 18:23:11 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/svg/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Nov 2020 11:43:31 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/svg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0750 Getting Hugo Image to Work</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0750-getting-hugo-image-to-work/</link>
+      <pubDate>Sat, 28 Nov 2020 11:43:31 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0750-getting-hugo-image-to-work/</guid>
+      <description>The problem Trying to follow the documentation and forum on how to get an image to display did not seem to work, because there is an assumption about how the generated website is laid out. The original objective was to find a few shortcodes as well as vanilla markdown to see if a responsive image could be displayed with captions, etc.
+The image test.png (2408 x 968) in static was used as input to a number of shortcodes etc, but to no avail, because the structure of the generated website was not taken into account.</description>
+    </item>
+    
     <item>
       <title>0744 Icon Libraries</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/0744-icon-libraries/</link>

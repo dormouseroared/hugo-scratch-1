@@ -1,27 +1,117 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on green | hugo-scratch-1 | 0005</title>
+    <title>Tags on green | hugo-scratch-1 | 0006</title>
     <link>https://dormouseroared.github.io/hugo-scratch-1/tags/</link>
-    <description>Recent content in Tags on green | hugo-scratch-1 | 0005</description>
+    <description>Recent content in Tags on green | hugo-scratch-1 | 0006</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2020 22:19:32 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Nov 2020 11:43:31 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>figure</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/tags/figure/</link>
-      <pubDate>Fri, 27 Nov 2020 22:19:32 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2020 11:43:31 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/figure/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>image</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/image/</link>
+      <pubDate>Sat, 28 Nov 2020 11:43:31 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/markdown/</link>
+      <pubDate>Sat, 28 Nov 2020 11:43:31 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mermaid</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/mermaid/</link>
+      <pubDate>Sat, 28 Nov 2020 11:43:31 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/mermaid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>picture</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/picture/</link>
+      <pubDate>Sat, 28 Nov 2020 11:43:31 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/picture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>shortcode</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/tags/shortcode/</link>
-      <pubDate>Fri, 27 Nov 2020 22:19:32 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2020 11:43:31 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/shortcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVG</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/svg/</link>
+      <pubDate>Sat, 28 Nov 2020 11:43:31 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/svg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diagram</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/diagram/</link>
+      <pubDate>Fri, 27 Nov 2020 22:19:32 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/diagram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drawing</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/drawing/</link>
+      <pubDate>Fri, 27 Nov 2020 22:19:32 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/drawing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mermaidjs</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/mermaidjs/</link>
+      <pubDate>Fri, 27 Nov 2020 22:19:32 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/mermaidjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>netlify</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/netlify/</link>
+      <pubDate>Fri, 27 Nov 2020 22:19:32 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/netlify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theme</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/theme/</link>
+      <pubDate>Fri, 27 Nov 2020 22:19:32 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/theme/</guid>
       <description></description>
     </item>
     
@@ -197,15 +287,6 @@
     </item>
     
     <item>
-      <title>netlify</title>
-      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/netlify/</link>
-      <pubDate>Tue, 24 Nov 2020 09:35:37 +0000</pubDate>
-      
-      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/netlify/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>tableau</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/tags/tableau/</link>
       <pubDate>Tue, 24 Nov 2020 09:35:37 +0000</pubDate>
@@ -301,15 +382,6 @@
       <pubDate>Sun, 22 Nov 2020 18:23:11 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/icons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SVG</title>
-      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/svg/</link>
-      <pubDate>Sun, 22 Nov 2020 18:23:11 +0000</pubDate>
-      
-      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/svg/</guid>
       <description></description>
     </item>
     
@@ -607,15 +679,6 @@
       <pubDate>Tue, 10 Nov 2020 18:37:00 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/footnote/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/markdown/</link>
-      <pubDate>Tue, 10 Nov 2020 18:37:00 +0000</pubDate>
-      
-      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/markdown/</guid>
       <description></description>
     </item>
     
