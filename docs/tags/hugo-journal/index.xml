@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo-journal on green | hugo-scratch-1 | 0007</title>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/hugo-journal/</link>
+    <description>Recent content in hugo-journal on green | hugo-scratch-1 | 0007</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Nov 2020 17:00:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/hugo-journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0734 | Copy markdown files from hugo-journal to hugo-scratch-1</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0734-hugo-copy-markdown-from-journal-to-scratch-1/</link>
+      <pubDate>Fri, 13 Nov 2020 17:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0734-hugo-copy-markdown-from-journal-to-scratch-1/</guid>
+      <description>The Journal Theme looks good, but there is more opportunity to learn about Hugo by evolving hugo-scratch-1 and seeing how easy it is to copy markdown entries between setups. The Journal Theme is like all the themes seen so far, at an advanced level that makes understanding it an impossible challenge at the moment. But it is useful to have it there as a reference as the understanding increases. For example, the front matter parameter cover results in an image being displayed at the top of the post.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,9 +1,7 @@
 ---
-title: "0739 Hugo Scratch 1 Deploy Github Pages"
+title: "0739 Hugo-Scratch-1 Deploy Github Pages"
 date: 2020-11-22T18:28:41Z
-tags: []
+tags: ["github pages", "hugo-scratch-1"]
 draft: false
 ---
-## sample heading
-[example](https://example.com)
-![example](/img in static folder.jpg)
+See Journal for details.

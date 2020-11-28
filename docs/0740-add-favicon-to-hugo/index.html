@@ -18,7 +18,7 @@
 
     
     
-    <title>0740 Add Favicon to Hugo | green | hugo-scratch-1 | 0006</title>
+    <title>0740 Add Favicon to Hugo | green | hugo-scratch-1 | 0007</title>
     <style>
     .container {
       max-width: 700px;
@@ -79,10 +79,34 @@
 
 <i data-feather="calendar"></i> <time datetime="2020-11-22">Nov 22, 2020</time>
 
+  <br>
+  <i data-feather="tag"></i>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/favicon">favicon</a>
+  
+
 <br><br>
 <h2 id="sample-heading">sample heading</h2>
-<p><a href="https://example.com">example</a>
-![example](/img in static folder.jpg)</p>
+<p><a href="https://www.kiroule.com/article/add-favicon-to-hugo-based-website/">Add favicon to Hugo based website</a></p>
+<ul>
+<li>Favicon is a 16 x 16 pixel image.</li>
+<li>It goes in the static folder.</li>
+<li><a href="https://favicon.io">favicon.io</a> was used to make a DM logo from text.</li>
+<li>This didn&rsquo;t work for ages but the answer seemed to be to make an absolute reference as per hugo-scratch-1</li>
+</ul>
+<pre><code>    {{/* The favicon works as a relative link for the index.html at root    */}}
+    {{/*  but not for any other link on the menu or any content at a lower level  */}}
+    {{/*  that's why the absURL is used  */}}
+    {{/*  &lt;link rel=&quot;shortcut icon&quot; href=&quot;favicon.ico&quot; type=&quot;image/x-icon&quot;&gt;  */}}
+
+    {{ $fav := &quot;favicon.ico&quot; | absURL }}
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;{{ $fav }}&quot; type=&quot;image/x-icon&quot;&gt;
+
+
+</code></pre><ul>
+<li>There is more to do with other parts of the html for favicons for all the other possibilities.</li>
+</ul>
 
 
 <em>Draft: false</em>

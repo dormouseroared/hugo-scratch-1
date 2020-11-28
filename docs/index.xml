@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>green | hugo-scratch-1 | 0006</title>
+    <title>green | hugo-scratch-1 | 0007</title>
     <link>https://dormouseroared.github.io/hugo-scratch-1/</link>
-    <description>Recent content on green | hugo-scratch-1 | 0006</description>
+    <description>Recent content on green | hugo-scratch-1 | 0007</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Nov 2020 11:43:31 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Nov 2020 19:24:14 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0746 New Hugo Release</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0746-new-hugo-release/</link>
+      <pubDate>Sat, 28 Nov 2020 19:24:14 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0746-new-hugo-release/</guid>
+      <description>Just noted in passing that on Linux, the Hugo version went up from 0.78.1 to 0.78.2.
+Nothing else to report, as it happens.</description>
+    </item>
+    
     <item>
       <title>0750 Getting Hugo Image to Work</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/0750-getting-hugo-image-to-work/</link>
@@ -154,12 +164,12 @@ Right click inside a container tab To assign the site to always open in the cont
     </item>
     
     <item>
-      <title>0739 Hugo Scratch 1 Deploy Github Pages</title>
+      <title>0739 Hugo-Scratch-1 Deploy Github Pages</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/0739-hugo-scratch-1-deploy-github-pages/</link>
       <pubDate>Sun, 22 Nov 2020 18:28:41 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/0739-hugo-scratch-1-deploy-github-pages/</guid>
-      <description>sample heading example ![example](/img in static folder.jpg)</description>
+      <description>See Journal for details.</description>
     </item>
     
     <item>
@@ -168,7 +178,8 @@ Right click inside a container tab To assign the site to always open in the cont
       <pubDate>Sun, 22 Nov 2020 18:27:54 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/0740-add-favicon-to-hugo/</guid>
-      <description>sample heading example ![example](/img in static folder.jpg)</description>
+      <description>sample heading Add favicon to Hugo based website
+ Favicon is a 16 x 16 pixel image. It goes in the static folder. favicon.io was used to make a DM logo from text. This didn&amp;rsquo;t work for ages but the answer seemed to be to make an absolute reference as per hugo-scratch-1   {{/* The favicon works as a relative link for the index.html at root */}} {{/* but not for any other link on the menu or any content at a lower level */}} {{/* that&#39;s why the absURL is used */}} {{/* &amp;lt;link rel=&amp;quot;shortcut icon&amp;quot; href=&amp;quot;favicon.</description>
     </item>
     
     <item>
@@ -395,6 +406,15 @@ It didn&amp;rsquo;t work, so back to date invention.
 #Experiment?
  It may be worth an experiment! Using the no theme setup, move the posts into there. At least with the simplified approach things can be tried out.
   Given that a refresh is needed which wasn&amp;rsquo;t done, it may be worth repeating the exercise&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>0734 | Copy markdown files from hugo-journal to hugo-scratch-1</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0734-hugo-copy-markdown-from-journal-to-scratch-1/</link>
+      <pubDate>Fri, 13 Nov 2020 17:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0734-hugo-copy-markdown-from-journal-to-scratch-1/</guid>
+      <description>The Journal Theme looks good, but there is more opportunity to learn about Hugo by evolving hugo-scratch-1 and seeing how easy it is to copy markdown entries between setups. The Journal Theme is like all the themes seen so far, at an advanced level that makes understanding it an impossible challenge at the moment. But it is useful to have it there as a reference as the understanding increases. For example, the front matter parameter cover results in an image being displayed at the top of the post.</description>
     </item>
     
     <item>

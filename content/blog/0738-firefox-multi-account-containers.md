@@ -1,7 +1,7 @@
 ---
 title: "0738 Firefox Multi Account Containers"
 date: 2020-11-22T18:29:14Z
-tags: []
+tags: [firefox, "multi account containers"]
 draft: false
 ---
 ## Control + FULL STOP

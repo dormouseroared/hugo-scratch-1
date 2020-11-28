@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on green | hugo-scratch-1 | 0006</title>
+    <title>Tags on green | hugo-scratch-1 | 0007</title>
     <link>https://dormouseroared.github.io/hugo-scratch-1/tags/</link>
-    <description>Recent content in Tags on green | hugo-scratch-1 | 0006</description>
+    <description>Recent content in Tags on green | hugo-scratch-1 | 0007</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Nov 2020 11:43:31 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Nov 2020 19:24:14 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/hugo/</link>
+      <pubDate>Sat, 28 Nov 2020 19:24:14 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>figure</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/tags/figure/</link>
@@ -112,15 +121,6 @@
       <pubDate>Fri, 27 Nov 2020 19:28:37 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/hugo/</link>
-      <pubDate>Fri, 27 Nov 2020 19:28:37 +0000</pubDate>
-      
-      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/hugo/</guid>
       <description></description>
     </item>
     
@@ -296,20 +296,56 @@
     </item>
     
     <item>
-      <title>github</title>
-      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/github/</link>
-      <pubDate>Sun, 22 Nov 2020 18:26:55 +0000</pubDate>
+      <title>firefox</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/firefox/</link>
+      <pubDate>Sun, 22 Nov 2020 18:29:14 +0000</pubDate>
       
-      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/github/</guid>
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/firefox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multi account containers</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/multi-account-containers/</link>
+      <pubDate>Sun, 22 Nov 2020 18:29:14 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/multi-account-containers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>github pages</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/tags/github-pages/</link>
-      <pubDate>Sun, 22 Nov 2020 18:26:55 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2020 18:28:41 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo-scratch-1</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/hugo-scratch-1/</link>
+      <pubDate>Sun, 22 Nov 2020 18:28:41 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/hugo-scratch-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>favicon</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/favicon/</link>
+      <pubDate>Sun, 22 Nov 2020 18:27:54 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/favicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/github/</link>
+      <pubDate>Sun, 22 Nov 2020 18:26:55 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/github/</guid>
       <description></description>
     </item>
     
@@ -337,15 +373,6 @@
       <pubDate>Sun, 22 Nov 2020 18:25:28 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/fast-forward/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>favicon</title>
-      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/favicon/</link>
-      <pubDate>Sun, 22 Nov 2020 18:24:11 +0000</pubDate>
-      
-      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/favicon/</guid>
       <description></description>
     </item>
     
@@ -562,6 +589,15 @@
       <pubDate>Fri, 13 Nov 2020 17:00:00 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/edit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo-journal</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/hugo-journal/</link>
+      <pubDate>Fri, 13 Nov 2020 17:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/hugo-journal/</guid>
       <description></description>
     </item>
     

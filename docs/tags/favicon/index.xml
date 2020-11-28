@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>favicon on green | hugo-scratch-1 | 0006</title>
+    <title>favicon on green | hugo-scratch-1 | 0007</title>
     <link>https://dormouseroared.github.io/hugo-scratch-1/tags/favicon/</link>
-    <description>Recent content in favicon on green | hugo-scratch-1 | 0006</description>
+    <description>Recent content in favicon on green | hugo-scratch-1 | 0007</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2020 18:24:11 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/favicon/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Nov 2020 18:27:54 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/favicon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0740 Add Favicon to Hugo</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0740-add-favicon-to-hugo/</link>
+      <pubDate>Sun, 22 Nov 2020 18:27:54 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0740-add-favicon-to-hugo/</guid>
+      <description>sample heading Add favicon to Hugo based website
+ Favicon is a 16 x 16 pixel image. It goes in the static folder. favicon.io was used to make a DM logo from text. This didn&amp;rsquo;t work for ages but the answer seemed to be to make an absolute reference as per hugo-scratch-1   {{/* The favicon works as a relative link for the index.html at root */}} {{/* but not for any other link on the menu or any content at a lower level */}} {{/* that&#39;s why the absURL is used */}} {{/* &amp;lt;link rel=&amp;quot;shortcut icon&amp;quot; href=&amp;quot;favicon.</description>
+    </item>
+    
     <item>
       <title>0743 Updates to hugo-zwbetz-blog</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/0743-updates-to-hugo-zwberz-log/</link>
