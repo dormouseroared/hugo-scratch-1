@@ -4,13 +4,10 @@ date: 2020-11-27T22:19:32Z
 tags: ["shortcode", "figure"]
 draft: false
 ---
-{{< figure src="/img/test.png" title="hugo" >}}
+* Hugo's built in Figure shortcut
 
-![image](/img/test.png)
+{{< figure src="../../img/test.png" title="hugo figure" caption="caption" >}}
 
-## imgfig
+* Image markdown
 
-{{< imgfig "/img/test.png" "image_caption" >}}
-
-
-<img src="/img/test.png"/>
+![image markdown ](../../img/test.png)

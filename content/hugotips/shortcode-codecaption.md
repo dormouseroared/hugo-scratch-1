@@ -34,4 +34,4 @@ Adds title to code blocks.
 
 ## Image of shortcode result
 
-![example](/codecaption1.jpg)
+![example](../../codecaption1.jpg)
