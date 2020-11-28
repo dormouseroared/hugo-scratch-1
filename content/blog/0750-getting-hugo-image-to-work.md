@@ -1,7 +1,7 @@
 ---
 title: "0750 Getting Hugo Image to Work"
 date: 2020-11-28T11:43:31Z
-tags: ["image", "picture", "SVG", mermaid, figure, markdown, shortcode]
+tags: ["image", "picture", "SVG", mermaidjs, figure, markdown, shortcode]
 draft: false
 rating: 5
 ---
@@ -70,6 +70,6 @@ Tried this article about [html in markdown](https://stackoverflow.com/questions/
 
 [summary and examples](http://lab-emergent360.com/workshops/example/hugo_shortcodes/)
 
-## Responsive umages in Hugo
+## Responsive images in Hugo
 
 [Laura Kalbag &bull; Processing Responsive Images in Hugo](https://laurakalbag.com/processing-responsive-images-with-hugo/)
