@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>red on green | hugo-scratch-1 | 0007</title>
+    <title>red on green | hugo-scratch-1 | 0008</title>
     <link>https://dormouseroared.github.io/hugo-scratch-1/tags/red/</link>
-    <description>Recent content in red on green | hugo-scratch-1 | 0007</description>
+    <description>Recent content in red on green | hugo-scratch-1 | 0008</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2020 19:00:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/red/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Nov 2020 20:01:32 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/red/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0646 Pia Update Failed</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0646-pia-update-failed/</link>
+      <pubDate>Sun, 29 Nov 2020 20:01:32 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0646-pia-update-failed/</guid>
+      <description>      Please install a terminal compatible with x-terminal-emulator  A search didn&amp;rsquo;t reveal much. Decided to try a manual update by running the script. This worked. An error message happens now on any Linux update.  navigate to /opt/piavpn/var/update bash pia-linux ... run using bash made it possible to use tab completion </description>
+    </item>
+    
     <item>
       <title>0622 linux commands to try out</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/0622-linux-commands-to-try-out/</link>
