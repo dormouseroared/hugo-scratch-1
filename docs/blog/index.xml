@@ -12,7 +12,7 @@
       <pubDate>Sun, 29 Nov 2020 20:01:32 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/0646-pia-update-failed/</guid>
-      <description>      Please install a terminal compatible with x-terminal-emulator  A search didn&amp;rsquo;t reveal much. Decided to try a manual update by running the script. This worked. An error message happens now on any Linux update.  navigate to /opt/piavpn/var/update bash pia-linux ... run using bash made it possible to use tab completion </description>
+      <description>      Update failed Please install a terminal compatible with x-terminal-emulator Steps  A search didn&amp;rsquo;t reveal much. Decided to try a manual update by running the script. This worked. An error message happens now on any Linux update.  action navigate to /opt/piavpn/var/update bash pia-linux ... run using bash made it possible to use tab completion </description>
     </item>
     
     <item>
