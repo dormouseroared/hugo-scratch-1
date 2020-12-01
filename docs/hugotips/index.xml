@@ -13,10 +13,10 @@
       <pubDate>Tue, 01 Dec 2020 10:50:33 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/blockquote/</guid>
-      <description>In hugo-scratch-1, using the markdown for blockquote, which is:
+      <description>the problem In hugo-scratch-1, using the markdown for blockquote, which is:
 &amp;gt; followed by space at the start of a line
 there was no formatting of any kind.
-what html is hugo generating Understanding what HTML is generated is the starting point, so a simple View Page Source shows that BLOCKQUOTE start and end tags are being generated. So either the default CSS or the generated CSS is not set up for BLOCKQUOTE.</description>
+what html is hugo generating? Understanding what HTML is generated is the starting point, so a simple View Page Source shows that BLOCKQUOTE start and end tags are being generated. So either the default CSS or the generated CSS is not set up for BLOCKQUOTE.</description>
     </item>
     
     <item>

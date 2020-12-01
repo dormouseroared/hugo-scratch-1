@@ -46,17 +46,41 @@
     img {
       max-width: 100%;
     }
-    blockquote {
-      display: block;
-      border-width: 0 0 0 3px;
-      border-style: solid;
-      border-color: grey;
-      padding: 1.5em 0 0.5em;
-      margin: 1.5em 0;
-      padding-left: 2rem;
+    
+    blockquote{
+      font-size: 1.4em;
+      width:80%;
+      margin:50px auto;
+      font-family:Open Sans;
+      font-style:italic;
+      color: #555555;
+      padding:1.2em 30px 1.2em 75px;
+      border-left:8px solid #78C0A8 ;
+      line-height:1.6;
       position: relative;
+      background:#EDEDED;
+    }
+    blockquote::before{
+      font-family:Arial;
+      content: "\201C";
+      color:#78C0A8;
+      font-size:4em;
+      position: absolute;
+      left: 10px;
+      top:-10px;
     }
     
+    blockquote::after{
+      content: '';
+    }
+    
+    blockquote span{
+      display:block;
+      color:#333333;
+      font-style: normal;
+      font-weight: bold;
+      margin-top:1em;
+    }
     </style>
   </head>
   <body>
@@ -142,7 +166,7 @@
 
 <em>Draft: false</em>
 <br>
-<em>Last update: 2020-12-01 09:34:57 &#43;0000 UTC</em>
+<em>Last update: 2020-12-01 11:10:55 &#43;0000 GMT</em>
 <br>
 <em>Rating: 5</em>
 <br>

@@ -46,17 +46,41 @@
     img {
       max-width: 100%;
     }
-    blockquote {
-      display: block;
-      border-width: 0 0 0 3px;
-      border-style: solid;
-      border-color: grey;
-      padding: 1.5em 0 0.5em;
-      margin: 1.5em 0;
-      padding-left: 2rem;
+    
+    blockquote{
+      font-size: 1.4em;
+      width:80%;
+      margin:50px auto;
+      font-family:Open Sans;
+      font-style:italic;
+      color: #555555;
+      padding:1.2em 30px 1.2em 75px;
+      border-left:8px solid #78C0A8 ;
+      line-height:1.6;
       position: relative;
+      background:#EDEDED;
+    }
+    blockquote::before{
+      font-family:Arial;
+      content: "\201C";
+      color:#78C0A8;
+      font-size:4em;
+      position: absolute;
+      left: 10px;
+      top:-10px;
     }
     
+    blockquote::after{
+      content: '';
+    }
+    
+    blockquote span{
+      display:block;
+      color:#333333;
+      font-style: normal;
+      font-weight: bold;
+      margin-top:1em;
+    }
     </style>
   </head>
   <body>
@@ -101,15 +125,24 @@
   
 
 <br><br>
+<p>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+</p>
+<h2 id="the-problem">the problem</h2>
 <p>In hugo-scratch-1, using the markdown for blockquote, which is:</p>
 <p><code>&gt; followed by space at the start of a line</code></p>
 <p>there was no formatting of any kind.</p>
-<h2 id="what-html-is-hugo-generating">what html is hugo generating</h2>
-<p>Understanding what HTML is generated is the starting point, so a simple <code>View Page Source</code> shows that BLOCKQUOTE start and end tags are being generated. So either the default CSS or the generated CSS is not set up for BLOCKQUOTE.</p>
+<h2 id="what-html-is-hugo-generating">what html is hugo generating?</h2>
+<p>Understanding what HTML is generated is the starting point, so a simple <code>View Page Source</code> shows that BLOCKQUOTE start and end tags are being generated. So either the default CSS or the generated CSS is not set up for BLOCKQUOTE. Not sure how to work out the default styling situation, so have a go at putting some styling in. Note that Visual Studio Code reports errors in the CSS which look as if they are because Hugo templating code is in the CSS which VSC does not understand.</p>
 <h2 id="update-css-for-blockquote">Update CSS for blockquote</h2>
-<p>Found some CSS, and adjusted it to indent the left hand side with a bar down the left hand side for now, and will look for other alternatives.</p>
+<p>Searched, and there are many good examples, including <a href="https://codepen.io/cliftwalker/pen/XJaEXY">codepen</a>.
+Adjusted it for width and will look for other alternatives.</p>
 <p>The CSS is in <code>/layouts/partials/styles.html</code></p>
-<p>And here is the current BLOCKQUOTE:</p>
+<p>And here is the latest BLOCKQUOTE, with the first version commented out:</p>
 <blockquote>
 <p>Here is a blockquote!</p>
 </blockquote>
@@ -117,9 +150,9 @@
 
 <em>Draft: false</em>
 <br>
-<em>Last update: 2020-12-01 10:50:33 &#43;0000 UTC</em>
+<em>Last update: 2020-12-01 11:10:55 &#43;0000 GMT</em>
 <br>
-<em>Rating: 1</em>
+<em>Rating: 5</em>
 <br>
 <em>Next and previous could go here</em>
 
