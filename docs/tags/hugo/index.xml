@@ -6,7 +6,19 @@
     <description>Recent content in hugo on green | hugo-scratch-1 | 0009</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 09:34:57 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 15:31:38 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo-scratch-1 Mermaid diagram</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/hugo-scratch-1-mermaid/</link>
+      <pubDate>Tue, 01 Dec 2020 15:31:38 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/hugo-scratch-1-mermaid/</guid>
+      <description>First go at trying to represent the relationship between the &amp;ldquo;elements&amp;rdquo; of this web site.
+HUGO converts the INPUTS into OUTPUTS Hugo generation uses the &amp;ldquo;elements&amp;rdquo; to convert the content into the web site (HTML, CSS).
+DIAGRAM Difficult to draw, but HOME, LIST, SINGLE and TERMS are the starting point, the templates.
+These templates in turn cause the baseof template to be used, and partials to be included.</description>
+    </item>
+    
     <item>
       <title>0721 20 Minute Hugo Youtube</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/0721-20-minute-hugo-youtube/</link>

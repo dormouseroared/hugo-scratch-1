@@ -22,7 +22,7 @@
 
     
 
-    <title>Shortcode for Figure | green | hugo-scratch-1 | 0009</title>
+    <title>hugo-scratch-1 Mermaid diagram | green | hugo-scratch-1 | 0009</title>
 
     <style>
     .container {
@@ -114,45 +114,92 @@
       <main id="main">
        
 
-<h1>Shortcode for Figure</h1>
+<h1>hugo-scratch-1 Mermaid diagram</h1>
 
 
-<i data-feather="calendar"></i> <time datetime="2020-11-27">Nov 27, 2020</time>
+<i data-feather="calendar"></i> <time datetime="2020-12-01">Dec 1, 2020</time>
 
   <br>
   <i data-feather="tag"></i>
   
   
-  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/shortcode">shortcode</a>
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/mermaidjs">mermaidjs</a>
   
   
-  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/figure">figure</a>
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/hugo">hugo</a>
   
 
 <br><br>
+<p>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+</p>
+<p>First go at trying to represent the relationship between the &ldquo;elements&rdquo; of this web site.</p>
+<h2 id="hugo-converts-the-inputs-into-outputs">HUGO converts the INPUTS into OUTPUTS</h2>
+<p>Hugo generation uses the &ldquo;elements&rdquo; to convert the content into the web site (HTML, CSS).</p>
+<h2 id="diagram">DIAGRAM</h2>
+<p>Difficult to draw, but <code>HOME</code>, <code>LIST</code>, <code>SINGLE</code> and <code>TERMS</code> are the starting point, the templates.</p>
+<p>These templates in turn cause the <code>baseof</code> template to be used, and <code>partials</code> to be included.</p>
+<p>In addition, external libraries including <code>bootstrap</code>, <code>feather icons</code> and <code>mermaidjs</code> are shown.</p>
+<p>So, for layouts/<code>HOME</code>.html page generation, all the following are included:</p>
 <ul>
-<li>Hugo&rsquo;s built in Figure shortcut</li>
+<li>layouts/_default/<code>baseof</code>.html
+<ul>
+<li>layouts/partials/<code>head</code>.html
+<ul>
+<li><code>bootstrap</code></li>
+<li><code>favicon</code></li>
+<li>layouts/partials/<code>style</code>.html</li>
 </ul>
-<figure>
-    <img src="../../img/test.png"
-         alt="caption"/> <figcaption>
-            <h4>hugo figure</h4><p>caption</p>
-        </figcaption>
-</figure>
+</li>
+<li>layouts/partials/<code>nav</code>.html</li>
+<li>layouts/<code>home</code>.html</li>
+<li>layouts/partials/<code>script</code>.html
+<ul>
+<li><code>feather icons</code>
+<div class="mermaid">
+    
+graph LR;
+  H(baseof)-->I[head-partial];
+  H-->J[nav-partial];
+  H-->L[[main]];
+  H-->K[script-partial];
+  I-->M([bootstrap]);
+  I-->N[favicon];
+  I-->O[style-partial];
+  L-.->P{{HOME}};
+  L-.->Q{{SINGLE}};
+  L-.->R{{LIST}};
+  L-.->S{{TERMS}};
+  R-->T[date-and-tags];
+  Q-->V[date-and-tags];
+  Q-->W([mermaid]);
+  K-->U([feather icons]);
 
-<ul>
-<li>Image markdown</li>
+</div></li>
 </ul>
-<p><img src="../../img/test.png" alt="image markdown "></p>
+</li>
+</ul>
+</li>
+</ul>
 
 
 <em>Draft: false</em>
 <br>
-<em>Last update: 2020-11-28 00:44:08 &#43;0000 GMT</em>
+<em>Last update: 2020-12-01 18:22:30 &#43;0000 GMT</em>
 <br>
-<em>Rating: </em>
+<em>Rating: 5</em>
 <br>
 <em>Next and previous could go here</em>
+
+
+
+
+<script async src="https://unpkg.com/mermaid@8.8.3/dist/mermaid.min.js"></script>
+
 
 
 
