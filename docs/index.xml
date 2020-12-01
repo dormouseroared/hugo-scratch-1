@@ -1,12 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>green | hugo-scratch-1 | 0008</title>
+    <title>green | hugo-scratch-1 | 0009</title>
     <link>https://dormouseroared.github.io/hugo-scratch-1/</link>
-    <description>Recent content on green | hugo-scratch-1 | 0008</description>
+    <description>Recent content on green | hugo-scratch-1 | 0009</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Nov 2020 20:01:32 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 10:50:33 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blockquote</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/blockquote/</link>
+      <pubDate>Tue, 01 Dec 2020 10:50:33 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/blockquote/</guid>
+      <description>In hugo-scratch-1, using the markdown for blockquote, which is:
+&amp;gt; followed by space at the start of a line
+there was no formatting of any kind.
+what html is hugo generating Understanding what HTML is generated is the starting point, so a simple View Page Source shows that BLOCKQUOTE start and end tags are being generated. So either the default CSS or the generated CSS is not set up for BLOCKQUOTE.</description>
+    </item>
+    
+    <item>
+      <title>0721 20 Minute Hugo Youtube</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0721-20-minute-hugo-youtube/</link>
+      <pubDate>Tue, 01 Dec 2020 09:34:57 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0721-20-minute-hugo-youtube/</guid>
+      <description>      JANTCU YOUTUBE  20 minute Hugo playlist Inkscape Playlist GIMP Playlist  Plus many others!
+A Themeless Hugo site set up from scratch Starting from hugo new site bostonjamstack this playlist shows how hugo elements become HTML, right from the initial default completely blank website via list and single templates etc.
+ Well worth watching again!
+ </description>
+    </item>
+    
+    <item>
+      <title>0753 Online Maps</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0753-online-maps/</link>
+      <pubDate>Mon, 30 Nov 2020 11:41:13 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0753-online-maps/</guid>
+      <description>       David Rumsey Map Collection MapWarper for georectifying pictures of maps Introduction To Leaflet Preparing a Historical map for GIS uses MapWarper to provide control points that match a historical map to current maps to allow &amp;ldquo;warping&amp;rdquo; Using GeoJSON.io to convert kml and csv to GeoJSON files Sarah Simpkin • Adding Data to Leaflet MapTiler • Leaflet Tutorial playlist  </description>
+    </item>
+    
     <item>
       <title>0646 Pia Update Failed</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/0646-pia-update-failed/</link>

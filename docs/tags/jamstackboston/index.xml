@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jamstackboston on green | hugo-scratch-1 | 0009</title>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/jamstackboston/</link>
+    <description>Recent content in jamstackboston on green | hugo-scratch-1 | 0009</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 09:34:57 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/jamstackboston/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0721 20 Minute Hugo Youtube</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0721-20-minute-hugo-youtube/</link>
+      <pubDate>Tue, 01 Dec 2020 09:34:57 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0721-20-minute-hugo-youtube/</guid>
+      <description>      JANTCU YOUTUBE  20 minute Hugo playlist Inkscape Playlist GIMP Playlist  Plus many others!
+A Themeless Hugo site set up from scratch Starting from hugo new site bostonjamstack this playlist shows how hugo elements become HTML, right from the initial default completely blank website via list and single templates etc.
+ Well worth watching again!
+ </description>
+    </item>
+    
+  </channel>
+</rss>

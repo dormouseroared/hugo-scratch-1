@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugotips on green | hugo-scratch-1 | 0008</title>
+    <title>Hugotips on green | hugo-scratch-1 | 0009</title>
     <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/</link>
-    <description>Recent content in Hugotips on green | hugo-scratch-1 | 0008</description>
+    <description>Recent content in Hugotips on green | hugo-scratch-1 | 0009</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2020 22:19:32 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/hugotips/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 10:50:33 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/hugotips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blockquote</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/blockquote/</link>
+      <pubDate>Tue, 01 Dec 2020 10:50:33 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/blockquote/</guid>
+      <description>In hugo-scratch-1, using the markdown for blockquote, which is:
+&amp;gt; followed by space at the start of a line
+there was no formatting of any kind.
+what html is hugo generating Understanding what HTML is generated is the starting point, so a simple View Page Source shows that BLOCKQUOTE start and end tags are being generated. So either the default CSS or the generated CSS is not set up for BLOCKQUOTE.</description>
+    </item>
+    
     <item>
       <title>mermaidjs</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/mermaidjs/</link>

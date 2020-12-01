@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>leaflet on green | hugo-scratch-1 | 0009</title>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/leaflet/</link>
+    <description>Recent content in leaflet on green | hugo-scratch-1 | 0009</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Nov 2020 11:41:13 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/leaflet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0753 Online Maps</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0753-online-maps/</link>
+      <pubDate>Mon, 30 Nov 2020 11:41:13 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0753-online-maps/</guid>
+      <description>       David Rumsey Map Collection MapWarper for georectifying pictures of maps Introduction To Leaflet Preparing a Historical map for GIS uses MapWarper to provide control points that match a historical map to current maps to allow &amp;ldquo;warping&amp;rdquo; Using GeoJSON.io to convert kml and csv to GeoJSON files Sarah Simpkin • Adding Data to Leaflet MapTiler • Leaflet Tutorial playlist  </description>
+    </item>
+    
+  </channel>
+</rss>
