@@ -6,7 +6,17 @@
     <description>Recent content in themeless on green | hugo-scratch-1 | 0009</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 09:34:57 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/themeless/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 20:13:09 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/themeless/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0755 Build Themeless Hugo Site</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0755-build-hugo-site-on-digitalocean/</link>
+      <pubDate>Tue, 01 Dec 2020 20:13:09 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0755-build-hugo-site-on-digitalocean/</guid>
+      <description>This is another Hugo site built from scratch without a theme, using a different setup approach. The intent is to summarise, then carry out the instructions and refine these notes.
+  DigitalOcean • Hugo • new site   In this tutorial, you’ll use Hugo to build a small static website and deploy the site to DigitalOcean’s App Platform by using GitHub. Then you’ll make changes to your site and see those changes deployed automatically.</description>
+    </item>
+    
     <item>
       <title>0721 20 Minute Hugo Youtube</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/0721-20-minute-hugo-youtube/</link>

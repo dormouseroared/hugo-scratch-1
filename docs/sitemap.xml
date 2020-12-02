@@ -3,13 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/0755-build-hugo-site-on-digitalocean/</loc>
+    <lastmod>2020-12-02T19:59:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/draft/</loc>
+    <lastmod>2020-12-02T19:59:05+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/</loc>
-    <lastmod>2020-12-01T18:22:30+00:00</lastmod>
+    <lastmod>2020-12-02T19:59:05+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/hugo/</loc>
-    <lastmod>2020-12-01T18:22:30+00:00</lastmod>
+    <lastmod>2020-12-02T19:59:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/</loc>
+    <lastmod>2020-12-02T19:59:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/themeless/</loc>
+    <lastmod>2020-12-02T19:59:05+00:00</lastmod>
   </url>
   
   <url>
@@ -24,11 +44,6 @@
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/mermaidjs/</loc>
-    <lastmod>2020-12-01T18:22:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/</loc>
     <lastmod>2020-12-01T18:22:30+00:00</lastmod>
   </url>
   
@@ -78,22 +93,12 @@
   </url>
   
   <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/themeless/</loc>
-    <lastmod>2020-12-01T11:10:55+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/youtube/</loc>
     <lastmod>2020-12-01T11:10:55+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/0753-online-maps/</loc>
-    <lastmod>2020-12-01T11:10:55+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/draft/</loc>
     <lastmod>2020-12-01T11:10:55+00:00</lastmod>
   </url>
   

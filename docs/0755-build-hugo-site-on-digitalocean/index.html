@@ -1,0 +1,303 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="generator" content="Hugo 0.79.0" />
+    
+    <link rel="stylesheet" href="https://dormouseroared.github.io/hugo-scratch-1/css/bootstrap.min.css">
+
+    
+    
+    
+    
+
+    
+    <link rel="shortcut icon" href="https://dormouseroared.github.io/hugo-scratch-1/favicon.ico" type="image/x-icon">
+
+    
+    
+    
+    
+
+    
+
+    <title>0755 Build Themeless Hugo Site | green | hugo-scratch-1 | 0009</title>
+
+    <style>
+    .container {
+      max-width: 700px;
+    }
+    #nav a {
+      font-weight: bold;
+      color: inherit;
+    }
+    #nav-border {
+      border-bottom: 1px solid #212529;
+    }
+    #main {
+      margin-top: 1em;
+      margin-bottom: 4em;
+    }
+    #home-jumbotron {
+      background-color: inherit;
+    }
+    .font-125 {
+      font-size: 125%;
+    }
+    .tag-btn {
+      margin-bottom: 0.3em;
+    }
+    img {
+      max-width: 100%;
+    }
+    
+
+    
+    blockquote{
+      font-size: 1.4em;
+      width:80%;
+      margin:50px auto;
+      font-family:Open Sans;
+      font-style:italic;
+      color: #555555;
+      padding:1.2em 30px 1.2em 75px;
+      border-left:8px solid #78C0A8 ;
+      line-height:1.6;
+      position: relative;
+      background:#EDEDED;
+    }
+    blockquote::before{
+      font-family:Arial;
+      content: "\201C";
+      color:#78C0A8;
+      font-size:4em;
+      position: absolute;
+      left: 10px;
+      top:-10px;
+    }
+    
+    blockquote::after{
+      content: '';
+    }
+    
+    blockquote span{
+      display:block;
+      color:#333333;
+      font-style: normal;
+      font-weight: bold;
+      margin-top:1em;
+    }
+    </style>
+  </head>
+  <body>
+    <div id="nav-border" class="container">
+    <nav id="nav" class="nav justify-content-center">
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/"><i data-feather="home"></i> Home</a>
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/blog/"><i data-feather="edit"></i> Blog</a>
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/hugotips/"><i data-feather="paperclip"></i> Hugo Tips</a>
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/tags/"><i data-feather="tag"></i> Tags</a>
+        
+    </nav>
+</div>
+    <div class="container">
+      <main id="main">
+       
+
+<h1>0755 Build Themeless Hugo Site</h1>
+
+
+<i data-feather="calendar"></i> <time datetime="2020-12-01">Dec 1, 2020</time>
+
+  <br>
+  <i data-feather="tag"></i>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/draft">draft</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/hugo">hugo</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/themeless">themeless</a>
+  
+
+<br><br>
+<p>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: none;" data-feather="star"></i>
+</p>
+<blockquote>
+<p>This is another Hugo site built from scratch without a theme, using a different setup approach. The intent is to summarise, then carry out the instructions and refine these notes.</p>
+</blockquote>
+<ul>
+<li><a href="https://www.digitalocean.com/community/tutorials/how-to-build-and-deploy-a-hugo-site-to-digitalocean-app-platform">DigitalOcean • Hugo • new site</a></li>
+</ul>
+<blockquote>
+<p>In this tutorial, you’ll use Hugo to build a small static website and deploy the site to DigitalOcean’s App Platform by using GitHub. Then you’ll make changes to your site and see those changes deployed automatically.</p>
+</blockquote>
+<h2 id="hugo-versions">Hugo Versions</h2>
+<p>Hugo comes in two versions: the regular version and the extended version. Download the extended version so you have support for asset management and support for CSS preprocessing.</p>
+<h2 id="hugo-setup-on-windows">Hugo setup on Windows</h2>
+<p>On Windows, create the directory C:\Hugo, unzip the file you’ve downloaded, and place it in C:\hugo. Then add that folder to your PATH environment variable. To do this, use Windows Search and type “environment”. Select Edit Environment Variables for My Account. On the screen that appears, press the Environment Variables button, locate PATH in the System Variables section, and press the Edit button. Add c:\hugo\bin in the text area and press OK to save the settings. Press OK on the rest of the dialogs to close them.</p>
+<h2 id="hugo-folders">Hugo folders</h2>
+<ul>
+<li><code>archetypes</code> are your content templates. You can use the hugo command to create new Markdown pages, and it’ll use the files in the archetypes directory as the template for those pages.</li>
+<li><code>config.toml</code> is the configuration file for the site, where you specify the site’s domain, title, and the theme you want to use.</li>
+<li><code>content</code> is the directory that holds your site’s content.</li>
+<li><code>data</code> is where you can store JSON files you can use when generating your site.</li>
+<li><code>layouts</code> is where you place the HTML files that define your site’s look and feel, or override the templates from a theme.</li>
+<li><code>resources</code> is where Hugo places files it generates, like optimized images.</li>
+<li><code>static</code> holds static assets, like files, stylesheets, scripts, or other assets that you don’t need Hugo to manage for you.</li>
+<li><code>themes</code> contains themes you create or download.</li>
+</ul>
+<h2 id="templates">Templates</h2>
+<p>The site will have a home page and a section called “Sharks”.</p>
+<p>To display the content, Hugo needs:</p>
+<ul>
+<li>A template for the <code>home page</code>.</li>
+<li>A template that shows a <code>list of pages</code>, such as a page that lists all the sharks, or all of the tags or categories on the site.</li>
+<li>A template for a <code>page of content</code>, like a page about a single shark.</li>
+</ul>
+<h2 id="home-page">Home page</h2>
+<p>Create the file layouts/index.html</p>
+<ul>
+<li>The {{ .Site.Title }} lines grab the title from the config.toml file.</li>
+<li>The {{ .Title }} line and {{ .Content }} line grab the title and content from the document associated with the home page, which you’ll create next.</li>
+</ul>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html"><span style="color:#75715e">&lt;!DOCTYPE html&gt;</span>
+&lt;<span style="color:#f92672">html</span> <span style="color:#a6e22e">lang</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;en-US&#34;</span>&gt;
+  &lt;<span style="color:#f92672">head</span>&gt;
+    &lt;<span style="color:#f92672">meta</span> <span style="color:#a6e22e">charset</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;utf-8&#34;</span>&gt;
+    &lt;<span style="color:#f92672">meta</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;viewport&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;width=device-width, initial-scale=1&#34;</span>&gt;
+    &lt;<span style="color:#f92672">title</span>&gt;<span style="color:#960050;background-color:#1e0010">&lt;</span>^&gt;{{ .Site.Title }}&lt;/<span style="color:#f92672">title</span>&gt;
+    &lt;<span style="color:#f92672">link</span> <span style="color:#a6e22e">rel</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;stylesheet&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;/style.css&#34;</span>&gt;
+  &lt;/<span style="color:#f92672">head</span>&gt;
+  &lt;<span style="color:#f92672">body</span>&gt;
+
+    &lt;<span style="color:#f92672">header</span>&gt;
+      &lt;<span style="color:#f92672">h1</span>&gt;{{ .Site.Title }}&lt;/<span style="color:#f92672">h1</span>&gt;
+    &lt;/<span style="color:#f92672">header</span>&gt;
+
+    &lt;<span style="color:#f92672">main</span>&gt;
+      &lt;<span style="color:#f92672">h2</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">h2</span>&gt;
+      {{ .Content }}
+    &lt;/<span style="color:#f92672">main</span>&gt;
+
+    &lt;<span style="color:#f92672">footer</span>&gt;
+      &lt;<span style="color:#f92672">small</span>&gt;Made with love and Hugo&lt;/<span style="color:#f92672">small</span>&gt;
+    &lt;/<span style="color:#f92672">footer</span>&gt;
+  &lt;/<span style="color:#f92672">body</span>&gt;
+&lt;/<span style="color:#f92672">html</span>&gt;
+</code></pre></div><h2 id="archetype">archetype</h2>
+<p>By default, Hugo creates all new pages in draft mode. Open the file archetypes/default.md in your editor and modify it so that draft is false. This way all new pages you create won’t be in draft mode.</p>
+<pre><code>---
+title: &quot;{{ replace .Name &quot;-&quot; &quot; &quot; | title }}&quot;
+date: {{ .Date }}
+draft: false
+---
+</code></pre><h2 id="home-page-1">home page</h2>
+<p>Now use Hugo to generate a content file for your home page.</p>
+<p>From the terminal, in the directory of your project, type this command:</p>
+<p><code>hugo new _index.md</code></p>
+<p>This generates the file content/index.md:</p>
+<p><code>/Users/your_username/sharkopedia/content/_index.md created</code></p>
+<p>The underscore in the filename tells Hugo that this is the content page for either a listing page or the home page, as opposed to a regular piece of content.</p>
+<p>Open the content/_index.md file in your editor and add some text and change the title:</p>
+<pre><code>---
+title: &quot;Welcome&quot;
+date: 2020-10-07T14:07:35-05:00
+draft: false
+---
+This is a site all about sharks! Select a shark from the list to learn more:
+</code></pre><h2 id="single-template">single template</h2>
+<p>Next you’ll need a template for single pieces of content, and for this project, you can duplicate the home page, although you’ll have to place it in a specific directory.</p>
+<p>Create the directory layouts/_default:</p>
+<p><code>mkdir layouts/_default</code></p>
+<p>Then create the file layouts/_default/single.html and copy the contents of your layouts/index.html file into the new file. You can do this from the command line with this command:</p>
+<p><code>cp layouts/index.html layouts/_default/single.html</code></p>
+<h2 id="content">content</h2>
+<p>Next, you’ll create a sharks content section of the site. To do so, you’ll use the hugo command to create new Markdown files in the content directory under a sharks subdirectory. Execute this command to create a content page for Hammerhead sharks:</p>
+<p><code>hugo new sharks/hammerhead.md</code></p>
+<p>Note that you don’t specify the content directory when using the hugo new command.</p>
+<h2 id="default-list-template">default list template</h2>
+<p>Create the file layouts/_default/list.html and open it in your editor. Inside the file, place the same content as your other templates:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html"><span style="color:#75715e">&lt;!DOCTYPE html&gt;</span>
+&lt;<span style="color:#f92672">html</span> <span style="color:#a6e22e">lang</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;en-US&#34;</span>&gt;
+  &lt;<span style="color:#f92672">head</span>&gt;
+    &lt;<span style="color:#f92672">meta</span> <span style="color:#a6e22e">charset</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;utf-8&#34;</span>&gt;
+    &lt;<span style="color:#f92672">meta</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;viewport&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;width=device-width, initial-scale=1&#34;</span>&gt;
+    &lt;<span style="color:#f92672">title</span>&gt;<span style="color:#960050;background-color:#1e0010">&lt;</span>^&gt;{{ .Site.Title }}&lt;/<span style="color:#f92672">title</span>&gt;
+    &lt;<span style="color:#f92672">link</span> <span style="color:#a6e22e">rel</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;stylesheet&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;/style.css&#34;</span>&gt;
+  &lt;/<span style="color:#f92672">head</span>&gt;
+  &lt;<span style="color:#f92672">body</span>&gt;
+
+    &lt;<span style="color:#f92672">header</span>&gt;
+      &lt;<span style="color:#f92672">h1</span>&gt;{{ .Site.Title }}&lt;/<span style="color:#f92672">h1</span>&gt;
+    &lt;/<span style="color:#f92672">header</span>&gt;
+
+    &lt;<span style="color:#f92672">main</span>&gt;
+      &lt;<span style="color:#f92672">h2</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">h2</span>&gt;
+      {{ .Content }}
+    &lt;/<span style="color:#f92672">main</span>&gt;
+
+    &lt;<span style="color:#f92672">footer</span>&gt;
+      &lt;<span style="color:#f92672">small</span>&gt;Made with love and Hugo&lt;/<span style="color:#f92672">small</span>&gt;
+    &lt;/<span style="color:#f92672">footer</span>&gt;
+  &lt;/<span style="color:#f92672">body</span>&gt;
+&lt;/<span style="color:#f92672">html</span>&gt;
+</code></pre></div><p>Inside the <!-- raw HTML omitted --> tag, after the title and content, place the following code which generates a bulleted list of pages to display:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">main</span>&gt;
+  &lt;<span style="color:#f92672">h2</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">h2</span>&gt;
+  {{ .Content }}
+
+  &lt;<span style="color:#f92672">ul</span>&gt;
+  {{ range .Pages }}
+    &lt;<span style="color:#f92672">li</span>&gt;&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .RelPermalink }}&#34;</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">a</span>&gt;&lt;/<span style="color:#f92672">li</span>&gt;
+  {{ end }}
+  &lt;/<span style="color:#f92672">ul</span>&gt;
+&lt;/<span style="color:#f92672">main</span>&gt;
+</code></pre></div><p>The range function iterates over all of the pages for the section of the site. The actual value of .Pages is determined when Hugo generates your site. This list template you created will be used as the default template for any lists, including tag pages, category pages, and your “sharks” section.</p>
+<p>You can make more specific templates for your sections, but this gives you a default layout that works everywhere.</p>
+<h2 id="add-more-content">add more content</h2>
+<p>Finally, create some more pages so there’s more content to display:</p>
+<p><code>hugo new sharks/mako.md</code></p>
+<p><code>hugo new sharks/whale.md</code></p>
+
+
+<em>Draft: false</em>
+<br>
+<em>Last update: 2020-12-02 19:59:05 &#43;0000 GMT</em>
+<br>
+<em>Rating: 4</em>
+<br>
+<em>Next and previous could go here</em>
+
+
+
+
+
+      </main>
+    </div>
+    
+<script src="https://dormouseroared.github.io/hugo-scratch-1/js/feather.min.js"></script>
+<script>
+  feather.replace()
+</script>
+  </body>
+</html>
