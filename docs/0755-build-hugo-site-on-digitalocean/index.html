@@ -125,9 +125,6 @@
   <i data-feather="tag"></i>
   
   
-  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/draft">draft</a>
-  
-  
   <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/hugo">hugo</a>
   
   
@@ -278,6 +275,20 @@ This is a site all about sharks! Select a shark from the list to learn more:
 <p>Finally, create some more pages so there’s more content to display:</p>
 <p><code>hugo new sharks/mako.md</code></p>
 <p><code>hugo new sharks/whale.md</code></p>
+<h2 id="add-the-list-of-sharks-to-the-home-page">add the list of sharks to the home page</h2>
+<p>Open the file layouts/index.html in your editor and add the following code to iterate over all the pages of your site that are sharks and display them:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">    &lt;<span style="color:#f92672">main</span>&gt;
+      &lt;<span style="color:#f92672">h2</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">h2</span>&gt;
+      {{ .Content }}
+
+      &lt;<span style="color:#f92672">ul</span>&gt;
+      {{ range (where site.RegularPages &#34;Type&#34; &#34;in&#34; &#34;sharks&#34;) }}
+        &lt;<span style="color:#f92672">li</span>&gt;&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .RelPermalink }}&#34;</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">a</span>&gt;&lt;/<span style="color:#f92672">li</span>&gt;
+      {{ end }}
+      &lt;/<span style="color:#f92672">ul</span>&gt;
+    &lt;/<span style="color:#f92672">main</span>&gt;
+</code></pre></div><p>This version uses (where site.RegularPages &ldquo;Type&rdquo; &ldquo;in&rdquo; &ldquo;sharks&rdquo;) to find only the content pages for sharks.</p>
+<p>Unlike your default list template, your home page needs more direction about what kind of content to display.</p>
 
 
 <em>Draft: false</em>

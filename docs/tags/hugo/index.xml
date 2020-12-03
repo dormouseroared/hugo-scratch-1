@@ -6,7 +6,17 @@
     <description>Recent content in hugo on green | hugo-scratch-1 | 0009</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 20:13:09 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Dec 2020 14:44:33 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0756 Another Hugo Site From Scratch</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0756-another-hugo-site-from-scratch/</link>
+      <pubDate>Thu, 03 Dec 2020 14:44:33 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0756-another-hugo-site-from-scratch/</guid>
+      <description>Looking for tutorials on building hugo sites from scratch, and in particular anything that helps to understand the vagaries of leaf bundle, branch bundle and page bundle.
+This youtube video is actually about setting up a theme but the idea is to have a working hugo site with some leaf and branch bundles as a working system to examine. The github here contains a starting point from which a site HUGO-BUNDLE-1 without a theme has been constructed.</description>
+    </item>
+    
     <item>
       <title>0755 Build Themeless Hugo Site</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/0755-build-hugo-site-on-digitalocean/</link>

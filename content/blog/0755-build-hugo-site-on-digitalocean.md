@@ -1,7 +1,7 @@
 ---
 title: "0755 Build Themeless Hugo Site"
 date: 2020-12-01T20:13:09Z
-tags: [draft, hugo, themeless]
+tags: [hugo, themeless]
 draft: false
 rating: 4
 ---
@@ -164,3 +164,22 @@ Finally, create some more pages so there’s more content to display:
 
 `hugo new sharks/whale.md`
 
+## add the list of sharks to the home page
+
+Open the file layouts/index.html in your editor and add the following code to iterate over all the pages of your site that are sharks and display them:
+
+```html
+    <main>
+      <h2>{{ .Title }}</h2>
+      {{ .Content }}
+
+      <ul>
+      {{ range (where site.RegularPages "Type" "in" "sharks") }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+      </ul>
+    </main>
+```
+This version uses (where site.RegularPages "Type" "in" "sharks") to find only the content pages for sharks. 
+
+Unlike your default list template, your home page needs more direction about what kind of content to display.
