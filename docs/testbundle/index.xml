@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Testbundles on green | hugo-scratch-1 | 0009</title>
+    <title>Test Bundle for Page Resources on green | hugo-scratch-1 | 0010</title>
     <link>https://dormouseroared.github.io/hugo-scratch-1/testbundle/</link>
-    <description>Recent content in Testbundles on green | hugo-scratch-1 | 0009</description>
+    <description>Recent content in Test Bundle for Page Resources on green | hugo-scratch-1 | 0010</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/testbundle/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Nov 2020 21:26:51 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/testbundle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>the first</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/testbundle/first/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Dec 2020 19:00:00 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/testbundle/first/</guid>
-      <description>Regis Philibert • Hugo Page Resources and how to use them front matter only contains manually added title, so no date or anything else yet some random images have now been placed in the first folder, and displayed using new Resources template code in single.html that should work for all pages also added testbundle to the menu, and it can be changed later   Is there a hugo new command to generate new content in Page Resource format, including Archetype, or does everything have to be added manually?</description>
+      <description>Regis Philibert • Hugo Page Resources and how to use them front matter only contains manually added title and date but nothing else yet some random images have now been placed in the first folder, and displayed using new Resources template code in single.html that should work for all pages also added testbundle to the menu, and it can be changed later   Is there a hugo new command to generate new content (including Front Matter) in Page Resource format, including an Archetype, or does everything have to be added manually?</description>
     </item>
     
   </channel>

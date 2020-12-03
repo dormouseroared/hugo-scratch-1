@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tutorial on green | hugo-scratch-1 | 0009</title>
+    <title>Tutorial on green | hugo-scratch-1 | 0010</title>
     <link>https://dormouseroared.github.io/hugo-scratch-1/tags/tutorial/</link>
-    <description>Recent content in Tutorial on green | hugo-scratch-1 | 0009</description>
+    <description>Recent content in Tutorial on green | hugo-scratch-1 | 0010</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Nov 2020 18:26:55 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
@@ -36,6 +36,15 @@ Following the zwbetz tutorial again, from scratch, but this time:
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/hugo-tutorial/</guid>
       <description> Introduction themeless Hugo tutorial  </description>
+    </item>
+    
+    <item>
+      <title>Test Bundle for Page Resources</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/testbundle/</link>
+      <pubDate>Mon, 16 Nov 2020 21:26:51 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/testbundle/</guid>
+      <description>Something from testbundle/_index.md where the title gets displayed</description>
     </item>
     
     <item>
