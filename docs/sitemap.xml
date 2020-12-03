@@ -4,12 +4,27 @@
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/</loc>
-    <lastmod>2020-12-03T18:48:25+00:00</lastmod>
+    <lastmod>2020-12-03T19:59:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/testbundle/first/</loc>
-    <lastmod>2020-12-03T18:48:25+00:00</lastmod>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/testbundle/page-resources/</loc>
+    <lastmod>2020-12-03T19:59:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/page-resources/</loc>
+    <lastmod>2020-12-03T19:59:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/regis-philibert/</loc>
+    <lastmod>2020-12-03T19:59:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/</loc>
+    <lastmod>2020-12-03T19:59:37+00:00</lastmod>
   </url>
   
   <url>
@@ -35,11 +50,6 @@
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/page-bundle/</loc>
     <lastmod>2020-12-03T15:07:31+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/</loc>
-    <lastmod>2020-12-03T18:48:25+00:00</lastmod>
   </url>
   
   <url>
@@ -434,7 +444,7 @@
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/tutorial/</loc>
-    <lastmod>2020-11-26T13:20:11+00:00</lastmod>
+    <lastmod>2020-12-03T19:47:16+00:00</lastmod>
   </url>
   
   <url>
@@ -564,7 +574,7 @@
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/testbundle/</loc>
-    <lastmod>2020-11-16T21:26:51+00:00</lastmod>
+    <lastmod>2020-12-03T19:47:16+00:00</lastmod>
   </url>
   
   <url>
@@ -844,11 +854,6 @@
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/0724-hugo-web-links/</loc>
-    <lastmod>2020-11-17T15:17:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/regis-philibert/</loc>
     <lastmod>2020-11-17T15:17:45+00:00</lastmod>
   </url>
   
