@@ -4,47 +4,47 @@
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/0756-another-hugo-site-from-scratch/</loc>
-    <lastmod>2020-12-03T14:44:33+00:00</lastmod>
+    <lastmod>2020-12-03T15:07:31+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/branch-bundle/</loc>
-    <lastmod>2020-12-03T14:44:33+00:00</lastmod>
+    <lastmod>2020-12-03T15:07:31+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/</loc>
-    <lastmod>2020-12-03T14:44:33+00:00</lastmod>
+    <lastmod>2020-12-03T15:07:31+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/hugo/</loc>
-    <lastmod>2020-12-03T14:44:33+00:00</lastmod>
+    <lastmod>2020-12-03T15:07:31+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/leaf-bundle/</loc>
-    <lastmod>2020-12-03T14:44:33+00:00</lastmod>
+    <lastmod>2020-12-03T15:07:31+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/page-bundle/</loc>
-    <lastmod>2020-12-03T14:44:33+00:00</lastmod>
+    <lastmod>2020-12-03T15:07:31+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/</loc>
-    <lastmod>2020-12-03T14:44:33+00:00</lastmod>
+    <lastmod>2020-12-03T15:07:31+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/themeless/</loc>
-    <lastmod>2020-12-03T14:44:33+00:00</lastmod>
+    <lastmod>2020-12-03T15:07:31+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/0755-build-hugo-site-on-digitalocean/</loc>
-    <lastmod>2020-12-02T19:59:05+00:00</lastmod>
+    <lastmod>2020-12-03T15:07:31+00:00</lastmod>
   </url>
   
   <url>
@@ -970,6 +970,14 @@
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/blog/</loc>
     <lastmod>2020-11-17T15:17:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/testbundle/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/testbundle/first/</loc>
   </url>
   
 </urlset>

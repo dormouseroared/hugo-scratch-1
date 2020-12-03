@@ -4,12 +4,24 @@
 {{ partial "date-and-tags.html" . }}
 <br><br>
 {{ .Content }}
+<!--  -->
+<!-- if this is a page bundle with Resources of type image let's see them-->
+<!--  -->
+{{ with .Resources.ByType "image" }}
+	<div class="Image">
+	{{ range . }}
+		<img src="{{ .RelPermalink }}">
+	{{ end }}
+	</div>
+{{ end }}
 
 <em>Draft: {{ .Draft }}</em>
 <br>
 <em>Last update: {{ .Lastmod }}</em>
 <br>
 <em>Rating: {{ .Params.Rating }}</em>
+<br>
+<em>Kind: {{ .Kind }}</em>
 <br>
 <em>Next and previous could go here</em>
 

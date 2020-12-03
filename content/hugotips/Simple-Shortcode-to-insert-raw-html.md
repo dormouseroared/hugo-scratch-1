@@ -2,7 +2,7 @@
 title: "Simple Shortcode To add raw html"
 date: 2020-11-24T16:10:17Z
 tags: ["shortcode", "raw html", "feather icons", "rating"]
-rating: 5
+rating: 4
 draft: false
 ---
 [Simple Shortcode To add raw html](https://anaulin.org/blog/hugo-raw-html-shortcode/)

@@ -40,4 +40,8 @@ enableGitInfo = true
     pre = "paperclip"
     url = "/hugotips/"
     weight = 3
-
+[[menu.main]]
+    name = "testbundle"
+    pre = "sliders"
+    url = "/testbundle/"
+    weight = 5
