@@ -1,6 +1,7 @@
 ---
-title: "the first"
+title: "Page Resources"
 date: 2020-12-03T19:00:00Z
+tags: ["page resources", "Regis Philibert"]
 ---
 * [Regis Philibert &bull; Hugo Page Resources and how to use them](https://regisphilibert.com/blog/2018/01/hugo-page-resources-and-how-to-use-them/)
 * front matter only contains manually added title and date but nothing else yet
