@@ -13,11 +13,23 @@
 <!-- if this is a page bundle with Resources of type image let's see them-->
 <!--  -->
 {{ with .Resources.ByType "image" }}
+<h3>Print out any images in the bundle</h3>
 	<div class="Image">
 	{{ range . }}
 		<img src="{{ .RelPermalink }}">
 	{{ end }}
 	</div>
+{{ end }}
+<!--  -->
+<!-- print out the relative links for all images in this bundle -->
+<!--  -->
+{{ with .Resources.ByType "image" }}
+<h3>Image Bundle found:</h3>
+	<ul>
+	{{ range . }}
+		<li>{{ .RelPermalink }}</li>
+	{{ end }}
+	</ul>
 {{ end }}
 
 <em>Draft: {{ .Draft }}</em>

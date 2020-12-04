@@ -6,14 +6,37 @@
     <description>Recent content on green | hugo-scratch-1 | 0011</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Dec 2020 12:31:28 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Dec 2020 21:55:56 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shortcode Github</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/shortcode-github/</link>
+      <pubDate>Fri, 04 Dec 2020 21:55:56 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/shortcode-github/</guid>
+      <description>The shortcode used in this blog about Hugo uses font awesome to provide the github icon.
+Let&amp;rsquo;s see if we can use a feather icon for github. For the moment, we&amp;rsquo;ll add it after the fontawesome icon, so we could get both!
+The second parameter is a comment that is added to the end of the link.
+Shortcodes can be used to insert HTML etc into the content.
+&amp;nbsp;feathericons/feather#feather &amp;nbsp;&amp;mdash;&amp;nbsp;for the icons such as github</description>
+    </item>
+    
+    <item>
+      <title>Relative Link</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/relative-link/</link>
+      <pubDate>Fri, 04 Dec 2020 17:31:28 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/relative-link/</guid>
+      <description>Create Article Preview in Hugo
+From Jeremy&amp;rsquo;s article  After building this functionality I realized I could create a short code to do a similar thing with relative page links. I created a short code named relativelink.html, in which the .Site.GetPage allows me to fetch a page based on its URL. I then extract the title, image, and description to create my preview. The thumbnail generation produces a slightly wider image and constrains the height as well.</description>
+    </item>
+    
     <item>
       <title>Featured Image</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/featured-image/</link>
       <pubDate>Fri, 04 Dec 2020 12:31:28 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/featured-image/</guid>
-      <description>work through an interesting item on the Hugo forum about Featured Image to see what can be understood and applied if possible. This is also the first use of summary in front matter to override the default of first n characters in the post, and should be seen in the single template at the bottom of the page.</description>
+      <description>Work through an interesting item on the Hugo forum about Featured Image to see what can be understood and applied if possible. This is also the first use of summary in front matter to override the default of first n characters in the post, and should be seen in the single template at the bottom of the page. The template single.html has been left updated with the ability to display the featured_image. Not sure how this relates to page bundles yet, but it will be useful for existing posts. And, still confused about relative links for images.</description>
     </item>
     
     <item>
@@ -44,7 +67,7 @@ Looked at Page Info then media for the images, and there were hopeful messages a
       <pubDate>Thu, 03 Dec 2020 19:00:00 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/testbundle/page-resources/</guid>
-      <description>Regis Philibert • Hugo Page Resources and how to use them front matter only contains manually added title and date but nothing else yet some random images have now been placed in the first folder, and displayed using new Resources template code in single.html that should work for all pages also added testbundle to the menu, and it can be changed later image details  3511x1975 0.7 MB 4599x2587 1.</description>
+      <description>At last, we can display an image from this page bundle!  The routine to list out the relative links of any page bundle images has now been added to the single.html template using this code .  Regis Philibert • Hugo Page Resources and how to use them to start with, front matter only contains manually added title and date some random images have now been placed in the first folder, and displayed using new Resources template code in single.</description>
     </item>
     
     <item>

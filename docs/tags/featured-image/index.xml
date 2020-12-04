@@ -13,7 +13,7 @@
       <pubDate>Fri, 04 Dec 2020 12:31:28 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/featured-image/</guid>
-      <description>work through an interesting item on the Hugo forum about Featured Image to see what can be understood and applied if possible. This is also the first use of summary in front matter to override the default of first n characters in the post, and should be seen in the single template at the bottom of the page.</description>
+      <description>Work through an interesting item on the Hugo forum about Featured Image to see what can be understood and applied if possible. This is also the first use of summary in front matter to override the default of first n characters in the post, and should be seen in the single template at the bottom of the page. The template single.html has been left updated with the ability to display the featured_image. Not sure how this relates to page bundles yet, but it will be useful for existing posts. And, still confused about relative links for images.</description>
     </item>
     
   </channel>

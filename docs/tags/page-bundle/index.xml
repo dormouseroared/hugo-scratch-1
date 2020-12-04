@@ -6,7 +6,16 @@
     <description>Recent content in page bundle on green | hugo-scratch-1 | 0011</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Dec 2020 14:44:33 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/page-bundle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Dec 2020 19:00:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/page-bundle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Page Resources</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/testbundle/page-resources/</link>
+      <pubDate>Thu, 03 Dec 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/testbundle/page-resources/</guid>
+      <description>At last, we can display an image from this page bundle!  The routine to list out the relative links of any page bundle images has now been added to the single.html template using this code .  Regis Philibert • Hugo Page Resources and how to use them to start with, front matter only contains manually added title and date some random images have now been placed in the first folder, and displayed using new Resources template code in single.</description>
+    </item>
+    
     <item>
       <title>0756 Another Hugo Site From Scratch</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/0756-another-hugo-site-from-scratch/</link>

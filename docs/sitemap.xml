@@ -3,38 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/draft/</loc>
-    <lastmod>2020-12-04T12:31:28+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/hugotips/featured-image/</loc>
-    <lastmod>2020-12-04T12:31:28+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/featured-image/</loc>
-    <lastmod>2020-12-04T12:31:28+00:00</lastmod>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/github/</loc>
+    <lastmod>2020-12-04T21:55:56+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/</loc>
-    <lastmod>2020-12-04T12:31:28+00:00</lastmod>
+    <lastmod>2020-12-04T21:55:56+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/hugotips/</loc>
-    <lastmod>2020-12-04T12:31:28+00:00</lastmod>
+    <lastmod>2020-12-04T21:55:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/summary/</loc>
-    <lastmod>2020-12-04T12:31:28+00:00</lastmod>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/shortcode/</loc>
+    <lastmod>2020-12-04T21:55:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/hugotips/shortcode-github/</loc>
+    <lastmod>2020-12-04T21:55:56+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/</loc>
-    <lastmod>2020-12-04T12:31:28+00:00</lastmod>
+    <lastmod>2020-12-04T21:55:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/draft/</loc>
+    <lastmod>2020-12-04T17:31:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/jeremy-likness/</loc>
+    <lastmod>2020-12-04T17:31:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/hugotips/relative-link/</loc>
+    <lastmod>2020-12-04T17:31:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/relative-link/</loc>
+    <lastmod>2020-12-04T17:31:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/absurl/</loc>
+    <lastmod>2020-12-04T16:12:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/hugotips/featured-image/</loc>
+    <lastmod>2020-12-04T16:12:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/featured-image/</loc>
+    <lastmod>2020-12-04T16:12:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/hugo-forum/</loc>
+    <lastmod>2020-12-04T16:12:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/summary/</loc>
+    <lastmod>2020-12-04T16:12:27+00:00</lastmod>
   </url>
   
   <url>
@@ -49,6 +89,11 @@
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/image-optimisation/</loc>
+    <lastmod>2020-12-04T12:29:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/page-bundle/</loc>
     <lastmod>2020-12-04T12:29:49+00:00</lastmod>
   </url>
   
@@ -84,11 +129,6 @@
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/leaf-bundle/</loc>
-    <lastmod>2020-12-03T15:07:31+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/page-bundle/</loc>
     <lastmod>2020-12-03T15:07:31+00:00</lastmod>
   </url>
   
@@ -235,11 +275,6 @@
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/picture/</loc>
     <lastmod>2020-11-28T14:52:35+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/shortcode/</loc>
-    <lastmod>2020-12-03T18:48:25+00:00</lastmod>
   </url>
   
   <url>
@@ -465,11 +500,6 @@
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/0741-hugo-zwbetz-blog-tutorial-again/</loc>
     <lastmod>2020-11-24T13:49:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/github/</loc>
-    <lastmod>2020-11-26T13:20:11+00:00</lastmod>
   </url>
   
   <url>

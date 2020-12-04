@@ -26,7 +26,7 @@ Looked at Page Info then media for the images, and there were hopeful messages a
       <pubDate>Thu, 03 Dec 2020 19:00:00 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/testbundle/page-resources/</guid>
-      <description>Regis Philibert • Hugo Page Resources and how to use them front matter only contains manually added title and date but nothing else yet some random images have now been placed in the first folder, and displayed using new Resources template code in single.html that should work for all pages also added testbundle to the menu, and it can be changed later image details  3511x1975 0.7 MB 4599x2587 1.</description>
+      <description>At last, we can display an image from this page bundle!  The routine to list out the relative links of any page bundle images has now been added to the single.html template using this code .  Regis Philibert • Hugo Page Resources and how to use them to start with, front matter only contains manually added title and date some random images have now been placed in the first folder, and displayed using new Resources template code in single.</description>
     </item>
     
   </channel>

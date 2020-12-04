@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>relative link on green | hugo-scratch-1 | 0011</title>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/relative-link/</link>
+    <description>Recent content in relative link on green | hugo-scratch-1 | 0011</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Dec 2020 17:31:28 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/relative-link/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relative Link</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/relative-link/</link>
+      <pubDate>Fri, 04 Dec 2020 17:31:28 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/relative-link/</guid>
+      <description>Create Article Preview in Hugo
+From Jeremy&amp;rsquo;s article  After building this functionality I realized I could create a short code to do a similar thing with relative page links. I created a short code named relativelink.html, in which the .Site.GetPage allows me to fetch a page based on its URL. I then extract the title, image, and description to create my preview. The thumbnail generation produces a slightly wider image and constrains the height as well.</description>
+    </item>
+    
+  </channel>
+</rss>
