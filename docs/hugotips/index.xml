@@ -6,7 +6,16 @@
     <description>Recent content in Hugotips on green | hugo-scratch-1 | 0010</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 15:31:38 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/hugotips/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Dec 2020 01:30:40 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/hugotips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Iframe Test</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/hugo-iframe-test/</link>
+      <pubDate>Fri, 04 Dec 2020 01:30:40 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/hugo-iframe-test/</guid>
+      <description>iframe test Loading…</description>
+    </item>
+    
     <item>
       <title>hugo-scratch-1 Mermaid diagram</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/hugo-scratch-1-mermaid/</link>

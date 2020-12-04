@@ -6,7 +6,29 @@
     <description>Recent content in draft on green | hugo-scratch-1 | 0010</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Nov 2020 11:41:13 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/draft/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Dec 2020 01:30:40 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/draft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Iframe Test</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/hugo-iframe-test/</link>
+      <pubDate>Fri, 04 Dec 2020 01:30:40 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/hugo-iframe-test/</guid>
+      <description>iframe test Loading…</description>
+    </item>
+    
+    <item>
+      <title>How to resize images in Hugo</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/testbundle/how-to-resize-images-with-hugo/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/testbundle/how-to-resize-images-with-hugo/</guid>
+      <description>Vegard Skjefstad • How to resize images with Hugo
+Initial setup limits images to 640 px width Create this file: layouts/render-image.html
+{{ $image := (.Page.Resources.GetMatch .Destination).Resize &amp;#34;640x&amp;#34; }} &amp;lt;img src=&amp;#34;{{ $image.RelPermalink | safeURL }}&amp;#34; /&amp;gt; Carried out.
+The optimisation only works on bundles.
+Looked at Page Info then media for the images, and there were hopeful messages about reduced size, so need to disable the change and inspect before and after.</description>
+    </item>
+    
     <item>
       <title>0753 Online Maps</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/0753-online-maps/</link>

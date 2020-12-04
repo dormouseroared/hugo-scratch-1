@@ -8,12 +8,25 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Nov 2020 21:26:51 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/testbundle/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>How to resize images in Hugo</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/testbundle/how-to-resize-images-with-hugo/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/testbundle/how-to-resize-images-with-hugo/</guid>
+      <description>Vegard Skjefstad • How to resize images with Hugo
+Initial setup limits images to 640 px width Create this file: layouts/render-image.html
+{{ $image := (.Page.Resources.GetMatch .Destination).Resize &amp;#34;640x&amp;#34; }} &amp;lt;img src=&amp;#34;{{ $image.RelPermalink | safeURL }}&amp;#34; /&amp;gt; Carried out.
+The optimisation only works on bundles.
+Looked at Page Info then media for the images, and there were hopeful messages about reduced size, so need to disable the change and inspect before and after.</description>
+    </item>
+    
+    <item>
       <title>Page Resources</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/testbundle/page-resources/</link>
       <pubDate>Thu, 03 Dec 2020 19:00:00 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/testbundle/page-resources/</guid>
-      <description>Regis Philibert • Hugo Page Resources and how to use them front matter only contains manually added title and date but nothing else yet some random images have now been placed in the first folder, and displayed using new Resources template code in single.html that should work for all pages also added testbundle to the menu, and it can be changed later   Is there a hugo new command to generate new content (including Front Matter) in Page Resource format, including an Archetype, or does everything have to be added manually?</description>
+      <description>Regis Philibert • Hugo Page Resources and how to use them front matter only contains manually added title and date but nothing else yet some random images have now been placed in the first folder, and displayed using new Resources template code in single.html that should work for all pages also added testbundle to the menu, and it can be changed later image details  3511x1975 0.7 MB 4599x2587 1.</description>
     </item>
     
   </channel>
