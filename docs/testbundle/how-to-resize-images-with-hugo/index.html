@@ -22,7 +22,7 @@
 
     
 
-    <title>How to resize images in Hugo | green | hugo-scratch-1 | 0010</title>
+    <title>How to resize images in Hugo | green | hugo-scratch-1 | 0011</title>
 
     <style>
     .container {
@@ -136,6 +136,9 @@
   
 
 <br><br>
+
+
+
 <p><a href="https://www.vegard.net/hugo-resize-images/">Vegard Skjefstad • How to resize images with Hugo</a></p>
 <h1 id="initial-setup-limits-images-to-640-px-width">Initial setup limits images to 640 px width</h1>
 <p>Create this file: <code>layouts/render-image.html</code></p>
@@ -151,13 +154,21 @@
 
 
 <em>Draft: false</em>
-<br>
-<em>Last update: 2020-12-04 00:00:00 &#43;0000 UTC</em>
-<br>
+<hr>
+<em>Last update: 2020-12-04 12:29:49 &#43;0000 GMT</em>
+<hr>
 <em>Rating: </em>
-<br>
+<hr>
 <em>Kind: page</em>
-<br>
+<hr>
+<em>Summary: Vegard Skjefstad • How to resize images with Hugo
+Initial setup limits images to 640 px width Create this file: layouts/render-image.html
+{{ $image := (.Page.Resources.GetMatch .Destination).Resize &#34;640x&#34; }} &lt;img src=&#34;{{ $image.RelPermalink | safeURL }}&#34; /&gt; Carried out.
+The optimisation only works on bundles.
+Looked at Page Info then media for the images, and there were hopeful messages about reduced size, so need to disable the change and inspect before and after.</em>
+<hr>
+<em>featured_image: </em>
+<hr>
 <em>Next and previous could go here</em>
 
 

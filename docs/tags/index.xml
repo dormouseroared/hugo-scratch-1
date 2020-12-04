@@ -1,18 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on green | hugo-scratch-1 | 0010</title>
+    <title>Tags on green | hugo-scratch-1 | 0011</title>
     <link>https://dormouseroared.github.io/hugo-scratch-1/tags/</link>
-    <description>Recent content in Tags on green | hugo-scratch-1 | 0010</description>
+    <description>Recent content in Tags on green | hugo-scratch-1 | 0011</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Dec 2020 01:30:40 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Dec 2020 12:31:28 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>draft</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/tags/draft/</link>
-      <pubDate>Fri, 04 Dec 2020 01:30:40 +0000</pubDate>
+      <pubDate>Fri, 04 Dec 2020 12:31:28 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/draft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>featured image</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/featured-image/</link>
+      <pubDate>Fri, 04 Dec 2020 12:31:28 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/featured-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>summary</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/tags/summary/</link>
+      <pubDate>Fri, 04 Dec 2020 12:31:28 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/tags/summary/</guid>
       <description></description>
     </item>
     

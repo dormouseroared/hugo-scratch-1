@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="generator" content="Hugo 0.79.0" />
+    
+    <link rel="stylesheet" href="https://dormouseroared.github.io/hugo-scratch-1/css/bootstrap.min.css">
+
+    
+    
+    
+    
+
+    
+    <link rel="shortcut icon" href="https://dormouseroared.github.io/hugo-scratch-1/favicon.ico" type="image/x-icon">
+
+    
+    
+    
+    
+
+    
+
+    <title>Featured Image | green | hugo-scratch-1 | 0011</title>
+
+    <style>
+    .container {
+      max-width: 700px;
+    }
+    #nav a {
+      font-weight: bold;
+      color: inherit;
+    }
+    #nav-border {
+      border-bottom: 1px solid #212529;
+    }
+    #main {
+      margin-top: 1em;
+      margin-bottom: 4em;
+    }
+    #home-jumbotron {
+      background-color: inherit;
+    }
+    .font-125 {
+      font-size: 125%;
+    }
+    .tag-btn {
+      margin-bottom: 0.3em;
+    }
+    img {
+      max-width: 100%;
+    }
+    
+
+    
+    blockquote{
+      font-size: 1.4em;
+      width:80%;
+      margin:50px auto;
+      font-family:Open Sans;
+      font-style:italic;
+      color: #555555;
+      padding:1.2em 30px 1.2em 75px;
+      border-left:8px solid #78C0A8 ;
+      line-height:1.6;
+      position: relative;
+      background:#EDEDED;
+    }
+    blockquote::before{
+      font-family:Arial;
+      content: "\201C";
+      color:#78C0A8;
+      font-size:4em;
+      position: absolute;
+      left: 10px;
+      top:-10px;
+    }
+    
+    blockquote::after{
+      content: '';
+    }
+    
+    blockquote span{
+      display:block;
+      color:#333333;
+      font-style: normal;
+      font-weight: bold;
+      margin-top:1em;
+    }
+    </style>
+  </head>
+  <body>
+    <div id="nav-border" class="container">
+    <nav id="nav" class="nav justify-content-center">
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/"><i data-feather="home"></i> Home</a>
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/blog/"><i data-feather="edit"></i> Blog</a>
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/hugotips/"><i data-feather="paperclip"></i> Hugo Tips</a>
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/tags/"><i data-feather="tag"></i> Tags</a>
+        
+        
+        
+        <a class="nav-link" href="/hugo-scratch-1/testbundle/"><i data-feather="sliders"></i> testbundle</a>
+        
+    </nav>
+</div>
+    <div class="container">
+      <main id="main">
+       
+
+<h1>Featured Image</h1>
+
+
+<i data-feather="calendar"></i> <time datetime="2020-12-04">Dec 4, 2020</time>
+
+  <br>
+  <i data-feather="tag"></i>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/draft">draft</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/featured-image">featured image</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/summary">summary</a>
+  
+
+<br><br>
+
+
+    <img src="https://dormouseroared.github.io/hugo-scratch-1/img/test.png">
+
+
+<p>Searching for anything about the use of image and images in front matter with lists of images in the bundle, and found this. It isn&rsquo;t relevant to the original search, but it is worth working through.</p>
+<p><a href="https://discourse.gohugo.io/t/post-featured-image/864/4">Hugo forum • post with featured image</a></p>
+<blockquote>
+<p>I would like to have a section on one page which displays post featured images (maybe specified in the front matter or the first image used in the post) together with a summary of that post. If this could be done to automatically pick up the most recent post in any given category, that would be marvellous. Can it be done?</p>
+</blockquote>
+<h2 id="initial-understanding">Initial understanding</h2>
+<ul>
+<li>new section (folder) in content to find any posts in blog with a featured image</li>
+<li>OR, is it a chunk of code at the bottom of single</li>
+<li>OR, a part of the home page</li>
+<li>has this got anything to do with bundles? Think not.</li>
+</ul>
+<blockquote>
+<p>For anyone else who finds this and wants to know how I did it: in the .md file, you need to include this in the front matter:</p>
+</blockquote>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">+++
+featured_image = “images/pic01.jpg”
++++
+</code></pre></div><p>Then at the point you want to include it in the page, you add into the template</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;#&#34;</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;image featured&#34;</span>&gt;
+    {{if isset .Params &#34;featured_image&#34; }}
+        &lt;<span style="color:#f92672">img</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ index .Params &#34;</span><span style="color:#a6e22e">featured_image</span><span style="color:#960050;background-color:#1e0010">&#34;</span> <span style="color:#960050;background-color:#1e0010">}}&#34;</span>&gt;&lt;/<span style="color:#f92672">a</span>&gt;
+    {{ end }}
+</code></pre></div><blockquote>
+<p>In this case it’s a matter of taste (and space…), but I tend to use this construction for these conditionals (your code works fine, but “with” has less surprises in some cases, and it’s more compact):</p>
+</blockquote>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">{{ with .Params.featured_image }}
+    &lt;<span style="color:#f92672">img</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ . }}&#34;</span>&gt;
+{{ end }}
+</code></pre></div><h2 id="testing">Testing</h2>
+<ul>
+<li>Insert {{ .Params.featured_image }} into the single.html template. This results in the display of the placeholder text if the parameter is present in front matter, or nothing at all if it isn&rsquo;t.</li>
+<li>Add the 3 lines into the single.html template. Where the parameter is set, an attempt to display an image can be seen.</li>
+<li>Now to put an image address in the static folder into the placeholder text.</li>
+<li>Could not work out the relative address of the image, so added a pipe to absURL, and that will do for now.</li>
+<li>The featured image is now displayed on the single.html template page.</li>
+<li>This isn&rsquo;t quite what the original question seemed to ask for, but the result is very useful!</li>
+</ul>
+
+
+
+
+
+
+<em>Draft: false</em>
+<hr>
+<em>Last update: 2020-12-04 12:31:28 &#43;0000 UTC</em>
+<hr>
+<em>Rating: 1</em>
+<hr>
+<em>Kind: page</em>
+<hr>
+<em>Summary: work through an interesting item on the Hugo forum about Featured Image to see what can be understood and applied if possible. This is also the first use of summary in front matter to override the default of first n characters in the post, and should be seen in the single template at the bottom of the page.</em>
+<hr>
+<em>featured_image: img/test.png</em>
+<hr>
+<em>Next and previous could go here</em>
+
+
+
+
+
+      </main>
+    </div>
+    
+<script src="https://dormouseroared.github.io/hugo-scratch-1/js/feather.min.js"></script>
+<script>
+  feather.replace()
+</script>
+  </body>
+</html>

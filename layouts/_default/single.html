@@ -3,6 +3,11 @@
 <h1>{{ .Title }}</h1>
 {{ partial "date-and-tags.html" . }}
 <br><br>
+
+{{ with .Params.featured_image }}
+    <img src="{{ . | absURL}}">
+{{ end }}
+
 {{ .Content }}
 <!--  -->
 <!-- if this is a page bundle with Resources of type image let's see them-->
@@ -16,13 +21,17 @@
 {{ end }}
 
 <em>Draft: {{ .Draft }}</em>
-<br>
+<hr>
 <em>Last update: {{ .Lastmod }}</em>
-<br>
+<hr>
 <em>Rating: {{ .Params.Rating }}</em>
-<br>
+<hr>
 <em>Kind: {{ .Kind }}</em>
-<br>
+<hr>
+<em>Summary: {{ .Summary }}</em>
+<hr>
+<em>featured_image: {{ .Params.featured_image }}</em>
+<hr>
 <em>Next and previous could go here</em>
 
 {{ if (.Params.mermaid) }}
