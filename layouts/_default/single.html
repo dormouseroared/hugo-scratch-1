@@ -32,6 +32,9 @@
 	</ul>
 {{ end }}
 
+{{ partial "related.html" . }}
+
+
 <em>Draft: {{ .Draft }}</em>
 <hr>
 <em>Last update: {{ .Lastmod }}</em>
@@ -43,6 +46,14 @@
 <em>Summary: {{ .Summary }}</em>
 <hr>
 <em>featured_image: {{ .Params.featured_image }}</em>
+<hr>
+<em>resources: {{ .Resources }}</em>
+<hr>
+<em>slug: {{ .Slug }}</em>
+<hr>
+<em>type: {{ .Type }}</em>
+<hr>
+<em>url: {{ .URL }}</em>
 <hr>
 <em>Next and previous could go here</em>
 
