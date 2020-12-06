@@ -22,7 +22,7 @@
 
     
 
-    <title>Page Resources | green | hugo-scratch-1 | 0011</title>
+    <title>Page Resources | green | hugo-scratch-1 | 0012</title>
 
     <style>
     .container {
@@ -120,7 +120,13 @@
       <main id="main">
        
 
+
+
+
 <h1>Page Resources</h1>
+
+
+
 
 
 <i data-feather="calendar"></i> <time datetime="2020-12-03">Dec 3, 2020</time>
@@ -137,11 +143,49 @@
   
   <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/page-bundle">page bundle</a>
   
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/table-of-contents">Table of Contents</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/featured-image">featured image</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/imgproc">imgproc</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://dormouseroared.github.io/hugo-scratch-1/tags/shortcode">shortcode</a>
+  
 
 <br><br>
 
 
 
+
+    <img src="https://dormouseroared.github.io/hugo-scratch-1/testbundle/page-resources/derek-oyen-m5r2FFo8NJM-unsplash.jpg">
+
+
+
+
+
+	<h3>Table of Contents</h3>
+	<nav id="TableOfContents">
+  <ul>
+    <li><a href="#at-last-we-can-display-an-image-from-this-page-bundle">At last, we can display an image from this page bundle!</a></li>
+    <li><a href="#using-the-newly-created-imgproc-shortcode">using the newly created imgproc shortcode</a></li>
+    <li><a href="#to-do">To Do</a></li>
+  </ul>
+</nav>
+
+
+
+
+<p>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+    <i style="fill: red;" data-feather="star"></i>
+</p>
 <h2 id="at-last-we-can-display-an-image-from-this-page-bundle">At last, we can display an image from this page bundle!</h2>
 <ul>
 <li>The routine to list out the relative links of any page bundle images has now been added to the single.html template using <a href="https://gohugo.io/content-management/image-processing/#the-image-page-resource">this code</a> .
@@ -149,7 +193,7 @@
 <li><a href="https://regisphilibert.com/blog/2018/01/hugo-page-resources-and-how-to-use-them/">Regis Philibert • Hugo Page Resources and how to use them</a></li>
 <li>to start with, front matter only contains manually added <code>title</code> and <code>date</code></li>
 <li>some random images have now been placed in the first folder, and displayed using new Resources template code in single.html that should work for all pages</li>
-<li>also added testbundle to the menu, and it can be changed later</li>
+<li>also added testbundle to the top menu. It can be changed later.</li>
 <li>image details
 <ul>
 <li>3511x1975 0.7 MB</li>
@@ -160,11 +204,9 @@
 </li>
 <li><code>description</code> and <code>image</code> have been added to the front matter to enable the relativelink shortcode to be used, but at the moment the image is not being displayed.</li>
 </ul>
-<blockquote>
-<p>Is there a hugo new command to generate new content (including Front Matter) in Page Resource format, including an Archetype, or does everything have to be added manually?</p>
-</blockquote>
-<h2 id="using-the-newly-created-imgptoc-shortcode">using the newly created imgptoc shortcode</h2>
-<p><a href="https://gohugo.io/content-management/image-processing/#image-processing-examples">hugo documentation</a>
+<h2 id="using-the-newly-created-imgproc-shortcode">using the newly created imgproc shortcode</h2>
+<p><a href="https://gohugo.io/content-management/image-processing/#image-processing-examples">hugo image processing</a></p>
+<p>Here is a <code>Resize</code>:
 
 
 
@@ -184,6 +226,10 @@
 	</figcaption>
 </figure>  
 </p>
+<h2 id="to-do">To Do</h2>
+<blockquote>
+<p>Is there a hugo new command to generate new content (including Front Matter) in Page Resource format, including an Archetype, or does everything have to be added manually?</p>
+</blockquote>
 
 
 
@@ -223,39 +269,59 @@
 
 
 
+
+
 <h3>See Also</h3>
 <ul>
 	
 	<li><a href="/hugo-scratch-1/0756-another-hugo-site-from-scratch/">0756 Another Hugo Site From Scratch</a></li>
 	
-	<li><a href="/hugo-scratch-1/0724-hugo-web-links/">0724 hugo web links</a></li>
+	<li><a href="/hugo-scratch-1/0750-getting-hugo-image-to-work/">0750 Getting Hugo Image to Work</a></li>
+	
+	<li><a href="/hugo-scratch-1/hugotips/shortcode-for-figure/">Shortcode for Figure</a></li>
+	
+	<li><a href="/hugo-scratch-1/hugotips/mermaidjs/">mermaidjs</a></li>
+	
+	<li><a href="/hugo-scratch-1/hugotips/simple-shortcode-to-insert-raw-html/">Simple Shortcode To add raw html</a></li>
 	
 </ul>
 
 
 
 
-<em>Draft: false</em>
-<hr>
-<em>Last update: 2020-12-04 22:54:50 &#43;0000 GMT</em>
-<hr>
-<em>Rating: </em>
-<hr>
-<em>Kind: page</em>
-<hr>
-<em>Summary: At last, we can display an image from this page bundle!  The routine to list out the relative links of any page bundle images has now been added to the single.html template using this code .  Regis Philibert • Hugo Page Resources and how to use them to start with, front matter only contains manually added title and date some random images have now been placed in the first folder, and displayed using new Resources template code in single.</em>
-<hr>
-<em>featured_image: </em>
-<hr>
-<em>resources: [derek-oyen-4ReskwNsh68-unsplash.jpg derek-oyen-Pp-zoKs3pXQ-unsplash.jpg derek-oyen-jbPQwY5t7MQ-unsplash.jpg derek-oyen-m5r2FFo8NJM-unsplash.jpg]</em>
-<hr>
-<em>slug: </em>
-<hr>
-<em>type: testbundle</em>
-<hr>
-<em>url: /hugo-scratch-1/testbundle/page-resources/</em>
-<hr>
-<em>Next and previous could go here</em>
+
+<h3>Breadcrumb</h3>
+
+<ol  class="nav navbar-nav">
+    
+  
+  
+  
+  
+  
+  <li>
+    <a href="https://dormouseroared.github.io/hugo-scratch-1/">green | hugo-scratch-1 | 0012</a>
+  </li>
+  
+  
+  <li>
+    <a href="https://dormouseroared.github.io/hugo-scratch-1/testbundle/">Test Bundle for Page Resources</a>
+  </li>
+  
+  
+  <li class="active">
+    <a href="https://dormouseroared.github.io/hugo-scratch-1/testbundle/page-resources/">Page Resources</a>
+  </li>
+  
+  </ol>
+  
+  
+
+
+
+
+
+
 
 
 

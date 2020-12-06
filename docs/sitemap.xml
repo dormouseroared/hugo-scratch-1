@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/github/</loc>
-    <lastmod>2020-12-04T22:54:50+00:00</lastmod>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/bootstrap/</loc>
+    <lastmod>2020-12-06T13:17:18+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/</loc>
-    <lastmod>2020-12-04T22:54:50+00:00</lastmod>
+    <lastmod>2020-12-06T13:17:18+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/hugotips/</loc>
+    <lastmod>2020-12-06T13:17:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/markdown/</loc>
+    <lastmod>2020-12-06T13:17:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/</loc>
+    <lastmod>2020-12-06T13:17:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/hugotips/using-bootstrap-in-markdown/</loc>
+    <lastmod>2020-12-06T13:17:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/github/</loc>
     <lastmod>2020-12-04T22:54:50+00:00</lastmod>
   </url>
   
@@ -24,11 +44,6 @@
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/hugotips/shortcode-github/</loc>
-    <lastmod>2020-12-04T22:54:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/</loc>
     <lastmod>2020-12-04T22:54:50+00:00</lastmod>
   </url>
   
@@ -93,6 +108,11 @@
   </url>
   
   <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/imgproc/</loc>
+    <lastmod>2020-12-04T22:54:50+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/page-bundle/</loc>
     <lastmod>2020-12-04T22:54:50+00:00</lastmod>
   </url>
@@ -109,6 +129,11 @@
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/regis-philibert/</loc>
+    <lastmod>2020-12-04T22:54:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/table-of-contents/</loc>
     <lastmod>2020-12-04T22:54:50+00:00</lastmod>
   </url>
   
@@ -264,11 +289,6 @@
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/image/</loc>
-    <lastmod>2020-11-28T14:52:35+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/markdown/</loc>
     <lastmod>2020-11-28T14:52:35+00:00</lastmod>
   </url>
   
@@ -530,11 +550,6 @@
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/0744-icon-libraries/</loc>
     <lastmod>2020-11-24T13:49:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/bootstrap/</loc>
-    <lastmod>2020-11-26T13:20:11+00:00</lastmod>
   </url>
   
   <url>

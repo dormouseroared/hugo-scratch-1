@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>shortcode on green | hugo-scratch-1 | 0011</title>
+    <title>shortcode on green | hugo-scratch-1 | 0012</title>
     <link>https://dormouseroared.github.io/hugo-scratch-1/tags/shortcode/</link>
-    <description>Recent content in shortcode on green | hugo-scratch-1 | 0011</description>
+    <description>Recent content in shortcode on green | hugo-scratch-1 | 0012</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Dec 2020 21:55:56 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
@@ -28,6 +28,15 @@ Shortcodes can be used to insert HTML etc into the content.
       <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/relative-link/</guid>
       <description>Create Article Preview in Hugo
 From Jeremy&amp;rsquo;s article  After building this functionality I realized I could create a short code to do a similar thing with relative page links. I created a short code named relativelink.html, in which the .Site.GetPage allows me to fetch a page based on its URL. I then extract the title, image, and description to create my preview. The thumbnail generation produces a slightly wider image and constrains the height as well.</description>
+    </item>
+    
+    <item>
+      <title>Page Resources</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/testbundle/page-resources/</link>
+      <pubDate>Thu, 03 Dec 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/testbundle/page-resources/</guid>
+      <description>At last, we can display an image from this page bundle!  The routine to list out the relative links of any page bundle images has now been added to the single.html template using this code .  Regis Philibert • Hugo Page Resources and how to use them to start with, front matter only contains manually added title and date some random images have now been placed in the first folder, and displayed using new Resources template code in single.</description>
     </item>
     
     <item>

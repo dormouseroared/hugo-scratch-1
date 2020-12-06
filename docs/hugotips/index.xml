@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugotips on green | hugo-scratch-1 | 0011</title>
+    <title>Hugotips on green | hugo-scratch-1 | 0012</title>
     <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/</link>
-    <description>Recent content in Hugotips on green | hugo-scratch-1 | 0011</description>
+    <description>Recent content in Hugotips on green | hugo-scratch-1 | 0012</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Dec 2020 21:55:56 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/hugotips/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Dec 2020 13:17:18 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/hugotips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Bootstrap in Markdown</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/using-bootstrap-in-markdown/</link>
+      <pubDate>Sun, 06 Dec 2020 13:17:18 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/using-bootstrap-in-markdown/</guid>
+      <description>Try some bootstrap in this markdown e.g. grid layout using container, row and col, and a go at putting a border round each cell.</description>
+    </item>
+    
     <item>
       <title>Shortcode Github</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/shortcode-github/</link>
@@ -36,7 +45,8 @@ From Jeremy&amp;rsquo;s article  After building this functionality I realized I 
       <pubDate>Fri, 04 Dec 2020 12:31:28 +0000</pubDate>
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/featured-image/</guid>
-      <description>Work through an interesting item on the Hugo forum about Featured Image to see what can be understood and applied if possible. This is also the first use of summary in front matter to override the default of first n characters in the post, and should be seen in the single template at the bottom of the page. The template single.html has been left updated with the ability to display the featured_image. Not sure how this relates to page bundles yet, but it will be useful for existing posts. And, still confused about relative links for images.</description>
+      <description>Work through an interesting item on the Hugo forum about &lt;strong&gt;Featured Image&lt;/strong&gt; to see what can be understood and applied if possible. This is also the first use of summary in front matter to override the default of first 70 words in the post, and should be seen in the single template at the bottom of the page. The template single.html has been left updated with the ability to display the featured_image. Not sure how this relates to page bundles yet, but it will be useful for existing posts. And, still confused about relative links for images.
+&lt;strong&gt;Note that summary can contain Markdown&lt;/strong&gt;</description>
     </item>
     
     <item>

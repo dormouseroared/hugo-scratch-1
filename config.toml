@@ -1,11 +1,11 @@
 baseURL = "https://dormouseroared.github.io/hugo-scratch-1/"
 languageCode = "en-us"
-title = "green | hugo-scratch-1 | 0011"
+title = "green | hugo-scratch-1 | 0012"
 publishDir = "docs"
 enableGitInfo = true
 
 [markup.goldmark.renderer]
-unsafe= true
+unsafe= true  # allow HTML in Markdown files
 
 [taxonomies]
   tag = "tags"

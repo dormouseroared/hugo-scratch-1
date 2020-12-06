@@ -1,17 +1,34 @@
 {{ define "main" }}
+<!-- SINGLE PAGE LAYOUT (DEFAULT) -->
+
+<!-- TITLE (Front Matter)-->
 
 <h1>{{ .Title }}</h1>
+
+<!-- DATE-AND-TAGS (partial) -->
+
 {{ partial "date-and-tags.html" . }}
 <br><br>
+
+<!-- FEATURED IMAGE (Front Matter, optional) -->
 
 {{ with .Params.featured_image }}
     <img src="{{ . | absURL}}">
 {{ end }}
 
+<!-- TABLE OF CONTENTS (Front Matter, optional) -->
+
+{{ if (.Params.toc) }}
+	<h3>Table of Contents</h3>
+	{{ .TableOfContents }}
+{{ end }}
+
+<!-- MARKDOWN CONTENT -->
+
 {{ .Content }}
-<!--  -->
-<!-- if this is a page bundle with Resources of type image let's see them-->
-<!--  -->
+
+<!-- DISPLAY IMAGES IF THIS IS A PAGE BUNDLE-->
+
 {{ with .Resources.ByType "image" }}
 <h3>Print out any images in the bundle</h3>
 	<div class="Image">
@@ -20,9 +37,9 @@
 	{{ end }}
 	</div>
 {{ end }}
-<!--  -->
-<!-- print out the relative links for all images in this bundle -->
-<!--  -->
+
+<!-- AND LINKS FOR ANY PAGE BUNDLE IMAGES -->
+
 {{ with .Resources.ByType "image" }}
 <h3>Image Bundle found:</h3>
 	<ul>
@@ -32,30 +49,23 @@
 	</ul>
 {{ end }}
 
+<!-- RELATED LINKS -->
+
 {{ partial "related.html" . }}
 
+<!-- BREADCRUMB -->
 
-<em>Draft: {{ .Draft }}</em>
-<hr>
-<em>Last update: {{ .Lastmod }}</em>
-<hr>
-<em>Rating: {{ .Params.Rating }}</em>
-<hr>
-<em>Kind: {{ .Kind }}</em>
-<hr>
-<em>Summary: {{ .Summary }}</em>
-<hr>
-<em>featured_image: {{ .Params.featured_image }}</em>
-<hr>
-<em>resources: {{ .Resources }}</em>
-<hr>
-<em>slug: {{ .Slug }}</em>
-<hr>
-<em>type: {{ .Type }}</em>
-<hr>
-<em>url: {{ .URL }}</em>
-<hr>
-<em>Next and previous could go here</em>
+<h3>Breadcrumb</h3>
+{{ partial "breadcrumb.html" . }}
+
+<!-- DEBUG (partial, Front Matter, optional) -->
+
+{{ if (.Params.debug) }}
+	<h3>Debug (single)</h3>
+	{{ partial "debug-single.html" . }}
+{{ end }}
+
+<!-- MERMAID (Front Matter, optional) -->
 
 {{ if (.Params.mermaid) }}
 <!-- MermaidJS support -->

@@ -3,7 +3,9 @@ title: "Featured Image"
 date: 2020-12-04T12:31:28Z
 tags: ["featured image", summary, absURL, "Hugo Forum"]
 draft: false
-summary: "Work through an interesting item on the Hugo forum about Featured Image to see what can be understood and applied if possible. This is also the first use of summary in front matter to override the default of first n characters in the post, and should be seen in the single template at the bottom of the page. The template single.html has been left updated with the ability to display the featured_image. Not sure how this relates to page bundles yet, but it will be useful for existing posts. And, still confused about relative links for images."
+summary: "Work through an interesting item on the Hugo forum about **Featured Image** to see what can be understood and applied if possible. This is also the first use of summary in front matter to override the default of first 70 words in the post, and should be seen in the single template at the bottom of the page. The template single.html has been left updated with the ability to display the featured_image. Not sure how this relates to page bundles yet, but it will be useful for existing posts. And, still confused about relative links for images. 
+
+**Note that summary can contain Markdown**"
 featured_image: "img/test.png"
 image: "/img/test.png"
 description: "How to set up and use a featured image from the static folder at the top of the page."

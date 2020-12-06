@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bootstrap on green | hugo-scratch-1 | 0011</title>
+    <title>bootstrap on green | hugo-scratch-1 | 0012</title>
     <link>https://dormouseroared.github.io/hugo-scratch-1/tags/bootstrap/</link>
-    <description>Recent content in bootstrap on green | hugo-scratch-1 | 0011</description>
+    <description>Recent content in bootstrap on green | hugo-scratch-1 | 0012</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2020 18:23:11 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Dec 2020 13:17:18 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Bootstrap in Markdown</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/using-bootstrap-in-markdown/</link>
+      <pubDate>Sun, 06 Dec 2020 13:17:18 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/hugotips/using-bootstrap-in-markdown/</guid>
+      <description>Try some bootstrap in this markdown e.g. grid layout using container, row and col, and a go at putting a border round each cell.</description>
+    </item>
+    
     <item>
       <title>0744 Icon Libraries</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/0744-icon-libraries/</link>
