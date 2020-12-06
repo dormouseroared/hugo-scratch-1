@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>firefox on green | hugo-scratch-1 | 0012</title>
-    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/firefox/</link>
-    <description>Recent content in firefox on green | hugo-scratch-1 | 0012</description>
+    <title>copy all tab urls on green | hugo-scratch-1 | 0012</title>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/copy-all-tab-urls/</link>
+    <description>Recent content in copy all tab urls on green | hugo-scratch-1 | 0012</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Dec 2020 21:00:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Dec 2020 21:00:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/copy-all-tab-urls/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>URL Save Green</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/testbundle/url-save-green-2020-12-06/</link>
@@ -14,17 +14,6 @@
       
       <guid>https://dormouseroared.github.io/hugo-scratch-1/testbundle/url-save-green-2020-12-06/</guid>
       <description>Bootstrap  Borders · Bootstrap Tables · Bootstrap  Feather Icons  Feather – Simply beautiful open source icons feathericons/feather: Simply beautiful open source icons  Firefox  Keyboard shortcuts - Perform common Firefox tasks quickly | Firefox Help  Git  A Visual Git Reference (554) Introduction to Git - Core Concepts - YouTube (554) Git Tutorial: How to Undo Git Commits, Rename a Git Branch and Checkout a Previous Commit - YouTube (554) git diff - YouTube Git Essentials for Beginners | PäksTech (554) Git Tutorial Part 4: GitHub (Pushing to a Server) - YouTube (562) how to publish a website for FREE !</description>
-    </item>
-    
-    <item>
-      <title>0738 Firefox Multi Account Containers</title>
-      <link>https://dormouseroared.github.io/hugo-scratch-1/0738-firefox-multi-account-containers/</link>
-      <pubDate>Sun, 22 Nov 2020 18:29:14 +0000</pubDate>
-      
-      <guid>https://dormouseroared.github.io/hugo-scratch-1/0738-firefox-multi-account-containers/</guid>
-      <description>Control + FULL STOP For the MAC control panel
-Control + Shift + [number between 0 and 9] For a new tab in the chosen container (configurable)
-Right click inside a container tab To assign the site to always open in the container.</description>
     </item>
     
   </channel>
