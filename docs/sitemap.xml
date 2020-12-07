@@ -3,53 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/bootstrap/</loc>
-    <lastmod>2020-12-06T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/copy-all-tab-urls/</loc>
-    <lastmod>2020-12-06T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/feather-icons/</loc>
-    <lastmod>2020-12-06T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/firefox/</loc>
-    <lastmod>2020-12-06T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/git/</loc>
-    <lastmod>2020-12-06T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/</loc>
-    <lastmod>2020-12-06T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/hugo/</loc>
-    <lastmod>2020-12-06T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/</loc>
-    <lastmod>2020-12-06T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/testbundle/url-save-green-2020-12-06/</loc>
-    <lastmod>2020-12-06T21:00:00+00:00</lastmod>
+    <lastmod>2020-12-07T10:08:57+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/hugotips/</loc>
-    <lastmod>2020-12-06T14:00:19+00:00</lastmod>
+    <lastmod>2020-12-07T10:08:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/shortcode/</loc>
+    <lastmod>2020-12-07T10:08:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/hugotips/shortcode-tweetable-featured-quote/</loc>
+    <lastmod>2020-12-07T10:08:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/</loc>
+    <lastmod>2020-12-07T10:08:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/tweetablequote/</loc>
+    <lastmod>2020-12-07T10:08:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/twitter/</loc>
+    <lastmod>2020-12-07T10:08:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/bootstrap/</loc>
+    <lastmod>2020-12-06T22:01:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/copy-all-tab-urls/</loc>
+    <lastmod>2020-12-06T22:01:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/feather-icons/</loc>
+    <lastmod>2020-12-06T22:01:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/firefox/</loc>
+    <lastmod>2020-12-06T22:01:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/git/</loc>
+    <lastmod>2020-12-06T22:01:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/hugo/</loc>
+    <lastmod>2020-12-06T22:01:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dormouseroared.github.io/hugo-scratch-1/testbundle/url-save-green-2020-12-06/</loc>
+    <lastmod>2020-12-06T22:01:14+00:00</lastmod>
   </url>
   
   <url>
@@ -65,11 +85,6 @@
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/github/</loc>
     <lastmod>2020-12-04T22:54:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/shortcode/</loc>
-    <lastmod>2020-12-06T14:00:19+00:00</lastmod>
   </url>
   
   <url>
@@ -714,11 +729,6 @@
   
   <url>
     <loc>https://dormouseroared.github.io/hugo-scratch-1/hugotips/shortcode-for-tweet/</loc>
-    <lastmod>2020-11-17T15:17:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dormouseroared.github.io/hugo-scratch-1/tags/twitter/</loc>
     <lastmod>2020-11-17T15:17:45+00:00</lastmod>
   </url>
   

@@ -71,6 +71,7 @@ draft: false
 * [Hugo: Leaf and Branch Bundles ❚ A Scripter's Notes](https://scripter.co/hugo-leaf-and-branch-bundles/)
 * [Going static with Hugo](https://www.michaelbromley.co.uk/blog/going-static-with-hugo/)
 * [Jekyll to Hugo Netlify](https://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/)
+* [Brian Li &bull; Intersting blogs about Hugo etc](https://brianli.com/tag/hugo/)
 ## Leaflet
 * [(558) boston map - YouTube](https://www.youtube.com/results?search_query=boston+map)
 * [Adding data to Leaflet - Introduction to mapping and spatial methods for the humanities](https://ssimpkin.github.io/dhsite2017/adding-data-to-leaflet/)
