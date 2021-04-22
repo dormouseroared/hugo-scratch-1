@@ -6,7 +6,185 @@
     <description>Recent content on green | hugo-scratch-1 | 0013</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Dec 2020 10:08:57 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0836 Gatsby master class</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0836-gatsby-master-class/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0836-gatsby-master-class/</guid>
+      <description>link: 
+After this, decided to remove Gatsby from Windows, and go back to JavaScript, Eleventy and Hugo.</description>
+    </item>
+    
+    <item>
+      <title>0824 define react components with class or function</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0824-react-class-or-function/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0824-react-class-or-function/</guid>
+      <description>link: 
+Defining React components.</description>
+    </item>
+    
+    <item>
+      <title>0834 gatsby master package</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0834-gatsby-master-package/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0834-gatsby-master-package/</guid>
+      <description>link:</description>
+    </item>
+    
+    <item>
+      <title>0835 gatsby master package part 2</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0835-gatsby-master-package/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0835-gatsby-master-package/</guid>
+      <description>link:</description>
+    </item>
+    
+    <item>
+      <title>0837 Javascript Template Literals JSON to HTML</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0837-javascript-template/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0837-javascript-template/</guid>
+      <description>link: LearnWebCode Youtube JavaScript Template Literals JSON to HTML
+In 40 minutes, the excellent Brad Schiff (LearnWebCode) covers map function, JSON &amp;amp; converts JSON data about pets into style cards.</description>
+    </item>
+    
+    <item>
+      <title>0838 Use Javascript Template to turn JSON into Markdown</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0838-journal-json-markdown/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0838-journal-json-markdown/</guid>
+      <description>link: undefined
+Using the skills learned in 0837, write some JavaScript code to turn a quick JSON list of journal entries into markdown.</description>
+    </item>
+    
+    <item>
+      <title>0831 Gatsby Bootcamp</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0831-gatsby-bootcamp/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0831-gatsby-bootcamp/</guid>
+      <description>link: Andrew Mead
+A good run though using JavaScript, React and Gatsby, at least until Contentful where it goes off the track.</description>
+    </item>
+    
+    <item>
+      <title>0832 Gatsby Bootcamp part 2</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0832-gatsby-bootcamp/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0832-gatsby-bootcamp/</guid>
+      <description>link: Andrew Mead
+A good run though using JavaScript, React and Gatsby, at least until Contentful where it goes off the track.</description>
+    </item>
+    
+    <item>
+      <title>0833 Gatsby Bootcamp part 3</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0833-gatsby-bootcamp/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0833-gatsby-bootcamp/</guid>
+      <description>link: Andrew Mead
+A good run though using JavaScript, React and Gatsby, at least until Contentful where it goes off the track.</description>
+    </item>
+    
+    <item>
+      <title>0830 linux history</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0830-linux-history-size/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0830-linux-history-size/</guid>
+      <description>link: 
+Increasing the history size.</description>
+    </item>
+    
+    <item>
+      <title>0829 Secrets of the JavaScript Ninja by John Resig et al</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0829-secrets-javascript-ninja-book/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0829-secrets-javascript-ninja-book/</guid>
+      <description>link: 
+This book gives some insight into JavaScript.</description>
+    </item>
+    
+    <item>
+      <title>0828 map of a javascript array</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0828-map-javascript-array/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0828-map-javascript-array/</guid>
+      <description>link: All Things JavaScript youtube video
+One of a small number of places to find JavaScript fragments to work through and adapt that are well explained, clear speech, etc.</description>
+    </item>
+    
+    <item>
+      <title>0827 Youtube channel All Things JavaScript</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0827-all-things-javascript/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0827-all-things-javascript/</guid>
+      <description>link: All Things JavaScript
+One of a small number of places to find JavaScript fragments to work through and adapt that are well explained, clear speech, etc.</description>
+    </item>
+    
+    <item>
+      <title>0826 javascript program to convert saved open firefox tabs for markdown</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0826-javascript-convert-tabs-markdown/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0826-javascript-convert-tabs-markdown/</guid>
+      <description>link: 
+Small javascript program for node on green using regex to add the bullet markup to the tabs saved by firefox extension.</description>
+    </item>
+    
+    <item>
+      <title>0825 Directory Opus new buttons for setting class</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0825-dopus-status-checked-button/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0825-dopus-status-checked-button/</guid>
+      <description>link: 
+New button for directory opus to set the green tick mark for status, plus making the column visible.</description>
+    </item>
+    
+    <item>
+      <title>0823 codesmith challenge</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0823-challenge-either-filter/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0823-challenge-either-filter/</guid>
+      <description>link: Codesmith Challenge
+Trying out one of the Codesmith challenges.</description>
+    </item>
+    
+    <item>
+      <title>0822 function composition with reduce</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0822-javascript-functions-reduce/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0822-javascript-functions-reduce/</guid>
+      <description>link: 
+Will Sentance in Hard Parts, Functional JS Foundations.</description>
+    </item>
+    
+    <item>
+      <title>0821 Ramda series introduction</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0821-ramda/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0821-ramda/</guid>
+      <description>link: Github for knowthen ramda tutorial
+Youtube video watched by knowthen. There are 10 videos in the series.</description>
+    </item>
+    
     <item>
       <title>Shortcode Tweetable Featured Quote</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/hugotips/shortcode-tweetable-featured-quote/</link>

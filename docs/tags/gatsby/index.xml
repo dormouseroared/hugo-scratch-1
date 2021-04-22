@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gatsby on green | hugo-scratch-1 | 0013</title>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/gatsby/</link>
+    <description>Recent content in gatsby on green | hugo-scratch-1 | 0013</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/gatsby/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0836 Gatsby master class</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0836-gatsby-master-class/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0836-gatsby-master-class/</guid>
+      <description>link: 
+After this, decided to remove Gatsby from Windows, and go back to JavaScript, Eleventy and Hugo.</description>
+    </item>
+    
+    <item>
+      <title>0834 gatsby master package</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0834-gatsby-master-package/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0834-gatsby-master-package/</guid>
+      <description>link:</description>
+    </item>
+    
+    <item>
+      <title>0835 gatsby master package part 2</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0835-gatsby-master-package/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0835-gatsby-master-package/</guid>
+      <description>link:</description>
+    </item>
+    
+    <item>
+      <title>0831 Gatsby Bootcamp</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0831-gatsby-bootcamp/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0831-gatsby-bootcamp/</guid>
+      <description>link: Andrew Mead
+A good run though using JavaScript, React and Gatsby, at least until Contentful where it goes off the track.</description>
+    </item>
+    
+    <item>
+      <title>0832 Gatsby Bootcamp part 2</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0832-gatsby-bootcamp/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0832-gatsby-bootcamp/</guid>
+      <description>link: Andrew Mead
+A good run though using JavaScript, React and Gatsby, at least until Contentful where it goes off the track.</description>
+    </item>
+    
+    <item>
+      <title>0833 Gatsby Bootcamp part 3</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0833-gatsby-bootcamp/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0833-gatsby-bootcamp/</guid>
+      <description>link: Andrew Mead
+A good run though using JavaScript, React and Gatsby, at least until Contentful where it goes off the track.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,7 +6,17 @@
     <description>Recent content in Journal on green | hugo-scratch-1 | 0013</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2020 17:43:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/journal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0838 Use Javascript Template to turn JSON into Markdown</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0838-journal-json-markdown/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0838-journal-json-markdown/</guid>
+      <description>link: undefined
+Using the skills learned in 0837, write some JavaScript code to turn a quick JSON list of journal entries into markdown.</description>
+    </item>
+    
     <item>
       <title>0728 Hugo Journal</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/0728-hugo-journal/</link>

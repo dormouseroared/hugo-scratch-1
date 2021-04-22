@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>array on green | hugo-scratch-1 | 0013</title>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/array/</link>
+    <description>Recent content in array on green | hugo-scratch-1 | 0013</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/array/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0828 map of a javascript array</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0828-map-javascript-array/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0828-map-javascript-array/</guid>
+      <description>link: All Things JavaScript youtube video
+One of a small number of places to find JavaScript fragments to work through and adapt that are well explained, clear speech, etc.</description>
+    </item>
+    
+    <item>
+      <title>0827 Youtube channel All Things JavaScript</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0827-all-things-javascript/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0827-all-things-javascript/</guid>
+      <description>link: All Things JavaScript
+One of a small number of places to find JavaScript fragments to work through and adapt that are well explained, clear speech, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

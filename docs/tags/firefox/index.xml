@@ -6,7 +6,17 @@
     <description>Recent content in firefox on green | hugo-scratch-1 | 0013</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Dec 2020 21:00:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0826 javascript program to convert saved open firefox tabs for markdown</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0826-javascript-convert-tabs-markdown/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0826-javascript-convert-tabs-markdown/</guid>
+      <description>link: 
+Small javascript program for node on green using regex to add the bullet markup to the tabs saved by firefox extension.</description>
+    </item>
+    
     <item>
       <title>URL Save Green</title>
       <link>https://dormouseroared.github.io/hugo-scratch-1/testbundle/url-save-green-2020-12-06/</link>

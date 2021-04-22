@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>andrewmead on green | hugo-scratch-1 | 0013</title>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/andrewmead/</link>
+    <description>Recent content in andrewmead on green | hugo-scratch-1 | 0013</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/andrewmead/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0831 Gatsby Bootcamp</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0831-gatsby-bootcamp/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0831-gatsby-bootcamp/</guid>
+      <description>link: Andrew Mead
+A good run though using JavaScript, React and Gatsby, at least until Contentful where it goes off the track.</description>
+    </item>
+    
+    <item>
+      <title>0832 Gatsby Bootcamp part 2</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0832-gatsby-bootcamp/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0832-gatsby-bootcamp/</guid>
+      <description>link: Andrew Mead
+A good run though using JavaScript, React and Gatsby, at least until Contentful where it goes off the track.</description>
+    </item>
+    
+    <item>
+      <title>0833 Gatsby Bootcamp part 3</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0833-gatsby-bootcamp/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0833-gatsby-bootcamp/</guid>
+      <description>link: Andrew Mead
+A good run though using JavaScript, React and Gatsby, at least until Contentful where it goes off the track.</description>
+    </item>
+    
+  </channel>
+</rss>

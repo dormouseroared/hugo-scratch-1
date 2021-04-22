@@ -7,7 +7,9 @@ cover:  ""
 tags:  ["youtube", "RSS", "the old reader"]
 description:  "Set up RSS feed for youtube channels"
 showFullContent:  false
+rating: 5
 ---
+{{< star5 >}}
 
 # RESULT
 

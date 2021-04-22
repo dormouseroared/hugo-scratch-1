@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ninja on green | hugo-scratch-1 | 0013</title>
+    <link>https://dormouseroared.github.io/hugo-scratch-1/tags/ninja/</link>
+    <description>Recent content in ninja on green | hugo-scratch-1 | 0013</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dormouseroared.github.io/hugo-scratch-1/tags/ninja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0829 Secrets of the JavaScript Ninja by John Resig et al</title>
+      <link>https://dormouseroared.github.io/hugo-scratch-1/0829-secrets-javascript-ninja-book/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormouseroared.github.io/hugo-scratch-1/0829-secrets-javascript-ninja-book/</guid>
+      <description>link: 
+This book gives some insight into JavaScript.</description>
+    </item>
+    
+  </channel>
+</rss>
