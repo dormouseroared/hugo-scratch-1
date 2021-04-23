@@ -21,3 +21,9 @@ https://www.youtube.com/feeds/videos.xml?channel_id=
 
 
 https://www.youtube.com/feeds/videos.xml?user=
+
+## and if these don't work
+
+A third format is also used. If neither of the above methods work, copy and paste the 
+whole address of the youtube channel home page into the subscriptionm as per 
+[RSS Feed Youtube Channel](https://danielmiessler.com/blog/rss-feed-youtube-channel/)

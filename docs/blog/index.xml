@@ -529,7 +529,8 @@ Status Individual files from youtube downloaded ok but no luck with playlists.</
       <description>RESULT Some youtube channels have channel, others have user&amp;hellip;
 A number have been set up in the old reader.
 https://www.youtube.com/feeds/videos.xml?channel_id=
-https://www.youtube.com/feeds/videos.xml?user=</description>
+https://www.youtube.com/feeds/videos.xml?user=
+and if these don&amp;rsquo;t work A third format is also used. If neither of the above methods work, copy and paste the whole address of the youtube channel home page into the subscriptionm as per RSS Feed Youtube Channel</description>
     </item>
     
     <item>
